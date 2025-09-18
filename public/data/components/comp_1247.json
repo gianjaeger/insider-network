@@ -1,0 +1,1 @@
+{"id":1247,"nodes":[{"id":"paglia john kenneth","label":"paglia john kenneth","degree":1,"companies":["SLP"],"x":0.0,"y":1.0},{"id":"weiner daniel l","label":"weiner daniel l","degree":1,"companies":["SLP"],"x":1.0,"y":0.0}],"edges":[{"source":"paglia john kenneth","target":"weiner daniel l","similarity":0.740132,"companies":["SLP"]}]}

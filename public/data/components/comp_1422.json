@@ -1,0 +1,1 @@
+{"id":1422,"nodes":[{"id":"shelton ron","label":"shelton ron","degree":1,"companies":["IOTS"],"x":0.0,"y":1.0},{"id":"spade thomas d","label":"spade thomas d","degree":1,"companies":["IOTS"],"x":1.0,"y":0.0}],"edges":[{"source":"shelton ron","target":"spade thomas d","similarity":0.704663,"companies":["IOTS"]}]}

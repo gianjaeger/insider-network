@@ -1,0 +1,1 @@
+{"id":1333,"nodes":[{"id":"mason linda a","label":"mason linda a","degree":1,"companies":["BFAM"],"x":0.0,"y":1.0},{"id":"brown roger h","label":"brown roger h","degree":1,"companies":["BFAM"],"x":1.0,"y":0.0}],"edges":[{"source":"mason linda a","target":"brown roger h","similarity":1.0,"companies":["BFAM"]}]}

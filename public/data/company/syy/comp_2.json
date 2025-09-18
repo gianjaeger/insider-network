@@ -1,0 +1,1 @@
+{"id":2,"company":"SYY","nodes":[{"id":"peltz nelson","label":"peltz nelson","degree":1,"x":0.0,"y":1.0},{"id":"frank joshua d.","label":"frank joshua d.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"peltz nelson","target":"frank joshua d.","similarity":1.0}]}

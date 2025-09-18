@@ -1,0 +1,1 @@
+{"id":1,"company":"ZNGA","nodes":[{"id":"dugan regina e","label":"dugan regina e","degree":1,"x":0.0,"y":1.0},{"id":"siminoff ellen f","label":"siminoff ellen f","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"dugan regina e","target":"siminoff ellen f","similarity":0.736947}]}

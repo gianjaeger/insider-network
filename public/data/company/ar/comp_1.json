@@ -1,0 +1,1 @@
+{"id":1,"company":"AR","nodes":[{"id":"kagan peter","label":"kagan peter","degree":1,"x":0.0,"y":1.0},{"id":"levy james r.","label":"levy james r.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"kagan peter","target":"levy james r.","similarity":1.0}]}

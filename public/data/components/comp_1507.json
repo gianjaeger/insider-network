@@ -1,0 +1,1 @@
+{"id":1507,"nodes":[{"id":"faith brian c","label":"faith brian c","degree":1,"companies":["QUIK"],"x":0.0,"y":1.0},{"id":"saxe timothy","label":"saxe timothy","degree":1,"companies":["QUIK"],"x":1.0,"y":0.0}],"edges":[{"source":"faith brian c","target":"saxe timothy","similarity":0.826389,"companies":["QUIK"]}]}

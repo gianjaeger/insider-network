@@ -1,0 +1,1 @@
+{"id":1312,"nodes":[{"id":"lutz robert s","label":"lutz robert s","degree":1,"companies":["DHR"],"x":0.0,"y":1.0},{"id":"comas daniel l","label":"comas daniel l","degree":1,"companies":["DHR"],"x":1.0,"y":0.0}],"edges":[{"source":"lutz robert s","target":"comas daniel l","similarity":0.847381,"companies":["DHR"]}]}

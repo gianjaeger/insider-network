@@ -1,0 +1,1 @@
+{"id":0,"company":"BCOV","nodes":[{"id":"noreck robert","label":"noreck robert","degree":1,"x":0.0,"y":1.0},{"id":"plotkin david","label":"plotkin david","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"noreck robert","target":"plotkin david","similarity":0.925974}]}

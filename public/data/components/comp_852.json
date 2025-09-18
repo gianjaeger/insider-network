@@ -1,0 +1,1 @@
+{"id":852,"nodes":[{"id":"cashen susan","label":"cashen susan","degree":1,"companies":["CTRL"],"x":0.0,"y":1.0},{"id":"judd bryce","label":"judd bryce","degree":1,"companies":["CTRL"],"x":1.0,"y":0.0}],"edges":[{"source":"cashen susan","target":"judd bryce","similarity":0.806988,"companies":["CTRL"]}]}

@@ -1,0 +1,1 @@
+{"id":988,"nodes":[{"id":"shi yuzhu","label":"shi yuzhu","degree":1,"companies":["PLTK"],"x":0.0,"y":1.0},{"id":"jing shi","label":"jing shi","degree":1,"companies":["PLTK"],"x":1.0,"y":0.0}],"edges":[{"source":"shi yuzhu","target":"jing shi","similarity":1.0,"companies":["PLTK"]}]}

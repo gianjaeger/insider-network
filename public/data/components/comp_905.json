@@ -1,0 +1,1 @@
+{"id":905,"nodes":[{"id":"colvin donald a","label":"colvin donald a","degree":1,"companies":["VIAV"],"x":0.0,"y":1.0},{"id":"braham tor","label":"braham tor","degree":1,"companies":["VIAV"],"x":1.0,"y":0.0}],"edges":[{"source":"colvin donald a","target":"braham tor","similarity":1.0,"companies":["VIAV"]}]}

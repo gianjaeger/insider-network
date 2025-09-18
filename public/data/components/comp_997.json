@@ -1,0 +1,1 @@
+{"id":997,"nodes":[{"id":"rocker kenyatta g","label":"rocker kenyatta g","degree":1,"companies":["UNP"],"x":0.0,"y":1.0},{"id":"rynaski todd m.","label":"rynaski todd m.","degree":1,"companies":["UNP"],"x":1.0,"y":0.0}],"edges":[{"source":"rocker kenyatta g","target":"rynaski todd m.","similarity":0.72,"companies":["UNP"]}]}

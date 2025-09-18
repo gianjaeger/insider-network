@@ -1,0 +1,1 @@
+{"id":0,"company":"CRTG","nodes":[{"id":"calton simon","label":"calton simon","degree":1,"x":0.0,"y":1.0},{"id":"keen victor f","label":"keen victor f","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"calton simon","target":"keen victor f","similarity":0.90625}]}

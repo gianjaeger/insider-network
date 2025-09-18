@@ -1,0 +1,1 @@
+{"id":1,"company":"UBER","nodes":[{"id":"camp garrett","label":"camp garrett","degree":1,"x":0.0,"y":1.0},{"id":"kalanick travis cordell","label":"kalanick travis cordell","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"camp garrett","target":"kalanick travis cordell","similarity":0.870536}]}

@@ -1,0 +1,1 @@
+{"id":1,"company":"A","nodes":[{"id":"hirsch didier","label":"hirsch didier","degree":1,"x":0.0,"y":1.0},{"id":"kaltenbach patrick","label":"kaltenbach patrick","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"hirsch didier","target":"kaltenbach patrick","similarity":0.732196}]}

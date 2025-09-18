@@ -1,0 +1,1 @@
+{"id":1439,"nodes":[{"id":"deckelman william l jr","label":"deckelman william l jr","degree":1,"companies":["DXC"],"x":0.0,"y":1.0},{"id":"saleh paul n","label":"saleh paul n","degree":1,"companies":["DXC"],"x":1.0,"y":0.0}],"edges":[{"source":"deckelman william l jr","target":"saleh paul n","similarity":0.818519,"companies":["DXC"]}]}

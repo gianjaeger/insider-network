@@ -1,0 +1,1 @@
+{"id":0,"company":"SNAP","nodes":[{"id":"gorman jeremi","label":"gorman jeremi","degree":1,"x":0.0,"y":1.0},{"id":"grusd jared","label":"grusd jared","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"gorman jeremi","target":"grusd jared","similarity":0.803408}]}

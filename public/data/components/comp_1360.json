@@ -1,0 +1,1 @@
+{"id":1360,"nodes":[{"id":"gleason george g ii","label":"gleason george g ii","degree":1,"companies":["OZRK"],"x":0.0,"y":1.0},{"id":"gleason linda d","label":"gleason linda d","degree":1,"companies":["OZRK"],"x":1.0,"y":0.0}],"edges":[{"source":"gleason george g ii","target":"gleason linda d","similarity":1.0,"companies":["OZRK"]}]}

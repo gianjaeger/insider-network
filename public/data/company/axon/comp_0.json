@@ -1,0 +1,1 @@
+{"id":0,"company":"AXON","nodes":[{"id":"isner joshua","label":"isner joshua","degree":1,"x":0.0,"y":1.0},{"id":"kunins jeffrey c","label":"kunins jeffrey c","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"isner joshua","target":"kunins jeffrey c","similarity":0.84846}]}

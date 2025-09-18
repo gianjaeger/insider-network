@@ -1,0 +1,1 @@
+{"id":911,"nodes":[{"id":"langbehn kyle","label":"langbehn kyle","degree":1,"companies":["HZO"],"x":0.0,"y":1.0},{"id":"berg shawn","label":"berg shawn","degree":1,"companies":["HZO"],"x":1.0,"y":0.0}],"edges":[{"source":"langbehn kyle","target":"berg shawn","similarity":1.0,"companies":["HZO"]}]}

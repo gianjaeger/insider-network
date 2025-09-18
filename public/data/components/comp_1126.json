@@ -1,0 +1,1 @@
+{"id":1126,"nodes":[{"id":"bacher dror","label":"bacher dror","degree":1,"companies":["DRIO"],"x":0.0,"y":1.0},{"id":"raphael erez","label":"raphael erez","degree":1,"companies":["DRIO"],"x":1.0,"y":0.0}],"edges":[{"source":"bacher dror","target":"raphael erez","similarity":0.952381,"companies":["DRIO"]}]}

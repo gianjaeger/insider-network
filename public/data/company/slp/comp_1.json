@@ -1,0 +1,1 @@
+{"id":1,"company":"SLP","nodes":[{"id":"woltosz virginia e","label":"woltosz virginia e","degree":1,"x":0.0,"y":1.0},{"id":"woltosz walter s","label":"woltosz walter s","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"woltosz virginia e","target":"woltosz walter s","similarity":0.913808}]}

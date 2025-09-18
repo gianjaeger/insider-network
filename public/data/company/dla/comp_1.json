@@ -1,0 +1,1 @@
+{"id":1,"company":"DLA","nodes":[{"id":"humphreys robert w","label":"humphreys robert w","degree":1,"x":0.0,"y":1.0},{"id":"stillwell jeffery neil","label":"stillwell jeffery neil","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"humphreys robert w","target":"stillwell jeffery neil","similarity":0.779018}]}

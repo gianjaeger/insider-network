@@ -1,0 +1,1 @@
+{"id":1323,"nodes":[{"id":"morley christopher","label":"morley christopher","degree":1,"companies":["ZAYO"],"x":0.0,"y":1.0},{"id":"caruso daniel","label":"caruso daniel","degree":1,"companies":["ZAYO"],"x":1.0,"y":0.0}],"edges":[{"source":"morley christopher","target":"caruso daniel","similarity":0.730594,"companies":["ZAYO"]}]}

@@ -1,0 +1,1 @@
+{"id":1219,"nodes":[{"id":"flug sheryl h","label":"flug sheryl h","degree":1,"companies":["SHAK"],"x":0.0,"y":1.0},{"id":"flug jeffrey","label":"flug jeffrey","degree":1,"companies":["SHAK"],"x":1.0,"y":0.0}],"edges":[{"source":"flug sheryl h","target":"flug jeffrey","similarity":0.85124,"companies":["SHAK"]}]}

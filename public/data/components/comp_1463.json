@@ -1,0 +1,1 @@
+{"id":1463,"nodes":[{"id":"higgins thomas t","label":"higgins thomas t","degree":1,"companies":["NURO"],"x":0.0,"y":1.0},{"id":"gozani shai","label":"gozani shai","degree":1,"companies":["NURO"],"x":1.0,"y":0.0}],"edges":[{"source":"higgins thomas t","target":"gozani shai","similarity":0.814076,"companies":["NURO"]}]}

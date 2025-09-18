@@ -1,0 +1,1 @@
+{"id":1,"company":"MTD","nodes":[{"id":"finney elisha w","label":"finney elisha w","degree":1,"x":0.0,"y":1.0},{"id":"francis richard d","label":"francis richard d","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"finney elisha w","target":"francis richard d","similarity":0.764021}]}

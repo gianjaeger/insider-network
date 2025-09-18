@@ -1,0 +1,1 @@
+{"id":1353,"nodes":[{"id":"sutter howard w","label":"sutter howard w","degree":1,"companies":["kfrc"],"x":0.0,"y":1.0},{"id":"cocchiaro richard m","label":"cocchiaro richard m","degree":1,"companies":["kfrc"],"x":1.0,"y":0.0}],"edges":[{"source":"sutter howard w","target":"cocchiaro richard m","similarity":0.716553,"companies":["kfrc"]}]}

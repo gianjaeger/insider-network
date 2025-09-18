@@ -1,0 +1,1 @@
+{"id":864,"nodes":[{"id":"monto richard","label":"monto richard","degree":1,"companies":["IQNT"],"x":0.0,"y":1.0},{"id":"harrington john","label":"harrington john","degree":1,"companies":["IQNT"],"x":1.0,"y":0.0}],"edges":[{"source":"monto richard","target":"harrington john","similarity":0.839643,"companies":["IQNT"]}]}

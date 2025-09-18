@@ -1,0 +1,1 @@
+{"id":2,"company":"HLX","nodes":[{"id":"lovoi john","label":"lovoi john","degree":1,"x":0.0,"y":1.0},{"id":"rask jan a","label":"rask jan a","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"lovoi john","target":"rask jan a","similarity":0.830392}]}

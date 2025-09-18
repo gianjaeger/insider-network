@@ -1,0 +1,1 @@
+{"id":2,"company":"NTRS","nodes":[{"id":"parker teresa","label":"parker teresa","degree":1,"x":0.0,"y":1.0},{"id":"levy susan cohen","label":"levy susan cohen","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"parker teresa","target":"levy susan cohen","similarity":0.81}]}

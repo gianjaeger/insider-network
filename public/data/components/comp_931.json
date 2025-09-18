@@ -1,0 +1,1 @@
+{"id":931,"nodes":[{"id":"furlong mark f","label":"furlong mark f","degree":1,"companies":["KFRC"],"x":0.0,"y":1.0},{"id":"simmons n john","label":"simmons n john","degree":1,"companies":["KFRC"],"x":1.0,"y":0.0}],"edges":[{"source":"furlong mark f","target":"simmons n john","similarity":0.727273,"companies":["KFRC"]}]}

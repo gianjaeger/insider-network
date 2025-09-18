@@ -1,0 +1,1 @@
+{"id":1186,"nodes":[{"id":"kalsu james barton","label":"kalsu james barton","degree":1,"companies":["SWI"],"x":0.0,"y":1.0},{"id":"bliss jason","label":"bliss jason","degree":1,"companies":["SWI"],"x":1.0,"y":0.0}],"edges":[{"source":"kalsu james barton","target":"bliss jason","similarity":0.767173,"companies":["SWI"]}]}

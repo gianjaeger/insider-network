@@ -1,0 +1,1 @@
+{"id":0,"company":"CMTL","nodes":[{"id":"bondi michael","label":"bondi michael","degree":1,"x":0.0,"y":1.0},{"id":"stallone nancy","label":"stallone nancy","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"bondi michael","target":"stallone nancy","similarity":0.738095}]}

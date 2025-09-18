@@ -1,0 +1,1 @@
+{"id":0,"company":"NEWS","nodes":[{"id":"frishkopf john j","label":"frishkopf john j","degree":1,"x":0.0,"y":1.0},{"id":"schmidt-fellner peter a","label":"schmidt-fellner peter a","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"frishkopf john j","target":"schmidt-fellner peter a","similarity":0.752381}]}

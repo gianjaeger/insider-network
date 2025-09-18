@@ -1,0 +1,1 @@
+{"id":1479,"nodes":[{"id":"ogur scott matthew","label":"ogur scott matthew","degree":1,"companies":["HLIX"],"x":0.0,"y":1.0},{"id":"venegas zachary l","label":"venegas zachary l","degree":1,"companies":["HLIX"],"x":1.0,"y":0.0}],"edges":[{"source":"ogur scott matthew","target":"venegas zachary l","similarity":1.0,"companies":["HLIX"]}]}

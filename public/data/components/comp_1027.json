@@ -1,0 +1,1 @@
+{"id":1027,"nodes":[{"id":"heaton michael r","label":"heaton michael r","degree":1,"companies":["MKL"],"x":0.0,"y":1.0},{"id":"noble jeremy andrew","label":"noble jeremy andrew","degree":1,"companies":["MKL"],"x":1.0,"y":0.0}],"edges":[{"source":"heaton michael r","target":"noble jeremy andrew","similarity":0.823529,"companies":["MKL"]}]}

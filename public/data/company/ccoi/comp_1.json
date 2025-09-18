@@ -1,0 +1,1 @@
+{"id":1,"company":"CCOI","nodes":[{"id":"weingarten tim","label":"weingarten tim","degree":1,"x":0.0,"y":1.0},{"id":"liebhaber richard","label":"liebhaber richard","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"weingarten tim","target":"liebhaber richard","similarity":0.754464}]}

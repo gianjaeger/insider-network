@@ -1,0 +1,1 @@
+{"id":930,"nodes":[{"id":"eccher james","label":"eccher james","degree":1,"companies":["OSBC"],"x":0.0,"y":1.0},{"id":"pilmer donald","label":"pilmer donald","degree":1,"companies":["OSBC"],"x":1.0,"y":0.0}],"edges":[{"source":"eccher james","target":"pilmer donald","similarity":0.717087,"companies":["OSBC"]}]}

@@ -1,0 +1,1 @@
+{"id":0,"company":"RUSHA","nodes":[{"id":"keller steven l","label":"keller steven l","degree":1,"x":0.0,"y":1.0},{"id":"rush william m rusty","label":"rush william m rusty","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"keller steven l","target":"rush william m rusty","similarity":0.741071}]}

@@ -1,0 +1,1 @@
+{"id":908,"nodes":[{"id":"ebling keith j.","label":"ebling keith j.","degree":1,"companies":["XRAY"],"x":0.0,"y":1.0},{"id":"petersohn walter","label":"petersohn walter","degree":1,"companies":["XRAY"],"x":1.0,"y":0.0}],"edges":[{"source":"ebling keith j.","target":"petersohn walter","similarity":0.738473,"companies":["XRAY"]}]}

@@ -1,0 +1,1 @@
+{"id":0,"company":"HCOM","nodes":[{"id":"mellinger paul","label":"mellinger paul","degree":1,"x":0.0,"y":1.0},{"id":"webster robert","label":"webster robert","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"mellinger paul","target":"webster robert","similarity":1.0}]}

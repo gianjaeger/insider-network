@@ -1,0 +1,1 @@
+{"id":880,"nodes":[{"id":"bae joseph y","label":"bae joseph y","degree":1,"companies":["KKR"],"x":0.0,"y":1.0},{"id":"nuttall scott c","label":"nuttall scott c","degree":1,"companies":["KKR"],"x":1.0,"y":0.0}],"edges":[{"source":"bae joseph y","target":"nuttall scott c","similarity":0.880952,"companies":["KKR"]}]}

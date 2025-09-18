@@ -1,0 +1,1 @@
+{"id":1225,"nodes":[{"id":"roberto joseph d.","label":"roberto joseph d.","degree":1,"companies":["PCSB"],"x":0.0,"y":1.0},{"id":"goldrick michael p","label":"goldrick michael p","degree":1,"companies":["PCSB"],"x":1.0,"y":0.0}],"edges":[{"source":"roberto joseph d.","target":"goldrick michael p","similarity":0.760417,"companies":["PCSB"]}]}

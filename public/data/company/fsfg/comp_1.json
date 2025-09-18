@@ -1,0 +1,1 @@
+{"id":1,"company":"FSFG","nodes":[{"id":"york douglas a","label":"york douglas a","degree":1,"x":0.0,"y":1.0},{"id":"journell jacqueline r","label":"journell jacqueline r","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"york douglas a","target":"journell jacqueline r","similarity":0.732653}]}

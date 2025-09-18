@@ -1,0 +1,1 @@
+{"id":875,"nodes":[{"id":"murray ryan h","label":"murray ryan h","degree":1,"companies":["AVID"],"x":0.0,"y":1.0},{"id":"duva jason a","label":"duva jason a","degree":1,"companies":["AVID"],"x":1.0,"y":0.0}],"edges":[{"source":"murray ryan h","target":"duva jason a","similarity":0.739985,"companies":["AVID"]}]}

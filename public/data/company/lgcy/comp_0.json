@@ -1,0 +1,1 @@
+{"id":0,"company":"LGCY","nodes":[{"id":"derose robert","label":"derose robert","degree":1,"x":0.0,"y":1.0},{"id":"derose susan","label":"derose susan","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"derose robert","target":"derose susan","similarity":1.0}]}

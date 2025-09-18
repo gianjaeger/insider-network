@@ -1,0 +1,1 @@
+{"id":1156,"nodes":[{"id":"fuller wilford h.","label":"fuller wilford h.","degree":1,"companies":["LNC"],"x":0.0,"y":1.0},{"id":"solon kenneth s.","label":"solon kenneth s.","degree":1,"companies":["LNC"],"x":1.0,"y":0.0}],"edges":[{"source":"fuller wilford h.","target":"solon kenneth s.","similarity":0.720865,"companies":["LNC"]}]}

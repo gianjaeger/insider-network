@@ -1,0 +1,1 @@
+{"id":0,"company":"HZN","nodes":[{"id":"bursky andrew m","label":"bursky andrew m","degree":1,"x":0.0,"y":1.0},{"id":"fazio timothy j","label":"fazio timothy j","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"bursky andrew m","target":"fazio timothy j","similarity":1.0}]}

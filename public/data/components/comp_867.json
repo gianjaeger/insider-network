@@ -1,0 +1,1 @@
+{"id":867,"nodes":[{"id":"johnson gregory e","label":"johnson gregory e","degree":1,"companies":["BEN"],"x":0.0,"y":1.0},{"id":"johnson jennifer m","label":"johnson jennifer m","degree":1,"companies":["BEN"],"x":1.0,"y":0.0}],"edges":[{"source":"johnson gregory e","target":"johnson jennifer m","similarity":0.805691,"companies":["BEN"]}]}

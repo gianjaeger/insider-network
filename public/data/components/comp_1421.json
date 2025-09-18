@@ -1,0 +1,1 @@
+{"id":1421,"nodes":[{"id":"aguilar laura k.","label":"aguilar laura k.","degree":1,"companies":["CADL"],"x":0.0,"y":1.0},{"id":"aguilar-cordova estuardo","label":"aguilar-cordova estuardo","degree":1,"companies":["CADL"],"x":1.0,"y":0.0}],"edges":[{"source":"aguilar laura k.","target":"aguilar-cordova estuardo","similarity":1.0,"companies":["CADL"]}]}

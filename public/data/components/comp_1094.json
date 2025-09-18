@@ -1,0 +1,1 @@
+{"id":1094,"nodes":[{"id":"minieri joanne","label":"minieri joanne","degree":1,"companies":["TPHS"],"x":0.0,"y":1.0},{"id":"cohen alan","label":"cohen alan","degree":1,"companies":["TPHS"],"x":1.0,"y":0.0}],"edges":[{"source":"minieri joanne","target":"cohen alan","similarity":0.739401,"companies":["TPHS"]}]}

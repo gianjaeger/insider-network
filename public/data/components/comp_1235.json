@@ -1,0 +1,1 @@
+{"id":1235,"nodes":[{"id":"kramer ronald j","label":"kramer ronald j","degree":1,"companies":["GFF"],"x":0.0,"y":1.0},{"id":"mehmel robert f","label":"mehmel robert f","degree":1,"companies":["GFF"],"x":1.0,"y":0.0}],"edges":[{"source":"kramer ronald j","target":"mehmel robert f","similarity":0.719048,"companies":["GFF"]}]}

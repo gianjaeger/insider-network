@@ -1,0 +1,1 @@
+{"id":843,"nodes":[{"id":"finn brian d","label":"finn brian d","degree":1,"companies":["SMG"],"x":0.0,"y":1.0},{"id":"johnson stephen l","label":"johnson stephen l","degree":1,"companies":["SMG"],"x":1.0,"y":0.0}],"edges":[{"source":"finn brian d","target":"johnson stephen l","similarity":0.701944,"companies":["SMG"]}]}

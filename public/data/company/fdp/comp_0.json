@@ -1,0 +1,1 @@
+{"id":0,"company":"FDP","nodes":[{"id":"abu-ghazaleh mohammad","label":"abu-ghazaleh mohammad","degree":1,"x":0.0,"y":1.0},{"id":"el-naffy hani","label":"el-naffy hani","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"abu-ghazaleh mohammad","target":"el-naffy hani","similarity":0.769496}]}

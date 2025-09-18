@@ -1,0 +1,1 @@
+{"id":0,"company":"EFII","nodes":[{"id":"georgens thomas","label":"georgens thomas","degree":1,"x":0.0,"y":1.0},{"id":"kashnow richard a","label":"kashnow richard a","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"georgens thomas","target":"kashnow richard a","similarity":0.756903}]}

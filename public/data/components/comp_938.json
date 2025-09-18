@@ -1,0 +1,1 @@
+{"id":938,"nodes":[{"id":"packer craig","label":"packer craig","degree":1,"companies":["NONE"],"x":0.0,"y":1.0},{"id":"kirshenbaum alan","label":"kirshenbaum alan","degree":1,"companies":["NONE"],"x":1.0,"y":0.0}],"edges":[{"source":"packer craig","target":"kirshenbaum alan","similarity":0.95,"companies":["NONE"]}]}

@@ -1,0 +1,1 @@
+{"id":1,"company":"IBKR","nodes":[{"id":"frank thomas aj","label":"frank thomas aj","degree":1,"x":0.0,"y":1.0},{"id":"peterffy thomas","label":"peterffy thomas","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"frank thomas aj","target":"peterffy thomas","similarity":0.740623}]}

@@ -1,0 +1,1 @@
+{"id":1433,"nodes":[{"id":"edone ryan","label":"edone ryan","degree":1,"companies":["LGIH"],"x":0.0,"y":1.0},{"id":"smith steven randal","label":"smith steven randal","degree":1,"companies":["LGIH"],"x":1.0,"y":0.0}],"edges":[{"source":"edone ryan","target":"smith steven randal","similarity":0.779762,"companies":["LGIH"]}]}

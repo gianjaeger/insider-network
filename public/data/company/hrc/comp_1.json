@@ -1,0 +1,1 @@
+{"id":1,"company":"HRC","nodes":[{"id":"shader alton","label":"shader alton","degree":1,"x":0.0,"y":1.0},{"id":"strobel steven j","label":"strobel steven j","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"shader alton","target":"strobel steven j","similarity":0.722222}]}

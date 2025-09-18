@@ -1,0 +1,1 @@
+{"id":1491,"nodes":[{"id":"schroeder theodore r","label":"schroeder theodore r","degree":1,"companies":["NBRV"],"x":0.0,"y":1.0},{"id":"gelone steven p.","label":"gelone steven p.","degree":1,"companies":["NBRV"],"x":1.0,"y":0.0}],"edges":[{"source":"schroeder theodore r","target":"gelone steven p.","similarity":0.967742,"companies":["NBRV"]}]}

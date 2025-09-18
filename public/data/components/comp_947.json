@@ -1,0 +1,1 @@
+{"id":947,"nodes":[{"id":"mercier laurent","label":"mercier laurent","degree":1,"companies":["COTY"],"x":0.0,"y":1.0},{"id":"zafar ayesha","label":"zafar ayesha","degree":1,"companies":["COTY"],"x":1.0,"y":0.0}],"edges":[{"source":"mercier laurent","target":"zafar ayesha","similarity":0.756509,"companies":["COTY"]}]}

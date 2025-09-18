@@ -1,0 +1,1 @@
+{"id":0,"company":"HEP","nodes":[{"id":"baldwin larry r","label":"baldwin larry r","degree":1,"x":0.0,"y":1.0},{"id":"lee james h","label":"lee james h","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"baldwin larry r","target":"lee james h","similarity":0.797449}]}

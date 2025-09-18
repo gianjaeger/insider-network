@@ -1,0 +1,1 @@
+{"id":1267,"nodes":[{"id":"kalyana swaminathan ashok","label":"kalyana swaminathan ashok","degree":1,"companies":["ASH"],"x":0.0,"y":1.0},{"id":"chong min","label":"chong min","degree":1,"companies":["ASH"],"x":1.0,"y":0.0}],"edges":[{"source":"kalyana swaminathan ashok","target":"chong min","similarity":0.832407,"companies":["ASH"]}]}

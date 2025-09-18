@@ -1,0 +1,1 @@
+{"id":1,"company":"PFG","nodes":[{"id":"everett nora mary","label":"everett nora mary","degree":1,"x":0.0,"y":1.0},{"id":"shaff karen e","label":"shaff karen e","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"everett nora mary","target":"shaff karen e","similarity":0.791486}]}

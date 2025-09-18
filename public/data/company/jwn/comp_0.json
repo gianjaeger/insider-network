@@ -1,0 +1,1 @@
+{"id":0,"company":"JWN","nodes":[{"id":"nordstrom erik b","label":"nordstrom erik b","degree":1,"x":0.0,"y":1.0},{"id":"nordstrom peter e","label":"nordstrom peter e","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"nordstrom erik b","target":"nordstrom peter e","similarity":0.885611}]}

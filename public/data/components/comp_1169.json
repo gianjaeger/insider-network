@@ -1,0 +1,1 @@
+{"id":1169,"nodes":[{"id":"beedgen christian","label":"beedgen christian","degree":1,"companies":["SUMO"],"x":0.0,"y":1.0},{"id":"sayar ramin","label":"sayar ramin","degree":1,"companies":["SUMO"],"x":1.0,"y":0.0}],"edges":[{"source":"beedgen christian","target":"sayar ramin","similarity":0.739035,"companies":["SUMO"]}]}

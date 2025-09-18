@@ -1,0 +1,1 @@
+{"id":1115,"nodes":[{"id":"okamoto hiroshi","label":"okamoto hiroshi","degree":1,"companies":["SMRT"],"x":0.0,"y":1.0},{"id":"young robyn","label":"young robyn","degree":1,"companies":["SMRT"],"x":1.0,"y":0.0}],"edges":[{"source":"okamoto hiroshi","target":"young robyn","similarity":0.785714,"companies":["SMRT"]}]}

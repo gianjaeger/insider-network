@@ -1,0 +1,1 @@
+{"id":0,"company":"FOUR","nodes":[{"id":"frankel jordan","label":"frankel jordan","degree":1,"x":0.0,"y":1.0},{"id":"lauber david taylor","label":"lauber david taylor","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"frankel jordan","target":"lauber david taylor","similarity":0.769776}]}

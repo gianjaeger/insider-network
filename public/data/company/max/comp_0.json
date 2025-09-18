@@ -1,0 +1,1 @@
+{"id":0,"company":"MAX","nodes":[{"id":"nonko eugene","label":"nonko eugene","degree":1,"x":0.0,"y":1.0},{"id":"yi steven","label":"yi steven","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"nonko eugene","target":"yi steven","similarity":0.958333}]}

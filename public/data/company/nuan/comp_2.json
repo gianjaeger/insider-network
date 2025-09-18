@@ -1,0 +1,1 @@
+{"id":2,"company":"NUAN","nodes":[{"id":"siegel kenneth m","label":"siegel kenneth m","degree":1,"x":0.0,"y":1.0},{"id":"schassler robert c","label":"schassler robert c","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"siegel kenneth m","target":"schassler robert c","similarity":0.864011}]}

@@ -1,0 +1,1 @@
+{"id":0,"company":"DWCH","nodes":[{"id":"eliason james","label":"eliason james","degree":1,"x":0.0,"y":1.0},{"id":"morrison michael anthony","label":"morrison michael anthony","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"eliason james","target":"morrison michael anthony","similarity":0.717474}]}

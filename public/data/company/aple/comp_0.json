@@ -1,0 +1,1 @@
+{"id":0,"company":"APLE","nodes":[{"id":"knight  justin g","label":"knight  justin g","degree":1,"x":0.0,"y":1.0},{"id":"knight nelson","label":"knight nelson","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"knight  justin g","target":"knight nelson","similarity":0.880952}]}

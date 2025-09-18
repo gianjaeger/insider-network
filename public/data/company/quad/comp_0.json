@@ -1,0 +1,1 @@
+{"id":0,"company":"QUAD","nodes":[{"id":"fowler john c","label":"fowler john c","degree":1,"x":0.0,"y":1.0},{"id":"quadracci j joel","label":"quadracci j joel","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"fowler john c","target":"quadracci j joel","similarity":0.949594}]}

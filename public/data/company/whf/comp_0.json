@@ -1,0 +1,1 @@
+{"id":0,"company":"WHF","nodes":[{"id":"mnaymneh sami","label":"mnaymneh sami","degree":1,"x":0.0,"y":1.0},{"id":"tamer anthony","label":"tamer anthony","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"mnaymneh sami","target":"tamer anthony","similarity":1.0}]}

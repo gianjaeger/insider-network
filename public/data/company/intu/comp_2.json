@@ -1,0 +1,1 @@
+{"id":2,"company":"INTU","nodes":[{"id":"mclean kerry j","label":"mclean kerry j","degree":1,"x":0.0,"y":1.0},{"id":"fennell laura a","label":"fennell laura a","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"mclean kerry j","target":"fennell laura a","similarity":0.848745}]}

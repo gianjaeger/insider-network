@@ -1,0 +1,1 @@
+{"id":1,"company":"RBLX","nodes":[{"id":"messing barbara","label":"messing barbara","degree":1,"x":0.0,"y":1.0},{"id":"sturman daniel","label":"sturman daniel","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"messing barbara","target":"sturman daniel","similarity":0.730867}]}

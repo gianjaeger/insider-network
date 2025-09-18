@@ -1,0 +1,1 @@
+{"id":1440,"nodes":[{"id":"sachdev amit","label":"sachdev amit","degree":1,"companies":["VRTX"],"x":0.0,"y":1.0},{"id":"altshuler david","label":"altshuler david","degree":1,"companies":["VRTX"],"x":1.0,"y":0.0}],"edges":[{"source":"sachdev amit","target":"altshuler david","similarity":0.703464,"companies":["VRTX"]}]}

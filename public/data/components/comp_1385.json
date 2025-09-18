@@ -1,0 +1,1 @@
+{"id":1385,"nodes":[{"id":"brock amanda m","label":"brock amanda m","degree":1,"companies":["ARIS"],"x":0.0,"y":1.0},{"id":"zartler william a","label":"zartler william a","degree":1,"companies":["ARIS"],"x":1.0,"y":0.0}],"edges":[{"source":"brock amanda m","target":"zartler william a","similarity":1.0,"companies":["ARIS"]}]}

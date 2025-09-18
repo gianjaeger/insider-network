@@ -1,0 +1,1 @@
+{"id":1,"company":"HEP","nodes":[{"id":"cunningham mark t.","label":"cunningham mark t.","degree":1,"x":0.0,"y":1.0},{"id":"norwood kenneth","label":"norwood kenneth","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"cunningham mark t.","target":"norwood kenneth","similarity":0.79883}]}

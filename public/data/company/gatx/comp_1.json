@@ -1,0 +1,1 @@
+{"id":1,"company":"GATX","nodes":[{"id":"kenney brian a","label":"kenney brian a","degree":1,"x":0.0,"y":1.0},{"id":"ellman thomas a.","label":"ellman thomas a.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"kenney brian a","target":"ellman thomas a.","similarity":0.803571}]}

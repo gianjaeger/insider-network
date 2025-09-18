@@ -1,0 +1,1 @@
+{"id":0,"company":"ZBRA","nodes":[{"id":"kogl cristen l","label":"kogl cristen l","degree":1,"x":0.0,"y":1.0},{"id":"schmitz jeffrey f","label":"schmitz jeffrey f","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"kogl cristen l","target":"schmitz jeffrey f","similarity":0.872549}]}

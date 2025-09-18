@@ -1,0 +1,1 @@
+{"id":1182,"nodes":[{"id":"finizio robert g","label":"finizio robert g","degree":1,"companies":["TXMD"],"x":0.0,"y":1.0},{"id":"milligan john c.k. iv","label":"milligan john c.k. iv","degree":1,"companies":["TXMD"],"x":1.0,"y":0.0}],"edges":[{"source":"finizio robert g","target":"milligan john c.k. iv","similarity":0.811429,"companies":["TXMD"]}]}

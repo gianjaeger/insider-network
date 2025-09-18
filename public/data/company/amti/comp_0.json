@@ -1,0 +1,1 @@
+{"id":0,"company":"AMTI","nodes":[{"id":"cross shawn","label":"cross shawn","degree":1,"x":0.0,"y":1.0},{"id":"hants brandon","label":"hants brandon","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"cross shawn","target":"hants brandon","similarity":1.0}]}

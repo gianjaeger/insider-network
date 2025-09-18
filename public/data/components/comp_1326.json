@@ -1,0 +1,1 @@
+{"id":1326,"nodes":[{"id":"beck charles","label":"beck charles","degree":1,"companies":["DMRC"],"x":0.0,"y":1.0},{"id":"meyer joel","label":"meyer joel","degree":1,"companies":["DMRC"],"x":1.0,"y":0.0}],"edges":[{"source":"beck charles","target":"meyer joel","similarity":0.734059,"companies":["DMRC"]}]}

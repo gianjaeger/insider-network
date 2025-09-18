@@ -1,0 +1,1 @@
+{"id":1377,"nodes":[{"id":"liang charles","label":"liang charles","degree":1,"companies":["SMCI"],"x":0.0,"y":1.0},{"id":"liu liang chiu-chu sara","label":"liu liang chiu-chu sara","degree":1,"companies":["SMCI"],"x":1.0,"y":0.0}],"edges":[{"source":"liang charles","target":"liu liang chiu-chu sara","similarity":1.0,"companies":["SMCI"]}]}

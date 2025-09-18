@@ -1,0 +1,1 @@
+{"id":1456,"nodes":[{"id":"farquhar scott","label":"farquhar scott","degree":1,"companies":["TEAM"],"x":0.0,"y":1.0},{"id":"cannon-brookes michael","label":"cannon-brookes michael","degree":1,"companies":["TEAM"],"x":1.0,"y":0.0}],"edges":[{"source":"farquhar scott","target":"cannon-brookes michael","similarity":1.0,"companies":["TEAM"]}]}

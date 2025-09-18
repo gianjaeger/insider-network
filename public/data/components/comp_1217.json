@@ -1,0 +1,1 @@
+{"id":1217,"nodes":[{"id":"chun nelson n s","label":"chun nelson n s","degree":1,"companies":["ALEX"],"x":0.0,"y":1.0},{"id":"ito paul k","label":"ito paul k","degree":1,"companies":["ALEX"],"x":1.0,"y":0.0}],"edges":[{"source":"chun nelson n s","target":"ito paul k","similarity":0.744048,"companies":["ALEX"]}]}

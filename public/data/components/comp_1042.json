@@ -1,0 +1,1 @@
+{"id":1042,"nodes":[{"id":"balazs alex g.","label":"balazs alex g.","degree":1,"companies":["INTU"],"x":0.0,"y":1.0},{"id":"hotz lauren d","label":"hotz lauren d","degree":1,"companies":["INTU"],"x":1.0,"y":0.0}],"edges":[{"source":"balazs alex g.","target":"hotz lauren d","similarity":0.729607,"companies":["INTU"]}]}

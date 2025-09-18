@@ -1,0 +1,1 @@
+{"id":1255,"nodes":[{"id":"fan xianzhi sean","label":"fan xianzhi sean","degree":1,"companies":["IDTI"],"x":0.0,"y":1.0},{"id":"montana mario","label":"montana mario","degree":1,"companies":["IDTI"],"x":1.0,"y":0.0}],"edges":[{"source":"fan xianzhi sean","target":"montana mario","similarity":0.829412,"companies":["IDTI"]}]}

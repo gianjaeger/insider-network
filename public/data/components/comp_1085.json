@@ -1,0 +1,1 @@
+{"id":1085,"nodes":[{"id":"vincent ron","label":"vincent ron","degree":1,"companies":["CXDO"],"x":0.0,"y":1.0},{"id":"gaylor douglas walter","label":"gaylor douglas walter","degree":1,"companies":["CXDO"],"x":1.0,"y":0.0}],"edges":[{"source":"vincent ron","target":"gaylor douglas walter","similarity":0.825405,"companies":["CXDO"]}]}

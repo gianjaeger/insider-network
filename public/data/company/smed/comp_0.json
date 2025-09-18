@@ -1,0 +1,1 @@
+{"id":0,"company":"SMED","nodes":[{"id":"dalton john w","label":"dalton john w","degree":1,"x":0.0,"y":1.0},{"id":"holmes parris h jr","label":"holmes parris h jr","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"dalton john w","target":"holmes parris h jr","similarity":0.758799}]}

@@ -1,0 +1,1 @@
+{"id":0,"company":"CRBP","nodes":[{"id":"hochman david p","label":"hochman david p","degree":1,"x":0.0,"y":1.0},{"id":"white barbara","label":"white barbara","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"hochman david p","target":"white barbara","similarity":0.709325}]}

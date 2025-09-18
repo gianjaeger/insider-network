@@ -1,0 +1,1 @@
+{"id":1359,"nodes":[{"id":"steiner deborah l","label":"steiner deborah l","degree":1,"companies":["RRD"],"x":0.0,"y":1.0},{"id":"pecaric john p","label":"pecaric john p","degree":1,"companies":["RRD"],"x":1.0,"y":0.0}],"edges":[{"source":"steiner deborah l","target":"pecaric john p","similarity":0.948529,"companies":["RRD"]}]}

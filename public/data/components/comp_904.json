@@ -1,0 +1,1 @@
+{"id":904,"nodes":[{"id":"dellaquila frank j","label":"dellaquila frank j","degree":1,"companies":["EMR"],"x":0.0,"y":1.0},{"id":"bosco sara yang","label":"bosco sara yang","degree":1,"companies":["EMR"],"x":1.0,"y":0.0}],"edges":[{"source":"dellaquila frank j","target":"bosco sara yang","similarity":0.724844,"companies":["EMR"]}]}

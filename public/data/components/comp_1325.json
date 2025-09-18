@@ -1,0 +1,1 @@
+{"id":1325,"nodes":[{"id":"bruny steven m","label":"bruny steven m","degree":1,"companies":["RBBN"],"x":0.0,"y":1.0},{"id":"scarfo anthony","label":"scarfo anthony","degree":1,"companies":["RBBN"],"x":1.0,"y":0.0}],"edges":[{"source":"bruny steven m","target":"scarfo anthony","similarity":0.87594,"companies":["RBBN"]}]}

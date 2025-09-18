@@ -1,0 +1,1 @@
+{"id":1469,"nodes":[{"id":"potts larry","label":"potts larry","degree":1,"companies":["SGMS"],"x":0.0,"y":1.0},{"id":"kennedy james c","label":"kennedy james c","degree":1,"companies":["SGMS"],"x":1.0,"y":0.0}],"edges":[{"source":"potts larry","target":"kennedy james c","similarity":0.907407,"companies":["SGMS"]}]}

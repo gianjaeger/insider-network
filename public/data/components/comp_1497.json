@@ -1,0 +1,1 @@
+{"id":1497,"nodes":[{"id":"hobart brian e","label":"hobart brian e","degree":1,"companies":["IBTX"],"x":0.0,"y":1.0},{"id":"brooks daniel w","label":"brooks daniel w","degree":1,"companies":["IBTX"],"x":1.0,"y":0.0}],"edges":[{"source":"hobart brian e","target":"brooks daniel w","similarity":0.756448,"companies":["IBTX"]}]}

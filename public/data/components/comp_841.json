@@ -1,0 +1,1 @@
+{"id":841,"nodes":[{"id":"williamson john patrick","label":"williamson john patrick","degree":1,"companies":["ATKR"],"x":0.0,"y":1.0},{"id":"mallak james a","label":"mallak james a","degree":1,"companies":["ATKR"],"x":1.0,"y":0.0}],"edges":[{"source":"williamson john patrick","target":"mallak james a","similarity":0.724219,"companies":["ATKR"]}]}

@@ -1,0 +1,1 @@
+{"id":2,"company":"COST","nodes":[{"id":"klauer james c","label":"klauer james c","degree":1,"x":0.0,"y":1.0},{"id":"callans patrick j","label":"callans patrick j","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"klauer james c","target":"callans patrick j","similarity":0.772692}]}

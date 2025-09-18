@@ -1,0 +1,1 @@
+{"id":1150,"nodes":[{"id":"brower linda s","label":"brower linda s","degree":1,"companies":["WAFD"],"x":0.0,"y":1.0},{"id":"veksler angela dawne","label":"veksler angela dawne","degree":1,"companies":["WAFD"],"x":1.0,"y":0.0}],"edges":[{"source":"brower linda s","target":"veksler angela dawne","similarity":0.804762,"companies":["WAFD"]}]}

@@ -1,0 +1,1 @@
+{"id":1036,"nodes":[{"id":"jorgensen blake j","label":"jorgensen blake j","degree":1,"companies":["EA"],"x":0.0,"y":1.0},{"id":"moss kenneth a","label":"moss kenneth a","degree":1,"companies":["EA"],"x":1.0,"y":0.0}],"edges":[{"source":"jorgensen blake j","target":"moss kenneth a","similarity":0.710198,"companies":["EA"]}]}

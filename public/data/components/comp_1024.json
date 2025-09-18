@@ -1,0 +1,1 @@
+{"id":1024,"nodes":[{"id":"courkamp julie a","label":"courkamp julie a","degree":1,"companies":["MYFW"],"x":0.0,"y":1.0},{"id":"wylie scott c","label":"wylie scott c","degree":1,"companies":["MYFW"],"x":1.0,"y":0.0}],"edges":[{"source":"courkamp julie a","target":"wylie scott c","similarity":0.710964,"companies":["MYFW"]}]}

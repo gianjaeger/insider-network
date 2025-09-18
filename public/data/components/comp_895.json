@@ -1,0 +1,1 @@
+{"id":895,"nodes":[{"id":"alafi moshe","label":"alafi moshe","degree":1,"companies":["ITCI"],"x":0.0,"y":1.0},{"id":"alafi christopher d","label":"alafi christopher d","degree":1,"companies":["ITCI"],"x":1.0,"y":0.0}],"edges":[{"source":"alafi moshe","target":"alafi christopher d","similarity":0.814286,"companies":["ITCI"]}]}

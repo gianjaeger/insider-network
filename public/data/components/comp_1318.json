@@ -1,0 +1,1 @@
+{"id":1318,"nodes":[{"id":"gersch seth","label":"gersch seth","degree":1,"companies":["GBLI"],"x":0.0,"y":1.0},{"id":"fox saul a","label":"fox saul a","degree":1,"companies":["GBLI"],"x":1.0,"y":0.0}],"edges":[{"source":"gersch seth","target":"fox saul a","similarity":0.816121,"companies":["GBLI"]}]}

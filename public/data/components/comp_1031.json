@@ -1,0 +1,1 @@
+{"id":1031,"nodes":[{"id":"galbreath lizanne","label":"galbreath lizanne","degree":1,"companies":["VAC"],"x":0.0,"y":1.0},{"id":"gellein raymond l jr","label":"gellein raymond l jr","degree":1,"companies":["VAC"],"x":1.0,"y":0.0}],"edges":[{"source":"galbreath lizanne","target":"gellein raymond l jr","similarity":0.863636,"companies":["VAC"]}]}

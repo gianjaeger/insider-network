@@ -1,0 +1,1 @@
+{"id":1354,"nodes":[{"id":"burke william joseph","label":"burke william joseph","degree":1,"companies":["AME"],"x":0.0,"y":1.0},{"id":"hardin john wesley","label":"hardin john wesley","degree":1,"companies":["AME"],"x":1.0,"y":0.0}],"edges":[{"source":"burke william joseph","target":"hardin john wesley","similarity":0.807431,"companies":["AME"]}]}

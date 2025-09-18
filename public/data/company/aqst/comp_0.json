@@ -1,0 +1,1 @@
+{"id":0,"company":"AQST","nodes":[{"id":"kendall keith j","label":"kendall keith j","degree":1,"x":0.0,"y":1.0},{"id":"schobel alexander mark","label":"schobel alexander mark","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"kendall keith j","target":"schobel alexander mark","similarity":0.849068}]}

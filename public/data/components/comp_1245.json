@@ -1,0 +1,1 @@
+{"id":1245,"nodes":[{"id":"coppola barbara martin","label":"coppola barbara martin","degree":1,"companies":["GRUB"],"x":0.0,"y":1.0},{"id":"chia stanley","label":"chia stanley","degree":1,"companies":["GRUB"],"x":1.0,"y":0.0}],"edges":[{"source":"coppola barbara martin","target":"chia stanley","similarity":0.80353,"companies":["GRUB"]}]}

@@ -1,0 +1,1 @@
+{"id":840,"nodes":[{"id":"whitworth ralph v","label":"whitworth ralph v","degree":1,"companies":["SPW"],"x":0.0,"y":1.0},{"id":"batchelder david h","label":"batchelder david h","degree":1,"companies":["SPW"],"x":1.0,"y":0.0}],"edges":[{"source":"whitworth ralph v","target":"batchelder david h","similarity":1.0,"companies":["SPW"]}]}

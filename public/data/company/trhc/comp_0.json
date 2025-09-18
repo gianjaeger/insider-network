@@ -1,0 +1,1 @@
+{"id":0,"company":"TRHC","nodes":[{"id":"knowlton calvin h","label":"knowlton calvin h","degree":1,"x":0.0,"y":1.0},{"id":"knowlton orsula v","label":"knowlton orsula v","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"knowlton calvin h","target":"knowlton orsula v","similarity":1.0}]}

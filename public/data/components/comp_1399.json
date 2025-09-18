@@ -1,0 +1,1 @@
+{"id":1399,"nodes":[{"id":"boerner christopher s.","label":"boerner christopher s.","degree":1,"companies":["BMY"],"x":0.0,"y":1.0},{"id":"elkins david v","label":"elkins david v","degree":1,"companies":["BMY"],"x":1.0,"y":0.0}],"edges":[{"source":"boerner christopher s.","target":"elkins david v","similarity":0.818367,"companies":["BMY"]}]}

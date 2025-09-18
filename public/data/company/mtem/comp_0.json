@@ -1,0 +1,1 @@
+{"id":0,"company":"MTEM","nodes":[{"id":"bb biotech ag","label":"bb biotech ag","degree":1,"x":0.0,"y":1.0},{"id":"biotech target n v","label":"biotech target n v","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"bb biotech ag","target":"biotech target n v","similarity":1.0}]}

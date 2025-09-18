@@ -1,0 +1,1 @@
+{"id":1236,"nodes":[{"id":"frumberg charles","label":"frumberg charles","degree":1,"companies":["IDSY","SABA"],"x":0.0,"y":1.0},{"id":"emancipation capital","label":"emancipation capital","degree":1,"companies":["IDSY","SABA"],"x":1.0,"y":0.0}],"edges":[{"source":"frumberg charles","target":"emancipation capital","similarity":1.0,"companies":["IDSY","SABA"]}]}

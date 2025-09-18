@@ -1,0 +1,1 @@
+{"id":995,"nodes":[{"id":"suriano douglas a","label":"suriano douglas a","degree":1,"companies":["BAND"],"x":0.0,"y":1.0},{"id":"bailey brian d.","label":"bailey brian d.","degree":1,"companies":["BAND"],"x":1.0,"y":0.0}],"edges":[{"source":"suriano douglas a","target":"bailey brian d.","similarity":0.749206,"companies":["BAND"]}]}

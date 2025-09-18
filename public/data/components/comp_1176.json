@@ -1,0 +1,1 @@
+{"id":1176,"nodes":[{"id":"wagner dana","label":"wagner dana","degree":1,"companies":["TWLO"],"x":0.0,"y":1.0},{"id":"viggiano aidan","label":"viggiano aidan","degree":1,"companies":["TWLO"],"x":1.0,"y":0.0}],"edges":[{"source":"wagner dana","target":"viggiano aidan","similarity":0.798319,"companies":["TWLO"]}]}

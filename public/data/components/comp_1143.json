@@ -1,0 +1,1 @@
+{"id":1143,"nodes":[{"id":"presser mitchell","label":"presser mitchell","degree":1,"companies":["DXLG"],"x":0.0,"y":1.0},{"id":"mooney ward k","label":"mooney ward k","degree":1,"companies":["DXLG"],"x":1.0,"y":0.0}],"edges":[{"source":"presser mitchell","target":"mooney ward k","similarity":0.834734,"companies":["DXLG"]}]}

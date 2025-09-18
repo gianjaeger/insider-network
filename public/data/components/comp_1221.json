@@ -1,0 +1,1 @@
+{"id":1221,"nodes":[{"id":"kripalani avinash","label":"kripalani avinash","degree":1,"companies":["NEXT"],"x":0.0,"y":1.0},{"id":"dillow jason","label":"dillow jason","degree":1,"companies":["NEXT"],"x":1.0,"y":0.0}],"edges":[{"source":"kripalani avinash","target":"dillow jason","similarity":1.0,"companies":["NEXT"]}]}

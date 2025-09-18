@@ -1,0 +1,1 @@
+{"id":1011,"nodes":[{"id":"stephenson brian c","label":"stephenson brian c","degree":1,"companies":["BBIO"],"x":0.0,"y":1.0},{"id":"kumar neil","label":"kumar neil","degree":1,"companies":["BBIO"],"x":1.0,"y":0.0}],"edges":[{"source":"stephenson brian c","target":"kumar neil","similarity":0.906322,"companies":["BBIO"]}]}

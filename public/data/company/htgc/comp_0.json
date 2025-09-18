@@ -1,0 +1,1 @@
+{"id":0,"company":"HTGC","nodes":[{"id":"fallon thomas j","label":"fallon thomas j","degree":1,"x":0.0,"y":1.0},{"id":"koenig bradford c.","label":"koenig bradford c.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"fallon thomas j","target":"koenig bradford c.","similarity":0.785985}]}

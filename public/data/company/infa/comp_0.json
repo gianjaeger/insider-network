@@ -1,0 +1,1 @@
+{"id":0,"company":"INFA","nodes":[{"id":"pellowski mark","label":"pellowski mark","degree":1,"x":0.0,"y":1.0},{"id":"schweitzer john arthur","label":"schweitzer john arthur","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"pellowski mark","target":"schweitzer john arthur","similarity":0.842301}]}

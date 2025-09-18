@@ -1,0 +1,1 @@
+{"id":1046,"nodes":[{"id":"lee chan w","label":"lee chan w","degree":1,"companies":["AMBA"],"x":0.0,"y":1.0},{"id":"ju chi-hong","label":"ju chi-hong","degree":1,"companies":["AMBA"],"x":1.0,"y":0.0}],"edges":[{"source":"lee chan w","target":"ju chi-hong","similarity":0.814123,"companies":["AMBA"]}]}

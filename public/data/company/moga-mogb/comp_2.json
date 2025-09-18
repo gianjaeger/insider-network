@@ -1,0 +1,1 @@
+{"id":2,"company":"MOGA/MOGB","nodes":[{"id":"reichelderfer brenda","label":"reichelderfer brenda","degree":1,"x":0.0,"y":1.0},{"id":"gisel william g jr","label":"gisel william g jr","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"reichelderfer brenda","target":"gisel william g jr","similarity":0.842105}]}

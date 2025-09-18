@@ -1,0 +1,1 @@
+{"id":1499,"nodes":[{"id":"isely raquel m.","label":"isely raquel m.","degree":1,"companies":["NGVC"],"x":0.0,"y":1.0},{"id":"dissinger todd","label":"dissinger todd","degree":1,"companies":["NGVC"],"x":1.0,"y":0.0}],"edges":[{"source":"isely raquel m.","target":"dissinger todd","similarity":0.715781,"companies":["NGVC"]}]}

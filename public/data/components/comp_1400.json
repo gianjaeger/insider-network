@@ -1,0 +1,1 @@
+{"id":1400,"nodes":[{"id":"bilke teddy i.","label":"bilke teddy i.","degree":1,"companies":["JKHY"],"x":0.0,"y":1.0},{"id":"adelson gregory r.","label":"adelson gregory r.","degree":1,"companies":["JKHY"],"x":1.0,"y":0.0}],"edges":[{"source":"bilke teddy i.","target":"adelson gregory r.","similarity":0.80839,"companies":["JKHY"]}]}

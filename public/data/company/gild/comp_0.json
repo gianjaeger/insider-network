@@ -1,0 +1,1 @@
+{"id":0,"company":"GILD","nodes":[{"id":"alton gregg h","label":"alton gregg h","degree":1,"x":0.0,"y":1.0},{"id":"martin john c","label":"martin john c","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"alton gregg h","target":"martin john c","similarity":0.710377}]}

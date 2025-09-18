@@ -1,0 +1,1 @@
+{"id":893,"nodes":[{"id":"pastor louis","label":"pastor louis","degree":1,"companies":["XRX"],"x":0.0,"y":1.0},{"id":"collins smee joanne","label":"collins smee joanne","degree":1,"companies":["XRX"],"x":1.0,"y":0.0}],"edges":[{"source":"pastor louis","target":"collins smee joanne","similarity":0.864912,"companies":["XRX"]}]}

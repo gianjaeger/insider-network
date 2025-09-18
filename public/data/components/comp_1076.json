@@ -1,0 +1,1 @@
+{"id":1076,"nodes":[{"id":"millstone david j.","label":"millstone david j.","degree":1,"companies":["GRA"],"x":0.0,"y":1.0},{"id":"winter david s.","label":"winter david s.","degree":1,"companies":["GRA"],"x":1.0,"y":0.0}],"edges":[{"source":"millstone david j.","target":"winter david s.","similarity":1.0,"companies":["GRA"]}]}

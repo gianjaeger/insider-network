@@ -1,0 +1,1 @@
+{"id":1253,"nodes":[{"id":"parahus robert","label":"parahus robert","degree":1,"companies":["TOL"],"x":0.0,"y":1.0},{"id":"grubb michael j.","label":"grubb michael j.","degree":1,"companies":["TOL"],"x":1.0,"y":0.0}],"edges":[{"source":"parahus robert","target":"grubb michael j.","similarity":0.714132,"companies":["TOL"]}]}

@@ -1,0 +1,1 @@
+{"id":1098,"nodes":[{"id":"hoeweler robert e","label":"hoeweler robert e","degree":1,"companies":["CFBK"],"x":0.0,"y":1.0},{"id":"frauenberg james h ii","label":"frauenberg james h ii","degree":1,"companies":["CFBK"],"x":1.0,"y":0.0}],"edges":[{"source":"hoeweler robert e","target":"frauenberg james h ii","similarity":0.824405,"companies":["CFBK"]}]}

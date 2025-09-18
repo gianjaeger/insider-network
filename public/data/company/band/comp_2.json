@@ -1,0 +1,1 @@
+{"id":2,"company":"BAND","nodes":[{"id":"murdock john c.","label":"murdock john c.","degree":1,"x":0.0,"y":1.0},{"id":"roush lukas m.","label":"roush lukas m.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"murdock john c.","target":"roush lukas m.","similarity":0.720588}]}

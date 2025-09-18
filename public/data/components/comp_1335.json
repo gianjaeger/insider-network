@@ -1,0 +1,1 @@
+{"id":1335,"nodes":[{"id":"king john bryan","label":"king john bryan","degree":1,"companies":["SSRG"],"x":0.0,"y":1.0},{"id":"king luther jr","label":"king luther jr","degree":1,"companies":["SSRG"],"x":1.0,"y":0.0}],"edges":[{"source":"king john bryan","target":"king luther jr","similarity":1.0,"companies":["SSRG"]}]}

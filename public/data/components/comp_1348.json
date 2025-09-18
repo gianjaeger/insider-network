@@ -1,0 +1,1 @@
+{"id":1348,"nodes":[{"id":"cerda clarissa","label":"cerda clarissa","degree":1,"companies":["LOCK"],"x":0.0,"y":1.0},{"id":"power chris g","label":"power chris g","degree":1,"companies":["LOCK"],"x":1.0,"y":0.0}],"edges":[{"source":"cerda clarissa","target":"power chris g","similarity":0.774284,"companies":["LOCK"]}]}

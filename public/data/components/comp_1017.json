@@ -1,0 +1,1 @@
+{"id":1017,"nodes":[{"id":"bowman brent r","label":"bowman brent r","degree":1,"companies":["VEEV"],"x":0.0,"y":1.0},{"id":"schwenger thomas d.","label":"schwenger thomas d.","degree":1,"companies":["VEEV"],"x":1.0,"y":0.0}],"edges":[{"source":"bowman brent r","target":"schwenger thomas d.","similarity":0.864912,"companies":["VEEV"]}]}

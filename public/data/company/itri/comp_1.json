@@ -1,0 +1,1 @@
+{"id":1,"company":"ITRI","nodes":[{"id":"sirovich matthew","label":"sirovich matthew","degree":1,"x":0.0,"y":1.0},{"id":"mindich jeremy","label":"mindich jeremy","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"sirovich matthew","target":"mindich jeremy","similarity":1.0}]}

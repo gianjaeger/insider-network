@@ -1,0 +1,1 @@
+{"id":868,"nodes":[{"id":"de vaulx charles","label":"de vaulx charles","degree":1,"companies":["DV"],"x":0.0,"y":1.0},{"id":"de lardemelle charles","label":"de lardemelle charles","degree":1,"companies":["DV"],"x":1.0,"y":0.0}],"edges":[{"source":"de vaulx charles","target":"de lardemelle charles","similarity":0.995238,"companies":["DV"]}]}

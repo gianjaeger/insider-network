@@ -1,0 +1,1 @@
+{"id":1130,"nodes":[{"id":"zammit patrick","label":"zammit patrick","degree":1,"companies":["SNX"],"x":0.0,"y":1.0},{"id":"vetter david r","label":"vetter david r","degree":1,"companies":["SNX"],"x":1.0,"y":0.0}],"edges":[{"source":"zammit patrick","target":"vetter david r","similarity":0.827941,"companies":["SNX"]}]}

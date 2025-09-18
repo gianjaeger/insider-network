@@ -1,0 +1,1 @@
+{"id":921,"nodes":[{"id":"abate christopher j","label":"abate christopher j","degree":1,"companies":["RWT"],"x":0.0,"y":1.0},{"id":"stone andrew p","label":"stone andrew p","degree":1,"companies":["RWT"],"x":1.0,"y":0.0}],"edges":[{"source":"abate christopher j","target":"stone andrew p","similarity":0.864224,"companies":["RWT"]}]}

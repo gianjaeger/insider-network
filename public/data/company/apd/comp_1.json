@@ -1,0 +1,1 @@
+{"id":1,"company":"APD","nodes":[{"id":"flugel russell a","label":"flugel russell a","degree":1,"x":0.0,"y":1.0},{"id":"crocco michael s","label":"crocco michael s","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"flugel russell a","target":"crocco michael s","similarity":0.827209}]}

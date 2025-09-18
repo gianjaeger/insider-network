@@ -1,0 +1,1 @@
+{"id":915,"nodes":[{"id":"shropshire kenneth","label":"shropshire kenneth","degree":1,"companies":["MC"],"x":0.0,"y":1.0},{"id":"allison john a","label":"allison john a","degree":1,"companies":["MC"],"x":1.0,"y":0.0}],"edges":[{"source":"shropshire kenneth","target":"allison john a","similarity":0.857143,"companies":["MC"]}]}

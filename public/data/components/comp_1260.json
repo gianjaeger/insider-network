@@ -1,0 +1,1 @@
+{"id":1260,"nodes":[{"id":"mondre greg","label":"mondre greg","degree":1,"companies":["MSI"],"x":0.0,"y":1.0},{"id":"durban egon","label":"durban egon","degree":1,"companies":["MSI"],"x":1.0,"y":0.0}],"edges":[{"source":"mondre greg","target":"durban egon","similarity":0.944444,"companies":["MSI"]}]}

@@ -1,0 +1,1 @@
+{"id":0,"company":"AVLR","nodes":[{"id":"mathradas amit","label":"mathradas amit","degree":1,"x":0.0,"y":1.0},{"id":"tennenbaum ross","label":"tennenbaum ross","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"mathradas amit","target":"tennenbaum ross","similarity":0.846154}]}

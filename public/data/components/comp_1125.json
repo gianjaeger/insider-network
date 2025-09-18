@@ -1,0 +1,1 @@
+{"id":1125,"nodes":[{"id":"lupisella frank jr","label":"lupisella frank jr","degree":1,"companies":["BCR"],"x":0.0,"y":1.0},{"id":"larson betty d","label":"larson betty d","degree":1,"companies":["BCR"],"x":1.0,"y":0.0}],"edges":[{"source":"lupisella frank jr","target":"larson betty d","similarity":0.730261,"companies":["BCR"]}]}

@@ -1,0 +1,1 @@
+{"id":1,"company":"HOLX","nodes":[{"id":"mcmahon robert w.","label":"mcmahon robert w.","degree":1,"x":0.0,"y":1.0},{"id":"compton eric b.","label":"compton eric b.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"mcmahon robert w.","target":"compton eric b.","similarity":0.763799}]}

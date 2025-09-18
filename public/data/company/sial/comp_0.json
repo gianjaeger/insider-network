@@ -1,0 +1,1 @@
+{"id":0,"company":"SIAL","nodes":[{"id":"miller george lloyd","label":"miller george lloyd","degree":1,"x":0.0,"y":1.0},{"id":"sachdev rakesh","label":"sachdev rakesh","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"miller george lloyd","target":"sachdev rakesh","similarity":0.902948}]}

@@ -1,0 +1,1 @@
+{"id":900,"nodes":[{"id":"streich julie k","label":"streich julie k","degree":1,"companies":["B"],"x":0.0,"y":1.0},{"id":"hook thomas j","label":"hook thomas j","degree":1,"companies":["B"],"x":1.0,"y":0.0}],"edges":[{"source":"streich julie k","target":"hook thomas j","similarity":0.724187,"companies":["B"]}]}

@@ -1,0 +1,1 @@
+{"id":1293,"nodes":[{"id":"atalig francisco m.","label":"atalig francisco m.","degree":1,"companies":["BKGM"],"x":0.0,"y":1.0},{"id":"camacho keven felix","label":"camacho keven felix","degree":1,"companies":["BKGM"],"x":1.0,"y":0.0}],"edges":[{"source":"atalig francisco m.","target":"camacho keven felix","similarity":0.878906,"companies":["BKGM"]}]}

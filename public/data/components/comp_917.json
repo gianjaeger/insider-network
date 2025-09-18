@@ -1,0 +1,1 @@
+{"id":917,"nodes":[{"id":"kershaw david","label":"kershaw david","degree":1,"companies":["TMP"],"x":0.0,"y":1.0},{"id":"torcello diane d","label":"torcello diane d","degree":1,"companies":["TMP"],"x":1.0,"y":0.0}],"edges":[{"source":"kershaw david","target":"torcello diane d","similarity":0.767857,"companies":["TMP"]}]}

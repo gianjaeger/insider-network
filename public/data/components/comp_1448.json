@@ -1,0 +1,1 @@
+{"id":1448,"nodes":[{"id":"zamiska gene m.","label":"zamiska gene m.","degree":1,"companies":["WDC"],"x":0.0,"y":1.0},{"id":"soderbery robert","label":"soderbery robert","degree":1,"companies":["WDC"],"x":1.0,"y":0.0}],"edges":[{"source":"zamiska gene m.","target":"soderbery robert","similarity":0.80303,"companies":["WDC"]}]}

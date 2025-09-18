@@ -1,0 +1,1 @@
+{"id":1,"company":"BKH","nodes":[{"id":"roberts rebecca b","label":"roberts rebecca b","degree":1,"x":0.0,"y":1.0},{"id":"vering john b","label":"vering john b","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"roberts rebecca b","target":"vering john b","similarity":0.941176}]}

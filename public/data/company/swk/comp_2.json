@@ -1,0 +1,1 @@
+{"id":2,"company":"SWK","nodes":[{"id":"greulach scot","label":"greulach scot","degree":1,"x":0.0,"y":1.0},{"id":"link janet","label":"link janet","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"greulach scot","target":"link janet","similarity":0.724561}]}

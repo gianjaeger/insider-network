@@ -1,0 +1,1 @@
+{"id":0,"company":"SIF","nodes":[{"id":"knapper peter william","label":"knapper peter william","degree":1,"x":0.0,"y":1.0},{"id":"kubera thomas robert","label":"kubera thomas robert","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"knapper peter william","target":"kubera thomas robert","similarity":0.910714}]}

@@ -1,0 +1,1 @@
+{"id":1128,"nodes":[{"id":"mathis patrick l","label":"mathis patrick l","degree":1,"companies":["NMIH"],"x":0.0,"y":1.0},{"id":"merkle claudia j","label":"merkle claudia j","degree":1,"companies":["NMIH"],"x":1.0,"y":0.0}],"edges":[{"source":"mathis patrick l","target":"merkle claudia j","similarity":0.809586,"companies":["NMIH"]}]}

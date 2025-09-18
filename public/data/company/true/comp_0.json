@@ -1,0 +1,1 @@
+{"id":0,"company":"TRUE","nodes":[{"id":"darrow michael","label":"darrow michael","degree":1,"x":0.0,"y":1.0},{"id":"swart jeff","label":"swart jeff","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"darrow michael","target":"swart jeff","similarity":0.855249}]}

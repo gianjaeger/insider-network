@@ -1,0 +1,1 @@
+{"id":1386,"nodes":[{"id":"boggs scott m","label":"boggs scott m","degree":1,"companies":["HMST"],"x":0.0,"y":1.0},{"id":"smith douglas irvine","label":"smith douglas irvine","degree":1,"companies":["HMST"],"x":1.0,"y":0.0}],"edges":[{"source":"boggs scott m","target":"smith douglas irvine","similarity":0.875,"companies":["HMST"]}]}

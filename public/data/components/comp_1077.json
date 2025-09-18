@@ -1,0 +1,1 @@
+{"id":1077,"nodes":[{"id":"aoki ichiro","label":"aoki ichiro","degree":1,"companies":["INDI"],"x":0.0,"y":1.0},{"id":"mcclymont donald","label":"mcclymont donald","degree":1,"companies":["INDI"],"x":1.0,"y":0.0}],"edges":[{"source":"aoki ichiro","target":"mcclymont donald","similarity":0.737013,"companies":["INDI"]}]}

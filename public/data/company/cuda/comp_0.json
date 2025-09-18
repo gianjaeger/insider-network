@@ -1,0 +1,1 @@
+{"id":0,"company":"CUDA","nodes":[{"id":"faugno david","label":"faugno david","degree":1,"x":0.0,"y":1.0},{"id":"perone michael d","label":"perone michael d","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"faugno david","target":"perone michael d","similarity":0.774532}]}

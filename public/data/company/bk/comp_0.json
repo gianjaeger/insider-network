@@ -1,0 +1,1 @@
+{"id":0,"company":"BK","nodes":[{"id":"echevarria joseph","label":"echevarria joseph","degree":1,"x":0.0,"y":1.0},{"id":"goldstein jeffrey a","label":"goldstein jeffrey a","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"echevarria joseph","target":"goldstein jeffrey a","similarity":0.909091}]}

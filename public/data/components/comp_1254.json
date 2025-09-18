@@ -1,0 +1,1 @@
+{"id":1254,"nodes":[{"id":"neu richard w","label":"neu richard w","degree":1,"companies":["HBAN"],"x":0.0,"y":1.0},{"id":"crane ann b","label":"crane ann b","degree":1,"companies":["HBAN"],"x":1.0,"y":0.0}],"edges":[{"source":"neu richard w","target":"crane ann b","similarity":0.871212,"companies":["HBAN"]}]}

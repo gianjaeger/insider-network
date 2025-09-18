@@ -1,0 +1,1 @@
+{"id":4,"company":"HPE","nodes":[{"id":"davis philip","label":"davis philip","degree":1,"x":0.0,"y":1.0},{"id":"melkote keerti","label":"melkote keerti","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"davis philip","target":"melkote keerti","similarity":0.755435}]}

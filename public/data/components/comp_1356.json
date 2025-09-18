@@ -1,0 +1,1 @@
+{"id":1356,"nodes":[{"id":"beckstead chris","label":"beckstead chris","degree":1,"companies":["XM"],"x":0.0,"y":1.0},{"id":"bachman robert w","label":"bachman robert w","degree":1,"companies":["XM"],"x":1.0,"y":0.0}],"edges":[{"source":"beckstead chris","target":"bachman robert w","similarity":0.739662,"companies":["XM"]}]}

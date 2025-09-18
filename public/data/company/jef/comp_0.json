@@ -1,0 +1,1 @@
+{"id":0,"company":"JEF","nodes":[{"id":"beyer robert d","label":"beyer robert d","degree":1,"x":0.0,"y":1.0},{"id":"o kane michael t","label":"o kane michael t","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"beyer robert d","target":"o kane michael t","similarity":0.836601}]}

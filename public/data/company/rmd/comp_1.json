@@ -1,0 +1,1 @@
+{"id":1,"company":"RMD","nodes":[{"id":"de witte jan","label":"de witte jan","degree":1,"x":0.0,"y":1.0},{"id":"gill harjit","label":"gill harjit","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"de witte jan","target":"gill harjit","similarity":0.798095}]}

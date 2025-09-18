@@ -1,0 +1,1 @@
+{"id":1498,"nodes":[{"id":"lane alan j","label":"lane alan j","degree":1,"companies":["SI"],"x":0.0,"y":1.0},{"id":"fraher kathleen","label":"fraher kathleen","degree":1,"companies":["SI"],"x":1.0,"y":0.0}],"edges":[{"source":"lane alan j","target":"fraher kathleen","similarity":0.799311,"companies":["SI"]}]}

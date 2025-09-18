@@ -1,0 +1,1 @@
+{"id":0,"company":"DDD","nodes":[{"id":"hull charles w","label":"hull charles w","degree":1,"x":0.0,"y":1.0},{"id":"mcalea kevin","label":"mcalea kevin","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"hull charles w","target":"mcalea kevin","similarity":0.730757}]}

@@ -1,0 +1,1 @@
+{"id":999,"nodes":[{"id":"cooper jeffrey elliott","label":"cooper jeffrey elliott","degree":1,"companies":["GWRE"],"x":0.0,"y":1.0},{"id":"rosenbaum michael george","label":"rosenbaum michael george","degree":1,"companies":["GWRE"],"x":1.0,"y":0.0}],"edges":[{"source":"cooper jeffrey elliott","target":"rosenbaum michael george","similarity":0.891053,"companies":["GWRE"]}]}

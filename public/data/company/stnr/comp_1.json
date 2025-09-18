@@ -1,0 +1,1 @@
+{"id":1,"company":"STNR","nodes":[{"id":"warshaw michele steiner","label":"warshaw michele steiner","degree":1,"x":0.0,"y":1.0},{"id":"warshaw clive e","label":"warshaw clive e","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"warshaw michele steiner","target":"warshaw clive e","similarity":1.0}]}

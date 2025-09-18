@@ -1,0 +1,1 @@
+{"id":1146,"nodes":[{"id":"meringolo kristy","label":"meringolo kristy","degree":1,"companies":["HAIN"],"x":0.0,"y":1.0},{"id":"goldenitsch wolfgang","label":"goldenitsch wolfgang","degree":1,"companies":["HAIN"],"x":1.0,"y":0.0}],"edges":[{"source":"meringolo kristy","target":"goldenitsch wolfgang","similarity":0.9,"companies":["HAIN"]}]}

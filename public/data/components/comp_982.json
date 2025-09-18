@@ -1,0 +1,1 @@
+{"id":982,"nodes":[{"id":"bicket john","label":"bicket john","degree":1,"companies":["IOT"],"x":0.0,"y":1.0},{"id":"biswas sanjit","label":"biswas sanjit","degree":1,"companies":["IOT"],"x":1.0,"y":0.0}],"edges":[{"source":"bicket john","target":"biswas sanjit","similarity":1.0,"companies":["IOT"]}]}

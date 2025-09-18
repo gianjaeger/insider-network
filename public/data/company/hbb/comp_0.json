@@ -1,0 +1,1 @@
+{"id":0,"company":"HBB","nodes":[{"id":"rankin corbin","label":"rankin corbin","degree":1,"x":0.0,"y":1.0},{"id":"rankin thomas t","label":"rankin thomas t","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"rankin corbin","target":"rankin thomas t","similarity":1.0}]}

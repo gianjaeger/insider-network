@@ -1,0 +1,1 @@
+{"id":3,"company":"SBSI","nodes":[{"id":"boyd peter m","label":"boyd peter m","degree":1,"x":0.0,"y":1.0},{"id":"earl w clawater iii","label":"earl w clawater iii","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"boyd peter m","target":"earl w clawater iii","similarity":0.711111}]}

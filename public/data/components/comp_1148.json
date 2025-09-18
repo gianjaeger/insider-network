@@ -1,0 +1,1 @@
+{"id":1148,"nodes":[{"id":"nachlas emily","label":"nachlas emily","degree":1,"companies":["WAL"],"x":0.0,"y":1.0},{"id":"boothe timothy w","label":"boothe timothy w","degree":1,"companies":["WAL"],"x":1.0,"y":0.0}],"edges":[{"source":"nachlas emily","target":"boothe timothy w","similarity":0.708824,"companies":["WAL"]}]}

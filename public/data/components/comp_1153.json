@@ -1,0 +1,1 @@
+{"id":1153,"nodes":[{"id":"miller patricia r.","label":"miller patricia r.","degree":1,"companies":["VRA"],"x":0.0,"y":1.0},{"id":"miller p. michael","label":"miller p. michael","degree":1,"companies":["VRA"],"x":1.0,"y":0.0}],"edges":[{"source":"miller patricia r.","target":"miller p. michael","similarity":1.0,"companies":["VRA"]}]}

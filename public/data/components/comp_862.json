@@ -1,0 +1,1 @@
+{"id":862,"nodes":[{"id":"o'connell shawn m.","label":"o'connell shawn m.","degree":1,"companies":["ENS"],"x":0.0,"y":1.0},{"id":"zogby andrew m.","label":"zogby andrew m.","degree":1,"companies":["ENS"],"x":1.0,"y":0.0}],"edges":[{"source":"o'connell shawn m.","target":"zogby andrew m.","similarity":0.735491,"companies":["ENS"]}]}

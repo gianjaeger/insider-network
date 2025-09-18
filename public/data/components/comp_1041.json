@@ -1,0 +1,1 @@
+{"id":1041,"nodes":[{"id":"ivers-read gillian c","label":"ivers-read gillian c","degree":1,"companies":["CLVS"],"x":0.0,"y":1.0},{"id":"rolfe lindsey","label":"rolfe lindsey","degree":1,"companies":["CLVS"],"x":1.0,"y":0.0}],"edges":[{"source":"ivers-read gillian c","target":"rolfe lindsey","similarity":0.815104,"companies":["CLVS"]}]}

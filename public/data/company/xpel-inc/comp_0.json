@@ -1,0 +1,1 @@
+{"id":0,"company":"XPEL, INC.","nodes":[{"id":"adams mark","label":"adams mark","degree":1,"x":0.0,"y":1.0},{"id":"constantine john","label":"constantine john","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"adams mark","target":"constantine john","similarity":0.883394}]}

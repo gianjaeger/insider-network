@@ -1,0 +1,1 @@
+{"id":1056,"nodes":[{"id":"klein scott martin","label":"klein scott martin","degree":1,"companies":["LLAP"],"x":0.0,"y":1.0},{"id":"goldsmith carl h","label":"goldsmith carl h","degree":1,"companies":["LLAP"],"x":1.0,"y":0.0}],"edges":[{"source":"klein scott martin","target":"goldsmith carl h","similarity":1.0,"companies":["LLAP"]}]}

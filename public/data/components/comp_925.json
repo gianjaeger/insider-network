@@ -1,0 +1,1 @@
+{"id":925,"nodes":[{"id":"allison eric","label":"allison eric","degree":1,"companies":["JOBY"],"x":0.0,"y":1.0},{"id":"dehoff kate","label":"dehoff kate","degree":1,"companies":["JOBY"],"x":1.0,"y":0.0}],"edges":[{"source":"allison eric","target":"dehoff kate","similarity":0.913442,"companies":["JOBY"]}]}

@@ -1,0 +1,1 @@
+{"id":0,"company":"GEOS","nodes":[{"id":"sheen michael j","label":"sheen michael j","degree":1,"x":0.0,"y":1.0},{"id":"wheeler walter r.","label":"wheeler walter r.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"sheen michael j","target":"wheeler walter r.","similarity":0.95}]}

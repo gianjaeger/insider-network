@@ -1,0 +1,1 @@
+{"id":0,"company":"LXP","nodes":[{"id":"frary richard","label":"frary richard","degree":1,"x":0.0,"y":1.0},{"id":"handwerker jamie","label":"handwerker jamie","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"frary richard","target":"handwerker jamie","similarity":0.708333}]}

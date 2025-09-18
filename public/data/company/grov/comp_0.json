@@ -1,0 +1,1 @@
+{"id":0,"company":"GROV","nodes":[{"id":"clark christopher","label":"clark christopher","degree":1,"x":0.0,"y":1.0},{"id":"landesberg stuart","label":"landesberg stuart","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"clark christopher","target":"landesberg stuart","similarity":0.769361}]}

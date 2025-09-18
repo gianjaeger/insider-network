@@ -1,0 +1,1 @@
+{"id":1,"company":"ACOR","nodes":[{"id":"sabella lauren m","label":"sabella lauren m","degree":1,"x":0.0,"y":1.0},{"id":"wasman jane","label":"wasman jane","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"sabella lauren m","target":"wasman jane","similarity":0.810924}]}

@@ -1,0 +1,1 @@
+{"id":1466,"nodes":[{"id":"renehan todd","label":"renehan todd","degree":1,"companies":["WAIR"],"x":0.0,"y":1.0},{"id":"murray alex","label":"murray alex","degree":1,"companies":["WAIR"],"x":1.0,"y":0.0}],"edges":[{"source":"renehan todd","target":"murray alex","similarity":0.845238,"companies":["WAIR"]}]}

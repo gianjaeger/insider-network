@@ -1,0 +1,1 @@
+{"id":0,"company":"RGLD","nodes":[{"id":"kirchhoff bruce christopher","label":"kirchhoff bruce christopher","degree":1,"x":0.0,"y":1.0},{"id":"wenger stefan","label":"wenger stefan","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"kirchhoff bruce christopher","target":"wenger stefan","similarity":0.747258}]}

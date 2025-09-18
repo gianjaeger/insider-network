@@ -1,0 +1,1 @@
+{"id":1374,"nodes":[{"id":"beer lori a","label":"beer lori a","degree":1,"companies":["JPM"],"x":0.0,"y":1.0},{"id":"giles nicole","label":"giles nicole","degree":1,"companies":["JPM"],"x":1.0,"y":0.0}],"edges":[{"source":"beer lori a","target":"giles nicole","similarity":0.871429,"companies":["JPM"]}]}

@@ -1,0 +1,1 @@
+{"id":0,"company":"ABMD","nodes":[{"id":"greenfield andrew j","label":"greenfield andrew j","degree":1,"x":0.0,"y":1.0},{"id":"minogue michael r","label":"minogue michael r","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"greenfield andrew j","target":"minogue michael r","similarity":0.728763}]}

@@ -1,0 +1,1 @@
+{"id":1443,"nodes":[{"id":"giordano jason k","label":"giordano jason k","degree":1,"companies":["UTZ"],"x":0.0,"y":1.0},{"id":"chu chinh","label":"chu chinh","degree":1,"companies":["UTZ"],"x":1.0,"y":0.0}],"edges":[{"source":"giordano jason k","target":"chu chinh","similarity":0.915126,"companies":["UTZ"]}]}

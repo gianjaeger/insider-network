@@ -1,0 +1,1 @@
+{"id":1124,"nodes":[{"id":"weiland john h","label":"weiland john h","degree":1,"companies":["BCR"],"x":0.0,"y":1.0},{"id":"deford john a","label":"deford john a","degree":1,"companies":["BCR"],"x":1.0,"y":0.0}],"edges":[{"source":"weiland john h","target":"deford john a","similarity":0.730184,"companies":["BCR"]}]}

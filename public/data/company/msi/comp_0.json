@@ -1,0 +1,1 @@
+{"id":0,"company":"MSI","nodes":[{"id":"durban egon","label":"durban egon","degree":1,"x":0.0,"y":1.0},{"id":"mondre greg","label":"mondre greg","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"durban egon","target":"mondre greg","similarity":0.944444}]}

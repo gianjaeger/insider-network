@@ -1,0 +1,1 @@
+{"id":1457,"nodes":[{"id":"galley patrick w.","label":"galley patrick w.","degree":1,"companies":["RIV"],"x":0.0,"y":1.0},{"id":"schmucker brian h","label":"schmucker brian h","degree":1,"companies":["RIV"],"x":1.0,"y":0.0}],"edges":[{"source":"galley patrick w.","target":"schmucker brian h","similarity":0.765568,"companies":["RIV"]}]}

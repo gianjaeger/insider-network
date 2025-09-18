@@ -1,0 +1,1 @@
+{"id":2,"company":"XRAY","nodes":[{"id":"yankie lisa","label":"yankie lisa","degree":1,"x":0.0,"y":1.0},{"id":"staehler cord friedrich","label":"staehler cord friedrich","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"yankie lisa","target":"staehler cord friedrich","similarity":0.759232}]}

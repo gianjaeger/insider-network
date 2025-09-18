@@ -1,0 +1,1 @@
+{"id":1424,"nodes":[{"id":"adelson james f","label":"adelson james f","degree":1,"companies":["ONVI"],"x":0.0,"y":1.0},{"id":"heyman stephen j","label":"heyman stephen j","degree":1,"companies":["ONVI"],"x":1.0,"y":0.0}],"edges":[{"source":"adelson james f","target":"heyman stephen j","similarity":1.0,"companies":["ONVI"]}]}

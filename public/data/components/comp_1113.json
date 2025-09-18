@@ -1,0 +1,1 @@
+{"id":1113,"nodes":[{"id":"gonzalez luis a","label":"gonzalez luis a","degree":1,"companies":["AVO"],"x":0.0,"y":1.0},{"id":"vallejos hinojosa rosario del pilar","label":"vallejos hinojosa rosario del pilar","degree":1,"companies":["AVO"],"x":1.0,"y":0.0}],"edges":[{"source":"gonzalez luis a","target":"vallejos hinojosa rosario del pilar","similarity":1.0,"companies":["AVO"]}]}

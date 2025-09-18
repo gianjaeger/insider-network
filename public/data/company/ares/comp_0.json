@@ -1,0 +1,1 @@
+{"id":0,"company":"ARES","nodes":[{"id":"kaplan david b","label":"kaplan david b","degree":1,"x":0.0,"y":1.0},{"id":"rosenthal bennett","label":"rosenthal bennett","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"kaplan david b","target":"rosenthal bennett","similarity":0.786095}]}

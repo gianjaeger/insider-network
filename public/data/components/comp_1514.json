@@ -1,0 +1,1 @@
+{"id":1514,"nodes":[{"id":"mcdonough brian","label":"mcdonough brian","degree":1,"companies":["QTNT"],"x":0.0,"y":1.0},{"id":"von prondzynski heino","label":"von prondzynski heino","degree":1,"companies":["QTNT"],"x":1.0,"y":0.0}],"edges":[{"source":"mcdonough brian","target":"von prondzynski heino","similarity":0.805195,"companies":["QTNT"]}]}

@@ -1,0 +1,1 @@
+{"id":1,"company":"CRM","nodes":[{"id":"reddy sundeep g.","label":"reddy sundeep g.","degree":1,"x":0.0,"y":1.0},{"id":"millham brian","label":"millham brian","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"reddy sundeep g.","target":"millham brian","similarity":0.763046}]}

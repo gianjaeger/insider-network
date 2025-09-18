@@ -1,0 +1,1 @@
+{"id":1,"company":"FBP","nodes":[{"id":"luz crespo","label":"luz crespo","degree":1,"x":0.0,"y":1.0},{"id":"acosta reboyras juan","label":"acosta reboyras juan","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"luz crespo","target":"acosta reboyras juan","similarity":0.940741}]}

@@ -1,0 +1,1 @@
+{"id":1458,"nodes":[{"id":"evangelista paul a","label":"evangelista paul a","degree":1,"companies":["CNBKA"],"x":0.0,"y":1.0},{"id":"sloane barry r","label":"sloane barry r","degree":1,"companies":["CNBKA"],"x":1.0,"y":0.0}],"edges":[{"source":"evangelista paul a","target":"sloane barry r","similarity":0.925894,"companies":["CNBKA"]}]}

@@ -1,0 +1,1 @@
+{"id":2,"company":"LII","nodes":[{"id":"moon david w","label":"moon david w","degree":1,"x":0.0,"y":1.0},{"id":"johnston terry l","label":"johnston terry l","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"moon david w","target":"johnston terry l","similarity":0.704858}]}

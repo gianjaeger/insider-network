@@ -1,0 +1,1 @@
+{"id":1,"company":"LRCX","nodes":[{"id":"mayer bethany","label":"mayer bethany","degree":1,"x":0.0,"y":1.0},{"id":"ahmed sohail u","label":"ahmed sohail u","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"mayer bethany","target":"ahmed sohail u","similarity":0.784545}]}

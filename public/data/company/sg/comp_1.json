@@ -1,0 +1,1 @@
+{"id":1,"company":"SG","nodes":[{"id":"gemperle adrienne","label":"gemperle adrienne","degree":1,"x":0.0,"y":1.0},{"id":"mcphail james","label":"mcphail james","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"gemperle adrienne","target":"mcphail james","similarity":0.832983}]}

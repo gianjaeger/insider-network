@@ -1,0 +1,1 @@
+{"id":1275,"nodes":[{"id":"hahn andrew","label":"hahn andrew","degree":1,"companies":["WHLRD"],"x":0.0,"y":1.0},{"id":"douglas russell palmer","label":"douglas russell palmer","degree":1,"companies":["WHLRD"],"x":1.0,"y":0.0}],"edges":[{"source":"hahn andrew","target":"douglas russell palmer","similarity":1.0,"companies":["WHLRD"]}]}

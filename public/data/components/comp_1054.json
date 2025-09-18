@@ -1,0 +1,1 @@
+{"id":1054,"nodes":[{"id":"mcphail james","label":"mcphail james","degree":1,"companies":["SG"],"x":0.0,"y":1.0},{"id":"gemperle adrienne","label":"gemperle adrienne","degree":1,"companies":["SG"],"x":1.0,"y":0.0}],"edges":[{"source":"mcphail james","target":"gemperle adrienne","similarity":0.832983,"companies":["SG"]}]}

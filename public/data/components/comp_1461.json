@@ -1,0 +1,1 @@
+{"id":1461,"nodes":[{"id":"dinu raluca","label":"dinu raluca","degree":1,"companies":["BBAI"],"x":0.0,"y":1.0},{"id":"katz avi s","label":"katz avi s","degree":1,"companies":["BBAI"],"x":1.0,"y":0.0}],"edges":[{"source":"dinu raluca","target":"katz avi s","similarity":1.0,"companies":["BBAI"]}]}

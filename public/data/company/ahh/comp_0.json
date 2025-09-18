@@ -1,0 +1,1 @@
+{"id":0,"company":"AHH","nodes":[{"id":"carroll james a","label":"carroll james a","degree":1,"x":0.0,"y":1.0},{"id":"snow john w.","label":"snow john w.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"carroll james a","target":"snow john w.","similarity":0.9}]}

@@ -1,0 +1,1 @@
+{"id":978,"nodes":[{"id":"jones mark evan","label":"jones mark evan","degree":1,"companies":["GSHD"],"x":0.0,"y":1.0},{"id":"jones robyn mary elizabeth","label":"jones robyn mary elizabeth","degree":1,"companies":["GSHD"],"x":1.0,"y":0.0}],"edges":[{"source":"jones mark evan","target":"jones robyn mary elizabeth","similarity":0.978483,"companies":["GSHD"]}]}

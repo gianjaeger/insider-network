@@ -1,0 +1,1 @@
+{"id":0,"company":"KAR","nodes":[{"id":"hallett james p","label":"hallett james p","degree":1,"x":0.0,"y":1.0},{"id":"loughmiller eric m.","label":"loughmiller eric m.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"hallett james p","target":"loughmiller eric m.","similarity":0.9}]}

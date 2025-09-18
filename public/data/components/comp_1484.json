@@ -1,0 +1,1 @@
+{"id":1484,"nodes":[{"id":"kunin jeffrey","label":"kunin jeffrey","degree":1,"companies":["NBY"],"x":0.0,"y":1.0},{"id":"kunin audrey","label":"kunin audrey","degree":1,"companies":["NBY"],"x":1.0,"y":0.0}],"edges":[{"source":"kunin jeffrey","target":"kunin audrey","similarity":1.0,"companies":["NBY"]}]}

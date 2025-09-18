@@ -1,0 +1,1 @@
+{"id":1492,"nodes":[{"id":"dykstra david a","label":"dykstra david a","degree":1,"companies":["WTFC"],"x":0.0,"y":1.0},{"id":"wehmer edward j","label":"wehmer edward j","degree":1,"companies":["WTFC"],"x":1.0,"y":0.0}],"edges":[{"source":"dykstra david a","target":"wehmer edward j","similarity":0.788844,"companies":["WTFC"]}]}

@@ -1,0 +1,1 @@
+{"id":1039,"nodes":[{"id":"turner brenton r.","label":"turner brenton r.","degree":1,"companies":["ROVR"],"x":0.0,"y":1.0},{"id":"easterly aaron","label":"easterly aaron","degree":1,"companies":["ROVR"],"x":1.0,"y":0.0}],"edges":[{"source":"turner brenton r.","target":"easterly aaron","similarity":0.705135,"companies":["ROVR"]}]}

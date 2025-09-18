@@ -1,0 +1,1 @@
+{"id":913,"nodes":[{"id":"shaw jeffrey w","label":"shaw jeffrey w","degree":1,"companies":["NFG"],"x":0.0,"y":1.0},{"id":"jaggers joseph n","label":"jaggers joseph n","degree":1,"companies":["NFG"],"x":1.0,"y":0.0}],"edges":[{"source":"shaw jeffrey w","target":"jaggers joseph n","similarity":0.954545,"companies":["NFG"]}]}

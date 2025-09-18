@@ -1,0 +1,1 @@
+{"id":0,"company":"UEPS","nodes":[{"id":"ball antony c","label":"ball antony c","degree":1,"x":0.0,"y":1.0},{"id":"nkosi monde","label":"nkosi monde","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"ball antony c","target":"nkosi monde","similarity":0.75}]}

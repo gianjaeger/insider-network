@@ -1,0 +1,1 @@
+{"id":0,"company":"MMI","nodes":[{"id":"louie martin e.","label":"louie martin e.","degree":1,"x":0.0,"y":1.0},{"id":"nadji hessam","label":"nadji hessam","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"louie martin e.","target":"nadji hessam","similarity":0.718567}]}

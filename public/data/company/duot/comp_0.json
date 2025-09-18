@@ -1,0 +1,1 @@
+{"id":0,"company":"DUOT","nodes":[{"id":"ehrman kenneth s","label":"ehrman kenneth s","degree":1,"x":0.0,"y":1.0},{"id":"mavrommatis ned","label":"mavrommatis ned","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"ehrman kenneth s","target":"mavrommatis ned","similarity":0.826389}]}

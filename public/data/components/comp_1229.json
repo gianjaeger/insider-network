@@ -1,0 +1,1 @@
+{"id":1229,"nodes":[{"id":"black philip douglas","label":"black philip douglas","degree":1,"companies":["FIT"],"x":0.0,"y":1.0},{"id":"callaghan jon","label":"callaghan jon","degree":1,"companies":["FIT"],"x":1.0,"y":0.0}],"edges":[{"source":"black philip douglas","target":"callaghan jon","similarity":0.861888,"companies":["FIT"]}]}

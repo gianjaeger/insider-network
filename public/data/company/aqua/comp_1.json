@@ -1,0 +1,1 @@
+{"id":1,"company":"AQUA","nodes":[{"id":"aulick rodney","label":"aulick rodney","degree":1,"x":0.0,"y":1.0},{"id":"grieco vincent","label":"grieco vincent","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"aulick rodney","target":"grieco vincent","similarity":0.847994}]}

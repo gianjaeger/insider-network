@@ -1,0 +1,1 @@
+{"id":1322,"nodes":[{"id":"williams thomas l","label":"williams thomas l","degree":1,"companies":["GTLS"],"x":0.0,"y":1.0},{"id":"goodrich richard e","label":"goodrich richard e","degree":1,"companies":["GTLS"],"x":1.0,"y":0.0}],"edges":[{"source":"williams thomas l","target":"goodrich richard e","similarity":0.9,"companies":["GTLS"]}]}

@@ -1,0 +1,1 @@
+{"id":0,"company":"HYPR","nodes":[{"id":"cohen arthur bruce","label":"cohen arthur bruce","degree":1,"x":0.0,"y":1.0},{"id":"healey joseph patrick","label":"healey joseph patrick","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"cohen arthur bruce","target":"healey joseph patrick","similarity":1.0}]}

@@ -1,0 +1,1 @@
+{"id":1,"company":"GOOG","nodes":[{"id":"campbell james grier","label":"campbell james grier","degree":1,"x":0.0,"y":1.0},{"id":"greene diane b","label":"greene diane b","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"campbell james grier","target":"greene diane b","similarity":0.75}]}

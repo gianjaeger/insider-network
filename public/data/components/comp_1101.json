@@ -1,0 +1,1 @@
+{"id":1101,"nodes":[{"id":"paperiello vincent c","label":"paperiello vincent c","degree":1,"companies":["HUBG"],"x":0.0,"y":1.0},{"id":"yeager phillip d","label":"yeager phillip d","degree":1,"companies":["HUBG"],"x":1.0,"y":0.0}],"edges":[{"source":"paperiello vincent c","target":"yeager phillip d","similarity":0.904762,"companies":["HUBG"]}]}

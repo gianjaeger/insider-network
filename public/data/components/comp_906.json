@@ -1,0 +1,1 @@
+{"id":906,"nodes":[{"id":"hall eugene a","label":"hall eugene a","degree":1,"companies":["IT"],"x":0.0,"y":1.0},{"id":"safian craig","label":"safian craig","degree":1,"companies":["IT"],"x":1.0,"y":0.0}],"edges":[{"source":"hall eugene a","target":"safian craig","similarity":0.728907,"companies":["IT"]}]}

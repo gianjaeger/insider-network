@@ -1,0 +1,1 @@
+{"id":0,"company":"REG","nodes":[{"id":"blankenship c ronald","label":"blankenship c ronald","degree":1,"x":0.0,"y":1.0},{"id":"linneman peter","label":"linneman peter","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"blankenship c ronald","target":"linneman peter","similarity":0.863636}]}

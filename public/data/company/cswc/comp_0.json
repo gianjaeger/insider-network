@@ -1,0 +1,1 @@
+{"id":0,"company":"CSWC","nodes":[{"id":"diehl bowen s","label":"diehl bowen s","degree":1,"x":0.0,"y":1.0},{"id":"sarner michael scott","label":"sarner michael scott","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"diehl bowen s","target":"sarner michael scott","similarity":0.888889}]}

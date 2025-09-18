@@ -1,0 +1,1 @@
+{"id":1140,"nodes":[{"id":"heistand james r","label":"heistand james r","degree":1,"companies":["PKY"],"x":0.0,"y":1.0},{"id":"lipsey m. jayson","label":"lipsey m. jayson","degree":1,"companies":["PKY"],"x":1.0,"y":0.0}],"edges":[{"source":"heistand james r","target":"lipsey m. jayson","similarity":0.771805,"companies":["PKY"]}]}

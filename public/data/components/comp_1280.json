@@ -1,0 +1,1 @@
+{"id":1280,"nodes":[{"id":"rubinger matthew","label":"rubinger matthew","degree":1,"companies":["DIBS"],"x":0.0,"y":1.0},{"id":"hood nancy","label":"hood nancy","degree":1,"companies":["DIBS"],"x":1.0,"y":0.0}],"edges":[{"source":"rubinger matthew","target":"hood nancy","similarity":0.783333,"companies":["DIBS"]}]}

@@ -1,0 +1,1 @@
+{"id":941,"nodes":[{"id":"rentfro joseph n","label":"rentfro joseph n","degree":1,"companies":["TRC"],"x":0.0,"y":1.0},{"id":"bielli gregory s.","label":"bielli gregory s.","degree":1,"companies":["TRC"],"x":1.0,"y":0.0}],"edges":[{"source":"rentfro joseph n","target":"bielli gregory s.","similarity":0.762074,"companies":["TRC"]}]}

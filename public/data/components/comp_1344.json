@@ -1,0 +1,1 @@
+{"id":1344,"nodes":[{"id":"doberstein stephen k","label":"doberstein stephen k","degree":1,"companies":["NKTR"],"x":0.0,"y":1.0},{"id":"hora maninder","label":"hora maninder","degree":1,"companies":["NKTR"],"x":1.0,"y":0.0}],"edges":[{"source":"doberstein stephen k","target":"hora maninder","similarity":0.990479,"companies":["NKTR"]}]}

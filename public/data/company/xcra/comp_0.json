@@ -1,0 +1,1 @@
+{"id":0,"company":"XCRA","nodes":[{"id":"gallenberger mark j","label":"gallenberger mark j","degree":1,"x":0.0,"y":1.0},{"id":"tacelli david g","label":"tacelli david g","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"gallenberger mark j","target":"tacelli david g","similarity":1.0}]}

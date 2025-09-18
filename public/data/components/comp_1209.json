@@ -1,0 +1,1 @@
+{"id":1209,"nodes":[{"id":"scalzo richard william","label":"scalzo richard william","degree":1,"companies":["DYN"],"x":0.0,"y":1.0},{"id":"beskrovnaya oxana","label":"beskrovnaya oxana","degree":1,"companies":["DYN"],"x":1.0,"y":0.0}],"edges":[{"source":"scalzo richard william","target":"beskrovnaya oxana","similarity":0.911386,"companies":["DYN"]}]}

@@ -1,0 +1,1 @@
+{"id":1184,"nodes":[{"id":"maestri luca","label":"maestri luca","degree":1,"companies":["AAPL"],"x":0.0,"y":1.0},{"id":"williams jeffrey e","label":"williams jeffrey e","degree":1,"companies":["AAPL"],"x":1.0,"y":0.0}],"edges":[{"source":"maestri luca","target":"williams jeffrey e","similarity":0.729541,"companies":["AAPL"]}]}

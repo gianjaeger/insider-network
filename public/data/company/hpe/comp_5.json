@@ -1,0 +1,1 @@
+{"id":5,"company":"HPE","nodes":[{"id":"robbiati tarek","label":"robbiati tarek","degree":1,"x":0.0,"y":1.0},{"id":"rothman irv","label":"rothman irv","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"robbiati tarek","target":"rothman irv","similarity":0.804692}]}

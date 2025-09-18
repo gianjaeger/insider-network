@@ -1,0 +1,1 @@
+{"id":1417,"nodes":[{"id":"saia john g.","label":"saia john g.","degree":1,"companies":["GH"],"x":0.0,"y":1.0},{"id":"kalia kumud","label":"kalia kumud","degree":1,"companies":["GH"],"x":1.0,"y":0.0}],"edges":[{"source":"saia john g.","target":"kalia kumud","similarity":0.900794,"companies":["GH"]}]}

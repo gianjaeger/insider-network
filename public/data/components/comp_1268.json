@@ -1,0 +1,1 @@
+{"id":1268,"nodes":[{"id":"koh bong y","label":"koh bong y","degree":1,"companies":["TCDA"],"x":0.0,"y":1.0},{"id":"shah nimish p","label":"shah nimish p","degree":1,"companies":["TCDA"],"x":1.0,"y":0.0}],"edges":[{"source":"koh bong y","target":"shah nimish p","similarity":1.0,"companies":["TCDA"]}]}

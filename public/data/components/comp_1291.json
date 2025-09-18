@@ -1,0 +1,1 @@
+{"id":1291,"nodes":[{"id":"biddle willing l","label":"biddle willing l","degree":1,"companies":["UBP"],"x":0.0,"y":1.0},{"id":"biddle catherine u","label":"biddle catherine u","degree":1,"companies":["UBP"],"x":1.0,"y":0.0}],"edges":[{"source":"biddle willing l","target":"biddle catherine u","similarity":1.0,"companies":["UBP"]}]}

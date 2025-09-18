@@ -1,0 +1,1 @@
+{"id":916,"nodes":[{"id":"raich jeffrey","label":"raich jeffrey","degree":1,"companies":["MC"],"x":0.0,"y":1.0},{"id":"mahmoodzadegan navid","label":"mahmoodzadegan navid","degree":1,"companies":["MC"],"x":1.0,"y":0.0}],"edges":[{"source":"raich jeffrey","target":"mahmoodzadegan navid","similarity":0.947059,"companies":["MC"]}]}

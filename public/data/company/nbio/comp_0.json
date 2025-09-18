@@ -1,0 +1,1 @@
+{"id":0,"company":"NBIO","nodes":[{"id":"carrick sean","label":"carrick sean","degree":1,"x":0.0,"y":1.0},{"id":"holden lowell thomas","label":"holden lowell thomas","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"carrick sean","target":"holden lowell thomas","similarity":0.858135}]}

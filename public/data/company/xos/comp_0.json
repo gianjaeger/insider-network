@@ -1,0 +1,1 @@
+{"id":0,"company":"XOS","nodes":[{"id":"semler dakota","label":"semler dakota","degree":1,"x":0.0,"y":1.0},{"id":"sordoni giordano","label":"sordoni giordano","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"semler dakota","target":"sordoni giordano","similarity":1.0}]}

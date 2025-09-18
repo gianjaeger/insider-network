@@ -1,0 +1,1 @@
+{"id":1173,"nodes":[{"id":"esteves irene m","label":"esteves irene m","degree":1,"companies":["ARMK"],"x":0.0,"y":1.0},{"id":"dreiling richard w","label":"dreiling richard w","degree":1,"companies":["ARMK"],"x":1.0,"y":0.0}],"edges":[{"source":"esteves irene m","target":"dreiling richard w","similarity":0.961538,"companies":["ARMK"]}]}

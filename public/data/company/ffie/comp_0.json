@@ -1,0 +1,1 @@
+{"id":0,"company":"FFIE","nodes":[{"id":"aydt matthias","label":"aydt matthias","degree":1,"x":0.0,"y":1.0},{"id":"jia yueting","label":"jia yueting","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"aydt matthias","target":"jia yueting","similarity":0.944853}]}

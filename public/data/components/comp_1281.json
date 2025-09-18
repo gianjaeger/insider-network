@@ -1,0 +1,1 @@
+{"id":1281,"nodes":[{"id":"schippers harrie","label":"schippers harrie","degree":1,"companies":["PCAR"],"x":0.0,"y":1.0},{"id":"hubbard todd r","label":"hubbard todd r","degree":1,"companies":["PCAR"],"x":1.0,"y":0.0}],"edges":[{"source":"schippers harrie","target":"hubbard todd r","similarity":0.767131,"companies":["PCAR"]}]}

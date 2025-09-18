@@ -1,0 +1,1 @@
+{"id":1136,"nodes":[{"id":"journell jacqueline r","label":"journell jacqueline r","degree":1,"companies":["FSFG"],"x":0.0,"y":1.0},{"id":"york douglas a","label":"york douglas a","degree":1,"companies":["FSFG"],"x":1.0,"y":0.0}],"edges":[{"source":"journell jacqueline r","target":"york douglas a","similarity":0.732653,"companies":["FSFG"]}]}

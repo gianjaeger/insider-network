@@ -1,0 +1,1 @@
+{"id":1,"company":"V","nodes":[{"id":"richey ellen","label":"richey ellen","degree":1,"x":0.0,"y":1.0},{"id":"sheedy william m.","label":"sheedy william m.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"richey ellen","target":"sheedy william m.","similarity":0.765255}]}

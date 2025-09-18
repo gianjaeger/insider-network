@@ -1,0 +1,1 @@
+{"id":1117,"nodes":[{"id":"horton k brian","label":"horton k brian","degree":1,"companies":["CUNB"],"x":0.0,"y":1.0},{"id":"holman david c","label":"holman david c","degree":1,"companies":["CUNB"],"x":1.0,"y":0.0}],"edges":[{"source":"horton k brian","target":"holman david c","similarity":0.842495,"companies":["CUNB"]}]}

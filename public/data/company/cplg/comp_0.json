@@ -1,0 +1,1 @@
+{"id":0,"company":"CPLG","nodes":[{"id":"garfield howard steven","label":"garfield howard steven","degree":1,"x":0.0,"y":1.0},{"id":"swanstrom daniel e ii","label":"swanstrom daniel e ii","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"garfield howard steven","target":"swanstrom daniel e ii","similarity":1.0}]}

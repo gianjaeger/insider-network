@@ -1,0 +1,1 @@
+{"id":1210,"nodes":[{"id":"sparby david m","label":"sparby david m","degree":1,"companies":["MDU"],"x":0.0,"y":1.0},{"id":"ryan edward a","label":"ryan edward a","degree":1,"companies":["MDU"],"x":1.0,"y":0.0}],"edges":[{"source":"sparby david m","target":"ryan edward a","similarity":0.708333,"companies":["MDU"]}]}

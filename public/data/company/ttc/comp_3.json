@@ -1,0 +1,1 @@
+{"id":3,"company":"TTC","nodes":[{"id":"koch d christian","label":"koch d christian","degree":1,"x":0.0,"y":1.0},{"id":"pemberton jill m","label":"pemberton jill m","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"koch d christian","target":"pemberton jill m","similarity":0.786982}]}

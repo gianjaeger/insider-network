@@ -1,0 +1,1 @@
+{"id":922,"nodes":[{"id":"o'callahan elizabeth m","label":"o'callahan elizabeth m","degree":1,"companies":["NTAP"],"x":0.0,"y":1.0},{"id":"berry michael j","label":"berry michael j","degree":1,"companies":["NTAP"],"x":1.0,"y":0.0}],"edges":[{"source":"o'callahan elizabeth m","target":"berry michael j","similarity":0.731366,"companies":["NTAP"]}]}

@@ -1,0 +1,1 @@
+{"id":1249,"nodes":[{"id":"mcgaughy r kent jr","label":"mcgaughy r kent jr","degree":1,"companies":["RETA"],"x":0.0,"y":1.0},{"id":"traweek james w jr","label":"traweek james w jr","degree":1,"companies":["RETA"],"x":1.0,"y":0.0}],"edges":[{"source":"mcgaughy r kent jr","target":"traweek james w jr","similarity":0.965517,"companies":["RETA"]}]}

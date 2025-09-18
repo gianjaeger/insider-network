@@ -1,0 +1,1 @@
+{"id":1163,"nodes":[{"id":"stabio victor p","label":"stabio victor p","degree":1,"companies":["HNRG"],"x":0.0,"y":1.0},{"id":"martin lawrence d","label":"martin lawrence d","degree":1,"companies":["HNRG"],"x":1.0,"y":0.0}],"edges":[{"source":"stabio victor p","target":"martin lawrence d","similarity":0.742424,"companies":["HNRG"]}]}

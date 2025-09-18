@@ -1,0 +1,1 @@
+{"id":3,"company":"JCI","nodes":[{"id":"bolzenius beda","label":"bolzenius beda","degree":1,"x":0.0,"y":1.0},{"id":"molinaroli alex a","label":"molinaroli alex a","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"bolzenius beda","target":"molinaroli alex a","similarity":0.822981}]}

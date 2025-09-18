@@ -1,0 +1,1 @@
+{"id":2,"company":"UEIC","nodes":[{"id":"martin william c","label":"martin william c","degree":1,"x":0.0,"y":1.0},{"id":"singer eric","label":"singer eric","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"martin william c","target":"singer eric","similarity":0.954545}]}

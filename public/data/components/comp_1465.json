@@ -1,0 +1,1 @@
+{"id":1465,"nodes":[{"id":"tachibana aaron","label":"tachibana aaron","degree":1,"companies":["PSNL"],"x":0.0,"y":1.0},{"id":"chen richard","label":"chen richard","degree":1,"companies":["PSNL"],"x":1.0,"y":0.0}],"edges":[{"source":"tachibana aaron","target":"chen richard","similarity":0.896296,"companies":["PSNL"]}]}

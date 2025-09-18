@@ -1,0 +1,1 @@
+{"id":2,"company":"GWRE","nodes":[{"id":"hart richard","label":"hart richard","degree":1,"x":0.0,"y":1.0},{"id":"kheirolomoom ali","label":"kheirolomoom ali","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"hart richard","target":"kheirolomoom ali","similarity":0.851429}]}

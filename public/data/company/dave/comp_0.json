@@ -1,0 +1,1 @@
+{"id":0,"company":"DAVE","nodes":[{"id":"raneri stephen","label":"raneri stephen","degree":1,"x":0.0,"y":1.0},{"id":"rosen arthur","label":"rosen arthur","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"raneri stephen","target":"rosen arthur","similarity":1.0}]}

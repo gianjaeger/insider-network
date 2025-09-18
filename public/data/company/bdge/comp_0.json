@@ -1,0 +1,1 @@
+{"id":0,"company":"BDGE","nodes":[{"id":"lindenbaum bennett d","label":"lindenbaum bennett d","degree":1,"x":0.0,"y":1.0},{"id":"lindenbaum matthew a","label":"lindenbaum matthew a","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"lindenbaum bennett d","target":"lindenbaum matthew a","similarity":1.0}]}

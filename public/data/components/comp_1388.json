@@ -1,0 +1,1 @@
+{"id":1388,"nodes":[{"id":"lim hun beng (joe)","label":"lim hun beng (joe)","degree":1,"companies":["vgrbf"],"x":0.0,"y":1.0},{"id":"hampshire avenue sdn bhd","label":"hampshire avenue sdn bhd","degree":1,"companies":["vgrbf"],"x":1.0,"y":0.0}],"edges":[{"source":"lim hun beng (joe)","target":"hampshire avenue sdn bhd","similarity":0.964286,"companies":["vgrbf"]}]}

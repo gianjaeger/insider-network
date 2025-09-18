@@ -1,0 +1,1 @@
+{"id":1505,"nodes":[{"id":"miller peter k","label":"miller peter k","degree":1,"companies":["OPTN"],"x":0.0,"y":1.0},{"id":"mahmoud ramy a","label":"mahmoud ramy a","degree":1,"companies":["OPTN"],"x":1.0,"y":0.0}],"edges":[{"source":"miller peter k","target":"mahmoud ramy a","similarity":0.836905,"companies":["OPTN"]}]}

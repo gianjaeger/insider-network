@@ -1,0 +1,1 @@
+{"id":1425,"nodes":[{"id":"eves karan e","label":"eves karan e","degree":1,"companies":["PRT"],"x":0.0,"y":1.0},{"id":"eves marshall j","label":"eves marshall j","degree":1,"companies":["PRT"],"x":1.0,"y":0.0}],"edges":[{"source":"eves karan e","target":"eves marshall j","similarity":1.0,"companies":["PRT"]}]}

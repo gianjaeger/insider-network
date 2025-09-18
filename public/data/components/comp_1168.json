@@ -1,0 +1,1 @@
+{"id":1168,"nodes":[{"id":"osier michael a.","label":"osier michael a.","degree":1,"companies":["CHGG"],"x":0.0,"y":1.0},{"id":"geiger charles","label":"geiger charles","degree":1,"companies":["CHGG"],"x":1.0,"y":0.0}],"edges":[{"source":"osier michael a.","target":"geiger charles","similarity":0.710145,"companies":["CHGG"]}]}

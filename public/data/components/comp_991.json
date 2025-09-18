@@ -1,0 +1,1 @@
+{"id":991,"nodes":[{"id":"daunt john","label":"daunt john","degree":1,"companies":["LQDT"],"x":0.0,"y":1.0},{"id":"weiskircher steven","label":"weiskircher steven","degree":1,"companies":["LQDT"],"x":1.0,"y":0.0}],"edges":[{"source":"daunt john","target":"weiskircher steven","similarity":0.7025,"companies":["LQDT"]}]}

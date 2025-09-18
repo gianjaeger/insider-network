@@ -1,0 +1,1 @@
+{"id":0,"company":"UTZ","nodes":[{"id":"chu chinh","label":"chu chinh","degree":1,"x":0.0,"y":1.0},{"id":"giordano jason k","label":"giordano jason k","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"chu chinh","target":"giordano jason k","similarity":0.915126}]}

@@ -1,0 +1,1 @@
+{"id":1258,"nodes":[{"id":"kapadia sandip","label":"kapadia sandip","degree":1,"companies":["ICPT"],"x":0.0,"y":1.0},{"id":"kim richard j","label":"kim richard j","degree":1,"companies":["ICPT"],"x":1.0,"y":0.0}],"edges":[{"source":"kapadia sandip","target":"kim richard j","similarity":0.706731,"companies":["ICPT"]}]}

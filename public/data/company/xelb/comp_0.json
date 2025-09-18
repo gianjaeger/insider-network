@@ -1,0 +1,1 @@
+{"id":0,"company":"XELB","nodes":[{"id":"burroughs seth","label":"burroughs seth","degree":1,"x":0.0,"y":1.0},{"id":"d loren robert w","label":"d loren robert w","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"burroughs seth","target":"d loren robert w","similarity":0.863636}]}

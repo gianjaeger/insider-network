@@ -1,0 +1,1 @@
+{"id":1234,"nodes":[{"id":"greenberg m susan","label":"greenberg m susan","degree":1,"companies":["SKX"],"x":0.0,"y":1.0},{"id":"greenberg robert","label":"greenberg robert","degree":1,"companies":["SKX"],"x":1.0,"y":0.0}],"edges":[{"source":"greenberg m susan","target":"greenberg robert","similarity":1.0,"companies":["SKX"]}]}

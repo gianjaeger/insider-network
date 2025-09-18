@@ -1,0 +1,1 @@
+{"id":1080,"nodes":[{"id":"fogarty patrick w","label":"fogarty patrick w","degree":1,"companies":["PKOH"],"x":0.0,"y":1.0},{"id":"vilsack robert d","label":"vilsack robert d","degree":1,"companies":["PKOH"],"x":1.0,"y":0.0}],"edges":[{"source":"fogarty patrick w","target":"vilsack robert d","similarity":0.787218,"companies":["PKOH"]}]}

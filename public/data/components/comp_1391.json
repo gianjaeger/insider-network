@@ -1,0 +1,1 @@
+{"id":1391,"nodes":[{"id":"corrigan melissa l","label":"corrigan melissa l","degree":1,"companies":["JACK"],"x":0.0,"y":1.0},{"id":"martin andrew t","label":"martin andrew t","degree":1,"companies":["JACK"],"x":1.0,"y":0.0}],"edges":[{"source":"corrigan melissa l","target":"martin andrew t","similarity":0.912245,"companies":["JACK"]}]}

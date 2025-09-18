@@ -1,0 +1,1 @@
+{"id":1455,"nodes":[{"id":"kauffman michael","label":"kauffman michael","degree":1,"companies":["KPTI"],"x":0.0,"y":1.0},{"id":"shacham sharon","label":"shacham sharon","degree":1,"companies":["KPTI"],"x":1.0,"y":0.0}],"edges":[{"source":"kauffman michael","target":"shacham sharon","similarity":1.0,"companies":["KPTI"]}]}

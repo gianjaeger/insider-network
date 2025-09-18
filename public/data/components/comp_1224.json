@@ -1,0 +1,1 @@
+{"id":1224,"nodes":[{"id":"lee joshua c.","label":"lee joshua c.","degree":1,"companies":["ORGN"],"x":0.0,"y":1.0},{"id":"bissell john","label":"bissell john","degree":1,"companies":["ORGN"],"x":1.0,"y":0.0}],"edges":[{"source":"lee joshua c.","target":"bissell john","similarity":0.872671,"companies":["ORGN"]}]}

@@ -1,0 +1,1 @@
+{"id":1045,"nodes":[{"id":"radetich peter p","label":"radetich peter p","degree":1,"companies":["CTG"],"x":0.0,"y":1.0},{"id":"crumlish arthur w","label":"crumlish arthur w","degree":1,"companies":["CTG"],"x":1.0,"y":0.0}],"edges":[{"source":"radetich peter p","target":"crumlish arthur w","similarity":0.713265,"companies":["CTG"]}]}

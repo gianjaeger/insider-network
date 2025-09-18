@@ -1,0 +1,1 @@
+{"id":3,"company":"TSN","nodes":[{"id":"van bebber david l","label":"van bebber david l","degree":1,"x":0.0,"y":1.0},{"id":"leatherby dennis","label":"leatherby dennis","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"van bebber david l","target":"leatherby dennis","similarity":0.771594}]}

@@ -1,0 +1,1 @@
+{"id":0,"company":"PNY","nodes":[{"id":"burton eric james","label":"burton eric james","degree":1,"x":0.0,"y":1.0},{"id":"shi david e","label":"shi david e","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"burton eric james","target":"shi david e","similarity":1.0}]}

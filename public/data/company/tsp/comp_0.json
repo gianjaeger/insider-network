@@ -1,0 +1,1 @@
+{"id":0,"company":"TSP","nodes":[{"id":"lu cheng","label":"lu cheng","degree":1,"x":0.0,"y":1.0},{"id":"mullen james","label":"mullen james","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"lu cheng","target":"mullen james","similarity":0.971429}]}

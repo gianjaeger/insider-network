@@ -1,0 +1,1 @@
+{"id":1370,"nodes":[{"id":"whitney david m","label":"whitney david m","degree":1,"companies":["MGRC"],"x":0.0,"y":1.0},{"id":"van trease kristina","label":"van trease kristina","degree":1,"companies":["MGRC"],"x":1.0,"y":0.0}],"edges":[{"source":"whitney david m","target":"van trease kristina","similarity":1.0,"companies":["MGRC"]}]}

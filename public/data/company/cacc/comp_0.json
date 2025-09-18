@@ -1,0 +1,1 @@
+{"id":0,"company":"CACC","nodes":[{"id":"smith thomas w","label":"smith thomas w","degree":1,"x":0.0,"y":1.0},{"id":"vassalluzzo scott j","label":"vassalluzzo scott j","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"smith thomas w","target":"vassalluzzo scott j","similarity":0.736607}]}

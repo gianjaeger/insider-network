@@ -1,0 +1,1 @@
+{"id":1481,"nodes":[{"id":"di iorio nic","label":"di iorio nic","degree":1,"companies":["XOXO"],"x":0.0,"y":1.0},{"id":"munson gillian","label":"munson gillian","degree":1,"companies":["XOXO"],"x":1.0,"y":0.0}],"edges":[{"source":"di iorio nic","target":"munson gillian","similarity":0.77381,"companies":["XOXO"]}]}

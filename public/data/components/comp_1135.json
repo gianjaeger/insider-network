@@ -1,0 +1,1 @@
+{"id":1135,"nodes":[{"id":"garabedian raffi","label":"garabedian raffi","degree":1,"companies":["FSLR"],"x":0.0,"y":1.0},{"id":"widmar mark r","label":"widmar mark r","degree":1,"companies":["FSLR"],"x":1.0,"y":0.0}],"edges":[{"source":"garabedian raffi","target":"widmar mark r","similarity":0.75,"companies":["FSLR"]}]}

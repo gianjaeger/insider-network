@@ -1,0 +1,1 @@
+{"id":0,"company":"IPAR","nodes":[{"id":"benacin philippe","label":"benacin philippe","degree":1,"x":0.0,"y":1.0},{"id":"madar jean","label":"madar jean","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"benacin philippe","target":"madar jean","similarity":0.700501}]}

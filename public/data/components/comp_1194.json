@@ -1,0 +1,1 @@
+{"id":1194,"nodes":[{"id":"nelson jonathan p","label":"nelson jonathan p","degree":1,"companies":["BYND"],"x":0.0,"y":1.0},{"id":"kutua lubi","label":"kutua lubi","degree":1,"companies":["BYND"],"x":1.0,"y":0.0}],"edges":[{"source":"nelson jonathan p","target":"kutua lubi","similarity":0.778478,"companies":["BYND"]}]}

@@ -1,0 +1,1 @@
+{"id":1366,"nodes":[{"id":"galeese james e","label":"galeese james e","degree":1,"companies":["LYTS"],"x":0.0,"y":1.0},{"id":"bastian jeffery s.","label":"bastian jeffery s.","degree":1,"companies":["LYTS"],"x":1.0,"y":0.0}],"edges":[{"source":"galeese james e","target":"bastian jeffery s.","similarity":0.903846,"companies":["LYTS"]}]}

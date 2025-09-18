@@ -1,0 +1,1 @@
+{"id":1472,"nodes":[{"id":"reineke thomas","label":"reineke thomas","degree":1,"companies":["FDEF"],"x":0.0,"y":1.0},{"id":"niehaus charles d.","label":"niehaus charles d.","degree":1,"companies":["FDEF"],"x":1.0,"y":0.0}],"edges":[{"source":"reineke thomas","target":"niehaus charles d.","similarity":0.759667,"companies":["FDEF"]}]}

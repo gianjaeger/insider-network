@@ -1,0 +1,1 @@
+{"id":0,"company":"IBKR","nodes":[{"id":"brody paul jonathan","label":"brody paul jonathan","degree":1,"x":0.0,"y":1.0},{"id":"nemser earl h","label":"nemser earl h","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"brody paul jonathan","target":"nemser earl h","similarity":0.773465}]}

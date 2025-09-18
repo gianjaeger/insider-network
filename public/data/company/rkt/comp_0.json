@@ -1,0 +1,1 @@
+{"id":0,"company":"RKT","nodes":[{"id":"farner jay","label":"farner jay","degree":1,"x":0.0,"y":1.0},{"id":"rizik matthew","label":"rizik matthew","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"farner jay","target":"rizik matthew","similarity":0.971897}]}

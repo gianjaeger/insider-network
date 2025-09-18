@@ -1,0 +1,1 @@
+{"id":1367,"nodes":[{"id":"ogara wilfred t","label":"ogara wilfred t","degree":1,"companies":["LYTS"],"x":0.0,"y":1.0},{"id":"beech robert p.","label":"beech robert p.","degree":1,"companies":["LYTS"],"x":1.0,"y":0.0}],"edges":[{"source":"ogara wilfred t","target":"beech robert p.","similarity":0.858516,"companies":["LYTS"]}]}

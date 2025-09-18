@@ -1,0 +1,1 @@
+{"id":0,"company":"OPRT","nodes":[{"id":"coblentz jonathan aaron","label":"coblentz jonathan aaron","degree":1,"x":0.0,"y":1.0},{"id":"vazquez raul","label":"vazquez raul","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"coblentz jonathan aaron","target":"vazquez raul","similarity":0.790796}]}

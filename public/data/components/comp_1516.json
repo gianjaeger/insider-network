@@ -1,0 +1,1 @@
+{"id":1516,"nodes":[{"id":"arra james f.","label":"arra james f.","degree":1,"companies":["RAMP"],"x":0.0,"y":1.0},{"id":"gupta anneka r.","label":"gupta anneka r.","degree":1,"companies":["RAMP"],"x":1.0,"y":0.0}],"edges":[{"source":"arra james f.","target":"gupta anneka r.","similarity":0.80665,"companies":["RAMP"]}]}

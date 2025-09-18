@@ -1,0 +1,1 @@
+{"id":1,"company":"HWC","nodes":[{"id":"liollio dean","label":"liollio dean","degree":1,"x":0.0,"y":1.0},{"id":"wilkins carleton richard","label":"wilkins carleton richard","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"liollio dean","target":"wilkins carleton richard","similarity":0.941176}]}

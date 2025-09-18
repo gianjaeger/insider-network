@@ -1,0 +1,1 @@
+{"id":1393,"nodes":[{"id":"dougan brady w","label":"dougan brady w","degree":1,"companies":["HUMA"],"x":0.0,"y":1.0},{"id":"niklason laura e","label":"niklason laura e","degree":1,"companies":["HUMA"],"x":1.0,"y":0.0}],"edges":[{"source":"dougan brady w","target":"niklason laura e","similarity":1.0,"companies":["HUMA"]}]}

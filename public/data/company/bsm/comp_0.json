@@ -1,0 +1,1 @@
+{"id":0,"company":"BSM","nodes":[{"id":"kyle jerry v. jr.","label":"kyle jerry v. jr.","degree":1,"x":0.0,"y":1.0},{"id":"mathis william n.","label":"mathis william n.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"kyle jerry v. jr.","target":"mathis william n.","similarity":0.875}]}

@@ -1,0 +1,1 @@
+{"id":1030,"nodes":[{"id":"lidgard graham peter","label":"lidgard graham peter","degree":1,"companies":["EXAS"],"x":0.0,"y":1.0},{"id":"arora maneesh","label":"arora maneesh","degree":1,"companies":["EXAS"],"x":1.0,"y":0.0}],"edges":[{"source":"lidgard graham peter","target":"arora maneesh","similarity":0.743011,"companies":["EXAS"]}]}

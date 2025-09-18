@@ -1,0 +1,1 @@
+{"id":1,"company":"HPP","nodes":[{"id":"glaser jonathan m","label":"glaser jonathan m","degree":1,"x":0.0,"y":1.0},{"id":"porter barry alan","label":"porter barry alan","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"glaser jonathan m","target":"porter barry alan","similarity":0.781385}]}

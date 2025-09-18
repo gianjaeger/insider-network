@@ -1,0 +1,1 @@
+{"id":1409,"nodes":[{"id":"hilton christopher j","label":"hilton christopher j","degree":1,"companies":["SCNB"],"x":0.0,"y":1.0},{"id":"nigrel anita j","label":"nigrel anita j","degree":1,"companies":["SCNB"],"x":1.0,"y":0.0}],"edges":[{"source":"hilton christopher j","target":"nigrel anita j","similarity":1.0,"companies":["SCNB"]}]}

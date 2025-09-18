@@ -1,0 +1,1 @@
+{"id":0,"company":"ALCO","nodes":[{"id":"brokaw george r","label":"brokaw george r","degree":1,"x":0.0,"y":1.0},{"id":"krusen w andrew jr","label":"krusen w andrew jr","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"brokaw george r","target":"krusen w andrew jr","similarity":0.941176}]}

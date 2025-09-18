@@ -1,0 +1,1 @@
+{"id":1132,"nodes":[{"id":"lawrence bryan h","label":"lawrence bryan h","degree":1,"companies":["METC"],"x":0.0,"y":1.0},{"id":"leidel peter a","label":"leidel peter a","degree":1,"companies":["METC"],"x":1.0,"y":0.0}],"edges":[{"source":"lawrence bryan h","target":"leidel peter a","similarity":1.0,"companies":["METC"]}]}

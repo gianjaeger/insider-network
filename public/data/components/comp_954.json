@@ -1,0 +1,1 @@
+{"id":954,"nodes":[{"id":"sethi subi","label":"sethi subi","degree":1,"companies":["CWAN"],"x":0.0,"y":1.0},{"id":"raman gayatri","label":"raman gayatri","degree":1,"companies":["CWAN"],"x":1.0,"y":0.0}],"edges":[{"source":"sethi subi","target":"raman gayatri","similarity":0.755952,"companies":["CWAN"]}]}

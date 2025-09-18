@@ -1,0 +1,1 @@
+{"id":1051,"nodes":[{"id":"kappus anthony ray","label":"kappus anthony ray","degree":1,"companies":["RDFN"],"x":0.0,"y":1.0},{"id":"taubman christian john","label":"taubman christian john","degree":1,"companies":["RDFN"],"x":1.0,"y":0.0}],"edges":[{"source":"kappus anthony ray","target":"taubman christian john","similarity":0.750679,"companies":["RDFN"]}]}

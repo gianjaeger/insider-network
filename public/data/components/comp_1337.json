@@ -1,0 +1,1 @@
+{"id":1337,"nodes":[{"id":"parod rick","label":"parod rick","degree":1,"companies":["LNN"],"x":0.0,"y":1.0},{"id":"downing david b","label":"downing david b","degree":1,"companies":["LNN"],"x":1.0,"y":0.0}],"edges":[{"source":"parod rick","target":"downing david b","similarity":0.786932,"companies":["LNN"]}]}

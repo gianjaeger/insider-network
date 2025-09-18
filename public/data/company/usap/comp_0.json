@@ -1,0 +1,1 @@
+{"id":0,"company":"USAP","nodes":[{"id":"oates dennis m","label":"oates dennis m","degree":1,"x":0.0,"y":1.0},{"id":"zimmer christopher m","label":"zimmer christopher m","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"oates dennis m","target":"zimmer christopher m","similarity":0.759486}]}

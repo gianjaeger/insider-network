@@ -1,0 +1,1 @@
+{"id":1129,"nodes":[{"id":"lewis alton b jr","label":"lewis alton b jr","degree":1,"companies":["FGBI"],"x":0.0,"y":1.0},{"id":"dosch eric","label":"dosch eric","degree":1,"companies":["FGBI"],"x":1.0,"y":0.0}],"edges":[{"source":"lewis alton b jr","target":"dosch eric","similarity":1.0,"companies":["FGBI"]}]}

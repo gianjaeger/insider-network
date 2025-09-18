@@ -1,0 +1,1 @@
+{"id":892,"nodes":[{"id":"medlin edwin","label":"medlin edwin","degree":1,"companies":["MXIM"],"x":0.0,"y":1.0},{"id":"jain vivek","label":"jain vivek","degree":1,"companies":["MXIM"],"x":1.0,"y":0.0}],"edges":[{"source":"medlin edwin","target":"jain vivek","similarity":0.763975,"companies":["MXIM"]}]}

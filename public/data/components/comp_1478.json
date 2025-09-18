@@ -1,0 +1,1 @@
+{"id":1478,"nodes":[{"id":"powers linda f","label":"powers linda f","degree":1,"companies":["NWBO"],"x":0.0,"y":1.0},{"id":"hemphill robert f jr.","label":"hemphill robert f jr.","degree":1,"companies":["NWBO"],"x":1.0,"y":0.0}],"edges":[{"source":"powers linda f","target":"hemphill robert f jr.","similarity":1.0,"companies":["NWBO"]}]}

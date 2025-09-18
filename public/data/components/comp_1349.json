@@ -1,0 +1,1 @@
+{"id":1349,"nodes":[{"id":"haas g hunter iv","label":"haas g hunter iv","degree":1,"companies":["ORC"],"x":0.0,"y":1.0},{"id":"cauley robert e","label":"cauley robert e","degree":1,"companies":["ORC"],"x":1.0,"y":0.0}],"edges":[{"source":"haas g hunter iv","target":"cauley robert e","similarity":0.700574,"companies":["ORC"]}]}

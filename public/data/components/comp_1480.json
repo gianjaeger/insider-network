@@ -1,0 +1,1 @@
+{"id":1480,"nodes":[{"id":"mathers thomas p.","label":"mathers thomas p.","degree":1,"companies":["CLCD"],"x":0.0,"y":1.0},{"id":"hogan linda c.","label":"hogan linda c.","degree":1,"companies":["CLCD"],"x":1.0,"y":0.0}],"edges":[{"source":"mathers thomas p.","target":"hogan linda c.","similarity":0.732143,"companies":["CLCD"]}]}

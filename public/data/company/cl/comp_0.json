@@ -1,0 +1,1 @@
+{"id":0,"company":"CL","nodes":[{"id":"bilbrey john p","label":"bilbrey john p","degree":1,"x":0.0,"y":1.0},{"id":"norrington lorrie m","label":"norrington lorrie m","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"bilbrey john p","target":"norrington lorrie m","similarity":0.820041}]}

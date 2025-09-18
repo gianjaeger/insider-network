@@ -1,0 +1,1 @@
+{"id":1093,"nodes":[{"id":"blackley richard scott","label":"blackley richard scott","degree":1,"companies":["OSCR"],"x":0.0,"y":1.0},{"id":"quane alessandrea c.","label":"quane alessandrea c.","degree":1,"companies":["OSCR"],"x":1.0,"y":0.0}],"edges":[{"source":"blackley richard scott","target":"quane alessandrea c.","similarity":0.928571,"companies":["OSCR"]}]}

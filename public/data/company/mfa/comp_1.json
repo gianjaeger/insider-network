@@ -1,0 +1,1 @@
+{"id":1,"company":"MFA","nodes":[{"id":"gorin william s","label":"gorin william s","degree":1,"x":0.0,"y":1.0},{"id":"knutson craig l","label":"knutson craig l","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"gorin william s","target":"knutson craig l","similarity":0.781772}]}

@@ -1,0 +1,1 @@
+{"id":1451,"nodes":[{"id":"schwartz theodore g","label":"schwartz theodore g","degree":1,"companies":["OPFI"],"x":0.0,"y":1.0},{"id":"schwartz todd g.","label":"schwartz todd g.","degree":1,"companies":["OPFI"],"x":1.0,"y":0.0}],"edges":[{"source":"schwartz theodore g","target":"schwartz todd g.","similarity":0.722319,"companies":["OPFI"]}]}

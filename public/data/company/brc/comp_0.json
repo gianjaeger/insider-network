@@ -1,0 +1,1 @@
+{"id":0,"company":"BRC","nodes":[{"id":"allender patrick w","label":"allender patrick w","degree":1,"x":0.0,"y":1.0},{"id":"goodkind conrad g","label":"goodkind conrad g","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"allender patrick w","target":"goodkind conrad g","similarity":0.801596}]}

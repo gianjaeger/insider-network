@@ -1,0 +1,1 @@
+{"id":1,"company":"AMTD","nodes":[{"id":"bradley thomas jr","label":"bradley thomas jr","degree":1,"x":0.0,"y":1.0},{"id":"adams marvin w","label":"adams marvin w","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"bradley thomas jr","target":"adams marvin w","similarity":0.795798}]}

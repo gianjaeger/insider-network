@@ -1,0 +1,1 @@
+{"id":0,"company":"CODX","nodes":[{"id":"brown brian lee","label":"brown brian lee","degree":1,"x":0.0,"y":1.0},{"id":"egan dwight h","label":"egan dwight h","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"brown brian lee","target":"egan dwight h","similarity":0.785714}]}

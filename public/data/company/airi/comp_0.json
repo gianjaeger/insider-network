@@ -1,0 +1,1 @@
+{"id":0,"company":"AIRI","nodes":[{"id":"taglich michael n","label":"taglich michael n","degree":1,"x":0.0,"y":1.0},{"id":"taglich robert","label":"taglich robert","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"taglich michael n","target":"taglich robert","similarity":0.954545}]}

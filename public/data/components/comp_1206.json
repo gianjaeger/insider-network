@@ -1,0 +1,1 @@
+{"id":1206,"nodes":[{"id":"mule edward a","label":"mule edward a","degree":1,"companies":["CPS","BAS","SR"],"x":0.0,"y":1.0},{"id":"o'shea robert j","label":"o'shea robert j","degree":1,"companies":["CPS","BAS","SR"],"x":1.0,"y":0.0}],"edges":[{"source":"mule edward a","target":"o'shea robert j","similarity":1.0,"companies":["BAS","CPS","GPOR","SR"]}]}

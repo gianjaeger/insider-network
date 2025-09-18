@@ -1,0 +1,1 @@
+{"id":1151,"nodes":[{"id":"schoonover mark alan","label":"schoonover mark alan","degree":1,"companies":["WAFD"],"x":0.0,"y":1.0},{"id":"whitehead roy m","label":"whitehead roy m","degree":1,"companies":["WAFD"],"x":1.0,"y":0.0}],"edges":[{"source":"schoonover mark alan","target":"whitehead roy m","similarity":0.847156,"companies":["WAFD"]}]}

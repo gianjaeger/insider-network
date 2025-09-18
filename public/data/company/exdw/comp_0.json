@@ -1,0 +1,1 @@
+{"id":0,"company":"EXDW","nodes":[{"id":"koga keiichi","label":"koga keiichi","degree":1,"x":0.0,"y":1.0},{"id":"yoshida tomoo","label":"yoshida tomoo","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"koga keiichi","target":"yoshida tomoo","similarity":1.0}]}

@@ -1,0 +1,1 @@
+{"id":958,"nodes":[{"id":"tuttle richard c","label":"tuttle richard c","degree":1,"companies":["H"],"x":0.0,"y":1.0},{"id":"mcdonald mackey j","label":"mcdonald mackey j","degree":1,"companies":["H"],"x":1.0,"y":0.0}],"edges":[{"source":"tuttle richard c","target":"mcdonald mackey j","similarity":0.909091,"companies":["H"]}]}

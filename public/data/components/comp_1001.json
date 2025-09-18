@@ -1,0 +1,1 @@
+{"id":1001,"nodes":[{"id":"landine michael j","label":"landine michael j","degree":1,"companies":["ALKS"],"x":0.0,"y":1.0},{"id":"pops richard f","label":"pops richard f","degree":1,"companies":["ALKS"],"x":1.0,"y":0.0}],"edges":[{"source":"landine michael j","target":"pops richard f","similarity":0.867615,"companies":["ALKS"]}]}

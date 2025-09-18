@@ -1,0 +1,1 @@
+{"id":1259,"nodes":[{"id":"murray andrew j.","label":"murray andrew j.","degree":1,"companies":["OLO"],"x":0.0,"y":1.0},{"id":"rhynard deanne","label":"rhynard deanne","degree":1,"companies":["OLO"],"x":1.0,"y":0.0}],"edges":[{"source":"murray andrew j.","target":"rhynard deanne","similarity":0.785714,"companies":["OLO"]}]}

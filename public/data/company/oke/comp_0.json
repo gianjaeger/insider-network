@@ -1,0 +1,1 @@
+{"id":0,"company":"OKE","nodes":[{"id":"hulse walter s iii","label":"hulse walter s iii","degree":1,"x":0.0,"y":1.0},{"id":"swords sheridan c","label":"swords sheridan c","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"hulse walter s iii","target":"swords sheridan c","similarity":0.809524}]}

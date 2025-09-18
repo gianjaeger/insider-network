@@ -1,0 +1,1 @@
+{"id":934,"nodes":[{"id":"ardoin elizabeth a","label":"ardoin elizabeth a","degree":1,"companies":["IBKC"],"x":0.0,"y":1.0},{"id":"restel anthony j","label":"restel anthony j","degree":1,"companies":["IBKC"],"x":1.0,"y":0.0}],"edges":[{"source":"ardoin elizabeth a","target":"restel anthony j","similarity":0.740351,"companies":["IBKC"]}]}

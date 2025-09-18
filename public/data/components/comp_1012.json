@@ -1,0 +1,1 @@
+{"id":1012,"nodes":[{"id":"anevski peter","label":"anevski peter","degree":1,"companies":["PGNY"],"x":0.0,"y":1.0},{"id":"schlanger david j","label":"schlanger david j","degree":1,"companies":["PGNY"],"x":1.0,"y":0.0}],"edges":[{"source":"anevski peter","target":"schlanger david j","similarity":0.797103,"companies":["PGNY"]}]}

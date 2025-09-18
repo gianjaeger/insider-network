@@ -1,0 +1,1 @@
+{"id":7,"company":"NONE","nodes":[{"id":"belk john r","label":"belk john r","degree":1,"x":0.0,"y":1.0},{"id":"belk thomas m jr","label":"belk thomas m jr","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"belk john r","target":"belk thomas m jr","similarity":0.867544}]}

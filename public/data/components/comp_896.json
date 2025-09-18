@@ -1,0 +1,1 @@
+{"id":896,"nodes":[{"id":"curtis glenn","label":"curtis glenn","degree":1,"companies":["STRZA"],"x":0.0,"y":1.0},{"id":"macdonald scott d","label":"macdonald scott d","degree":1,"companies":["STRZA"],"x":1.0,"y":0.0}],"edges":[{"source":"curtis glenn","target":"macdonald scott d","similarity":0.910714,"companies":["STRZA"]}]}

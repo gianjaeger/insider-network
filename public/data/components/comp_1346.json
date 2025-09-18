@@ -1,0 +1,1 @@
+{"id":1346,"nodes":[{"id":"root jonathan d","label":"root jonathan d","degree":1,"companies":["EFTR"],"x":0.0,"y":1.0},{"id":"tansey casey m","label":"tansey casey m","degree":1,"companies":["EFTR"],"x":1.0,"y":0.0}],"edges":[{"source":"root jonathan d","target":"tansey casey m","similarity":1.0,"companies":["EFTR"]}]}

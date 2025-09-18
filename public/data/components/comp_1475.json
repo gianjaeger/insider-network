@@ -1,0 +1,1 @@
+{"id":1475,"nodes":[{"id":"douglass stephen","label":"douglass stephen","degree":1,"companies":["LSCC"],"x":0.0,"y":1.0},{"id":"anderson james robert","label":"anderson james robert","degree":1,"companies":["LSCC"],"x":1.0,"y":0.0}],"edges":[{"source":"douglass stephen","target":"anderson james robert","similarity":0.838672,"companies":["LSCC"]}]}

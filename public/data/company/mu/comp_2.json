@@ -1,0 +1,1 @@
+{"id":2,"company":"MU","nodes":[{"id":"switz robert e","label":"switz robert e","degree":1,"x":0.0,"y":1.0},{"id":"beyer richard m","label":"beyer richard m","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"switz robert e","target":"beyer richard m","similarity":1.0}]}

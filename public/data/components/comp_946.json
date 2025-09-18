@@ -1,0 +1,1 @@
+{"id":946,"nodes":[{"id":"blazewicz kristin","label":"blazewicz kristin","degree":1,"companies":["COTY"],"x":0.0,"y":1.0},{"id":"von bayern anna","label":"von bayern anna","degree":1,"companies":["COTY"],"x":1.0,"y":0.0}],"edges":[{"source":"blazewicz kristin","target":"von bayern anna","similarity":0.773109,"companies":["COTY"]}]}

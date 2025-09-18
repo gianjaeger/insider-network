@@ -1,0 +1,1 @@
+{"id":0,"company":"MITT","nodes":[{"id":"lamanna joseph","label":"lamanna joseph","degree":1,"x":0.0,"y":1.0},{"id":"linneman peter","label":"linneman peter","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"lamanna joseph","target":"linneman peter","similarity":0.808081}]}

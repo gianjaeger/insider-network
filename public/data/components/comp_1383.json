@@ -1,0 +1,1 @@
+{"id":1383,"nodes":[{"id":"lowrance david l","label":"lowrance david l","degree":1,"companies":["SVRA"],"x":0.0,"y":1.0},{"id":"pauls matthew","label":"pauls matthew","degree":1,"companies":["SVRA"],"x":1.0,"y":0.0}],"edges":[{"source":"lowrance david l","target":"pauls matthew","similarity":0.798111,"companies":["SVRA"]}]}

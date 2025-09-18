@@ -1,0 +1,1 @@
+{"id":2,"company":"HPQ","nodes":[{"id":"coughlin ron","label":"coughlin ron","degree":1,"x":0.0,"y":1.0},{"id":"flaxman jon e","label":"flaxman jon e","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"coughlin ron","target":"flaxman jon e","similarity":0.822398}]}

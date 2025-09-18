@@ -1,0 +1,1 @@
+{"id":0,"company":"SMFR","nodes":[{"id":"saad kareem","label":"saad kareem","degree":1,"x":0.0,"y":1.0},{"id":"white karen ann","label":"white karen ann","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"saad kareem","target":"white karen ann","similarity":0.785714}]}

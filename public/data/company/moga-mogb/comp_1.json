@@ -1,0 +1,1 @@
+{"id":1,"company":"MOGA/MOGB","nodes":[{"id":"balkin timothy p","label":"balkin timothy p","degree":1,"x":0.0,"y":1.0},{"id":"burghardt r. eric","label":"burghardt r. eric","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"balkin timothy p","target":"burghardt r. eric","similarity":0.993421}]}

@@ -1,0 +1,1 @@
+{"id":1474,"nodes":[{"id":"rosenthal saul b","label":"rosenthal saul b","degree":1,"companies":["TICC"],"x":0.0,"y":1.0},{"id":"cohen jonathan h","label":"cohen jonathan h","degree":1,"companies":["TICC"],"x":1.0,"y":0.0}],"edges":[{"source":"rosenthal saul b","target":"cohen jonathan h","similarity":1.0,"companies":["TICC"]}]}

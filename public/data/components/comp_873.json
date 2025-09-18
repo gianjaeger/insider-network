@@ -1,0 +1,1 @@
+{"id":873,"nodes":[{"id":"shmunis sandra","label":"shmunis sandra","degree":1,"companies":["RNG"],"x":0.0,"y":1.0},{"id":"shmunis vladimir","label":"shmunis vladimir","degree":1,"companies":["RNG"],"x":1.0,"y":0.0}],"edges":[{"source":"shmunis sandra","target":"shmunis vladimir","similarity":0.941362,"companies":["RNG"]}]}

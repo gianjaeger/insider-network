@@ -1,0 +1,1 @@
+{"id":1193,"nodes":[{"id":"james brooke williams","label":"james brooke williams","degree":1,"companies":["PEBO"],"x":0.0,"y":1.0},{"id":"beam s craig","label":"beam s craig","degree":1,"companies":["PEBO"],"x":1.0,"y":0.0}],"edges":[{"source":"james brooke williams","target":"beam s craig","similarity":0.715909,"companies":["PEBO"]}]}

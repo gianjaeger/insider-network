@@ -1,0 +1,1 @@
+{"id":1408,"nodes":[{"id":"dake benjamin t","label":"dake benjamin t","degree":1,"companies":["AVTE"],"x":0.0,"y":1.0},{"id":"niven ralph","label":"niven ralph","degree":1,"companies":["AVTE"],"x":1.0,"y":0.0}],"edges":[{"source":"dake benjamin t","target":"niven ralph","similarity":0.72406,"companies":["AVTE"]}]}

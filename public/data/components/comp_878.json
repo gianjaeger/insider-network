@@ -1,0 +1,1 @@
+{"id":878,"nodes":[{"id":"steines daniel","label":"steines daniel","degree":1,"companies":["CFMS"],"x":0.0,"y":1.0},{"id":"weiner paul s","label":"weiner paul s","degree":1,"companies":["CFMS"],"x":1.0,"y":0.0}],"edges":[{"source":"steines daniel","target":"weiner paul s","similarity":0.72429,"companies":["CFMS"]}]}

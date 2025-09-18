@@ -1,0 +1,1 @@
+{"id":1175,"nodes":[{"id":"rottenberg erika","label":"rottenberg erika","degree":1,"companies":["TWLO"],"x":0.0,"y":1.0},{"id":"dubinsky donna","label":"dubinsky donna","degree":1,"companies":["TWLO"],"x":1.0,"y":0.0}],"edges":[{"source":"rottenberg erika","target":"dubinsky donna","similarity":0.819501,"companies":["TWLO"]}]}

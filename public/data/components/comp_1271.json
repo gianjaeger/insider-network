@@ -1,0 +1,1 @@
+{"id":1271,"nodes":[{"id":"geller marshall s","label":"geller marshall s","degree":1,"companies":["GPX"],"x":0.0,"y":1.0},{"id":"pfenniger richard c jr","label":"pfenniger richard c jr","degree":1,"companies":["GPX"],"x":1.0,"y":0.0}],"edges":[{"source":"geller marshall s","target":"pfenniger richard c jr","similarity":0.992899,"companies":["GPX"]}]}

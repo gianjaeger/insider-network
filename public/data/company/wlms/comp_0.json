@@ -1,0 +1,1 @@
+{"id":0,"company":"WLMS","nodes":[{"id":"landes joshua","label":"landes joshua","degree":1,"x":0.0,"y":1.0},{"id":"obus nelson","label":"obus nelson","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"landes joshua","target":"obus nelson","similarity":1.0}]}

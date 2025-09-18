@@ -1,0 +1,1 @@
+{"id":1,"company":"CPB","nodes":[{"id":"mignini luca","label":"mignini luca","degree":1,"x":0.0,"y":1.0},{"id":"disilvestro anthony","label":"disilvestro anthony","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"mignini luca","target":"disilvestro anthony","similarity":0.809083}]}

@@ -1,0 +1,1 @@
+{"id":1238,"nodes":[{"id":"lambert nicole","label":"lambert nicole","degree":1,"companies":["MYGN"],"x":0.0,"y":1.0},{"id":"verratti mark","label":"verratti mark","degree":1,"companies":["MYGN"],"x":1.0,"y":0.0}],"edges":[{"source":"lambert nicole","target":"verratti mark","similarity":0.732843,"companies":["MYGN"]}]}

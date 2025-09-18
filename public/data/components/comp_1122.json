@@ -1,0 +1,1 @@
+{"id":1122,"nodes":[{"id":"mcgee brian","label":"mcgee brian","degree":1,"companies":["GPRO"],"x":0.0,"y":1.0},{"id":"saltman eve t.","label":"saltman eve t.","degree":1,"companies":["GPRO"],"x":1.0,"y":0.0}],"edges":[{"source":"mcgee brian","target":"saltman eve t.","similarity":0.700418,"companies":["GPRO"]}]}

@@ -1,0 +1,1 @@
+{"id":0,"company":"WEAV","nodes":[{"id":"coleman charles p iii","label":"coleman charles p iii","degree":1,"x":0.0,"y":1.0},{"id":"shleifer scott l","label":"shleifer scott l","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"coleman charles p iii","target":"shleifer scott l","similarity":1.0}]}

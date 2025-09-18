@@ -1,0 +1,1 @@
+{"id":1435,"nodes":[{"id":"o malley margaret a","label":"o malley margaret a","degree":1,"companies":["ASRV"],"x":0.0,"y":1.0},{"id":"kunkle kim w","label":"kunkle kim w","degree":1,"companies":["ASRV"],"x":1.0,"y":0.0}],"edges":[{"source":"o malley margaret a","target":"kunkle kim w","similarity":0.779221,"companies":["ASRV"]}]}

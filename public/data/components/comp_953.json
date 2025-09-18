@@ -1,0 +1,1 @@
+{"id":953,"nodes":[{"id":"faitelson yakov","label":"faitelson yakov","degree":1,"companies":["VRNS"],"x":0.0,"y":1.0},{"id":"korkus ohad","label":"korkus ohad","degree":1,"companies":["VRNS"],"x":1.0,"y":0.0}],"edges":[{"source":"faitelson yakov","target":"korkus ohad","similarity":0.888889,"companies":["VRNS"]}]}

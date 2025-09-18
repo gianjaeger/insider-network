@@ -1,0 +1,1 @@
+{"id":1,"company":"KMG","nodes":[{"id":"hunter john c iii","label":"hunter john c iii","degree":1,"x":0.0,"y":1.0},{"id":"leonard fred c","label":"leonard fred c","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"hunter john c iii","target":"leonard fred c","similarity":0.982143}]}

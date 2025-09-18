@@ -1,0 +1,1 @@
+{"id":1283,"nodes":[{"id":"vazquez raul","label":"vazquez raul","degree":1,"companies":["OPRT"],"x":0.0,"y":1.0},{"id":"coblentz jonathan aaron","label":"coblentz jonathan aaron","degree":1,"companies":["OPRT"],"x":1.0,"y":0.0}],"edges":[{"source":"vazquez raul","target":"coblentz jonathan aaron","similarity":0.790796,"companies":["OPRT"]}]}

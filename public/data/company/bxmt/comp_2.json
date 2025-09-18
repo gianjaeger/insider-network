@@ -1,0 +1,1 @@
+{"id":2,"company":"BXMT","nodes":[{"id":"nash michael b.","label":"nash michael b.","degree":1,"x":0.0,"y":1.0},{"id":"pollack jonathan lee","label":"pollack jonathan lee","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"nash michael b.","target":"pollack jonathan lee","similarity":0.802222}]}

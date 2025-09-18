@@ -1,0 +1,1 @@
+{"id":1410,"nodes":[{"id":"halevi-davidov naama","label":"halevi-davidov naama","degree":1,"companies":["KLTR"],"x":0.0,"y":1.0},{"id":"david shay","label":"david shay","degree":1,"companies":["KLTR"],"x":1.0,"y":0.0}],"edges":[{"source":"halevi-davidov naama","target":"david shay","similarity":0.771254,"companies":["KLTR"]}]}

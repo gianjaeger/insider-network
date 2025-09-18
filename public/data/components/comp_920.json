@@ -1,0 +1,1 @@
+{"id":920,"nodes":[{"id":"wiemann bradley t","label":"wiemann bradley t","degree":1,"companies":["DAKT"],"x":0.0,"y":1.0},{"id":"gatzke carla s","label":"gatzke carla s","degree":1,"companies":["DAKT"],"x":1.0,"y":0.0}],"edges":[{"source":"wiemann bradley t","target":"gatzke carla s","similarity":0.715852,"companies":["DAKT"]}]}

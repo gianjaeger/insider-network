@@ -1,0 +1,1 @@
+{"id":0,"company":"UCBI","nodes":[{"id":"bradshaw richard","label":"bradshaw richard","degree":1,"x":0.0,"y":1.0},{"id":"edwards robert a.","label":"edwards robert a.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"bradshaw richard","target":"edwards robert a.","similarity":0.73026}]}

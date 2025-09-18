@@ -1,0 +1,1 @@
+{"id":0,"company":"YEXT","nodes":[{"id":"bond darryl","label":"bond darryl","degree":1,"x":0.0,"y":1.0},{"id":"shin ho","label":"shin ho","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"bond darryl","target":"shin ho","similarity":0.807717}]}

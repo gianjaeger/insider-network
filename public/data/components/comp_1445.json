@@ -1,0 +1,1 @@
+{"id":1445,"nodes":[{"id":"wheeler peggy","label":"wheeler peggy","degree":1,"companies":["ISBA"],"x":0.0,"y":1.0},{"id":"catlin jon d","label":"catlin jon d","degree":1,"companies":["ISBA"],"x":1.0,"y":0.0}],"edges":[{"source":"wheeler peggy","target":"catlin jon d","similarity":0.825,"companies":["ISBA"]}]}

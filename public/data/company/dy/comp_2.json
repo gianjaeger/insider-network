@@ -1,0 +1,1 @@
+{"id":2,"company":"DY","nodes":[{"id":"estes timothy r","label":"estes timothy r","degree":1,"x":0.0,"y":1.0},{"id":"nielsen steven e","label":"nielsen steven e","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"estes timothy r","target":"nielsen steven e","similarity":0.758205}]}

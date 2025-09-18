@@ -1,0 +1,1 @@
+{"id":1336,"nodes":[{"id":"granot david","label":"granot david","degree":1,"companies":["ORA"],"x":0.0,"y":1.0},{"id":"sharir dafna","label":"sharir dafna","degree":1,"companies":["ORA"],"x":1.0,"y":0.0}],"edges":[{"source":"granot david","target":"sharir dafna","similarity":0.779875,"companies":["ORA"]}]}

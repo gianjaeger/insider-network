@@ -1,0 +1,1 @@
+{"id":0,"company":"APTI","nodes":[{"id":"gupta sachin","label":"gupta sachin","degree":1,"x":0.0,"y":1.0},{"id":"morrow john c","label":"morrow john c","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"gupta sachin","target":"morrow john c","similarity":0.711814}]}

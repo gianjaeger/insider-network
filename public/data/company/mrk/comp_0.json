@@ -1,0 +1,1 @@
+{"id":0,"company":"MRK","nodes":[{"id":"clyburn frank","label":"clyburn frank","degree":1,"x":0.0,"y":1.0},{"id":"mizell steven","label":"mizell steven","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"clyburn frank","target":"mizell steven","similarity":0.714286}]}

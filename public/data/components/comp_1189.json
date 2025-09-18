@@ -1,0 +1,1 @@
+{"id":1189,"nodes":[{"id":"sands robert","label":"sands robert","degree":1,"companies":["STZ"],"x":0.0,"y":1.0},{"id":"sands richard","label":"sands richard","degree":1,"companies":["STZ"],"x":1.0,"y":0.0}],"edges":[{"source":"sands robert","target":"sands richard","similarity":0.941289,"companies":["STZ"]}]}

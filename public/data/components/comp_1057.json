@@ -1,0 +1,1 @@
+{"id":1057,"nodes":[{"id":"wood william david iii","label":"wood william david iii","degree":1,"companies":["AGYS"],"x":0.0,"y":1.0},{"id":"robertson chris j","label":"robertson chris j","degree":1,"companies":["AGYS"],"x":1.0,"y":0.0}],"edges":[{"source":"wood william david iii","target":"robertson chris j","similarity":0.8,"companies":["AGYS"]}]}

@@ -1,0 +1,1 @@
+{"id":1091,"nodes":[{"id":"crockett todd","label":"crockett todd","degree":1,"companies":["ZI"],"x":0.0,"y":1.0},{"id":"mironov jason","label":"mironov jason","degree":1,"companies":["ZI"],"x":1.0,"y":0.0}],"edges":[{"source":"crockett todd","target":"mironov jason","similarity":1.0,"companies":["ZI"]}]}

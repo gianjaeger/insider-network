@@ -1,0 +1,1 @@
+{"id":2,"company":"LBTY","nodes":[{"id":"salvato andrea","label":"salvato andrea","degree":1,"x":0.0,"y":1.0},{"id":"waldron jason","label":"waldron jason","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"salvato andrea","target":"waldron jason","similarity":0.703774}]}

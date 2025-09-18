@@ -1,0 +1,1 @@
+{"id":0,"company":"NTRA","nodes":[{"id":"brophy michael burkes","label":"brophy michael burkes","degree":1,"x":0.0,"y":1.0},{"id":"rabinowitz daniel","label":"rabinowitz daniel","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"brophy michael burkes","target":"rabinowitz daniel","similarity":0.76729}]}

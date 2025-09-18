@@ -1,0 +1,1 @@
+{"id":1067,"nodes":[{"id":"talor eyal","label":"talor eyal","degree":1,"companies":["CVM"],"x":0.0,"y":1.0},{"id":"kersten geert r","label":"kersten geert r","degree":1,"companies":["CVM"],"x":1.0,"y":0.0}],"edges":[{"source":"talor eyal","target":"kersten geert r","similarity":0.717087,"companies":["CVM"]}]}

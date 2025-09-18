@@ -1,0 +1,1 @@
+{"id":1,"company":"CSWI","nodes":[{"id":"swartz robert m","label":"swartz robert m","degree":1,"x":0.0,"y":1.0},{"id":"livingstone linda a.","label":"livingstone linda a.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"swartz robert m","target":"livingstone linda a.","similarity":0.878906}]}

@@ -1,0 +1,1 @@
+{"id":1277,"nodes":[{"id":"graham ginger l","label":"graham ginger l","degree":1,"companies":["GHDX"],"x":0.0,"y":1.0},{"id":"cohen fred e","label":"cohen fred e","degree":1,"companies":["GHDX"],"x":1.0,"y":0.0}],"edges":[{"source":"graham ginger l","target":"cohen fred e","similarity":0.838235,"companies":["GHDX"]}]}

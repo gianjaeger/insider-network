@@ -1,0 +1,1 @@
+{"id":0,"company":"MNPR","nodes":[{"id":"cittadine andrew","label":"cittadine andrew","degree":1,"x":0.0,"y":1.0},{"id":"robinson chandler","label":"robinson chandler","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"cittadine andrew","target":"robinson chandler","similarity":0.713235}]}

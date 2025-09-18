@@ -1,0 +1,1 @@
+{"id":1329,"nodes":[{"id":"sacks rodney c","label":"sacks rodney c","degree":1,"companies":["MNST"],"x":0.0,"y":1.0},{"id":"schlosberg hilton h","label":"schlosberg hilton h","degree":1,"companies":["MNST"],"x":1.0,"y":0.0}],"edges":[{"source":"sacks rodney c","target":"schlosberg hilton h","similarity":0.878041,"companies":["MNST"]}]}

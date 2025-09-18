@@ -1,0 +1,1 @@
+{"id":1023,"nodes":[{"id":"boller kenneth","label":"boller kenneth","degree":1,"companies":["AKTS"],"x":0.0,"y":1.0},{"id":"aichele david","label":"aichele david","degree":1,"companies":["AKTS"],"x":1.0,"y":0.0}],"edges":[{"source":"boller kenneth","target":"aichele david","similarity":0.74317,"companies":["AKTS"]}]}

@@ -1,0 +1,1 @@
+{"id":0,"company":"HFBL","nodes":[{"id":"barlow james r","label":"barlow james r","degree":1,"x":0.0,"y":1.0},{"id":"brown glen w.","label":"brown glen w.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"barlow james r","target":"brown glen w.","similarity":0.763889}]}

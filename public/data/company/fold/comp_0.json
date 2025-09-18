@@ -1,0 +1,1 @@
+{"id":0,"company":"FOLD","nodes":[{"id":"peist kenneth","label":"peist kenneth","degree":1,"x":0.0,"y":1.0},{"id":"quimi daphne","label":"quimi daphne","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"peist kenneth","target":"quimi daphne","similarity":0.7107}]}

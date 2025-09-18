@@ -1,0 +1,1 @@
+{"id":1050,"nodes":[{"id":"mullan amanda","label":"mullan amanda","degree":1,"companies":["NJR"],"x":0.0,"y":1.0},{"id":"washington nancy a.","label":"washington nancy a.","degree":1,"companies":["NJR"],"x":1.0,"y":0.0}],"edges":[{"source":"mullan amanda","target":"washington nancy a.","similarity":0.700577,"companies":["NJR"]}]}

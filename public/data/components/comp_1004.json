@@ -1,0 +1,1 @@
+{"id":1004,"nodes":[{"id":"villar raul jr.","label":"villar raul jr.","degree":1,"companies":["PYCR"],"x":0.0,"y":1.0},{"id":"ante adam brooks","label":"ante adam brooks","degree":1,"companies":["PYCR"],"x":1.0,"y":0.0}],"edges":[{"source":"villar raul jr.","target":"ante adam brooks","similarity":0.889062,"companies":["PYCR"]}]}

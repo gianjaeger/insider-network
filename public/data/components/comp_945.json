@@ -1,0 +1,1 @@
+{"id":945,"nodes":[{"id":"lucresca se","label":"lucresca se","degree":1,"companies":["COTY"],"x":0.0,"y":1.0},{"id":"agnaten se","label":"agnaten se","degree":1,"companies":["COTY"],"x":1.0,"y":0.0}],"edges":[{"source":"lucresca se","target":"agnaten se","similarity":1.0,"companies":["COTY"]}]}

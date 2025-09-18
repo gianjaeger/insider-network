@@ -1,0 +1,1 @@
+{"id":1397,"nodes":[{"id":"nunemaker donald a","label":"nunemaker donald a","degree":1,"companies":["wlfc"],"x":0.0,"y":1.0},{"id":"forsyth bradley stewart","label":"forsyth bradley stewart","degree":1,"companies":["wlfc"],"x":1.0,"y":0.0}],"edges":[{"source":"nunemaker donald a","target":"forsyth bradley stewart","similarity":0.775433,"companies":["wlfc"]}]}

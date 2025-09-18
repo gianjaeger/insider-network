@@ -1,0 +1,1 @@
+{"id":1330,"nodes":[{"id":"leung gabriel","label":"leung gabriel","degree":1,"companies":["NVCR"],"x":0.0,"y":1.0},{"id":"groenhuysen wilhelmus cm","label":"groenhuysen wilhelmus cm","degree":1,"companies":["NVCR"],"x":1.0,"y":0.0}],"edges":[{"source":"leung gabriel","target":"groenhuysen wilhelmus cm","similarity":0.717687,"companies":["NVCR"]}]}

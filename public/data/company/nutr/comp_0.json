@@ -1,0 +1,1 @@
+{"id":0,"company":"NUTR","nodes":[{"id":"esplin j kimo","label":"esplin j kimo","degree":1,"x":0.0,"y":1.0},{"id":"stice james d","label":"stice james d","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"esplin j kimo","target":"stice james d","similarity":1.0}]}

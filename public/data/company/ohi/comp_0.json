@@ -1,0 +1,1 @@
+{"id":0,"company":"OHI","nodes":[{"id":"booth daniel j","label":"booth daniel j","degree":1,"x":0.0,"y":1.0},{"id":"stephenson robert o","label":"stephenson robert o","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"booth daniel j","target":"stephenson robert o","similarity":0.787117}]}

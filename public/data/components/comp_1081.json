@@ -1,0 +1,1 @@
+{"id":1081,"nodes":[{"id":"mcgrath timothy j","label":"mcgrath timothy j","degree":1,"companies":["CNXN"],"x":0.0,"y":1.0},{"id":"baker thomas c","label":"baker thomas c","degree":1,"companies":["CNXN"],"x":1.0,"y":0.0}],"edges":[{"source":"mcgrath timothy j","target":"baker thomas c","similarity":0.702407,"companies":["CNXN"]}]}

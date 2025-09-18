@@ -1,0 +1,1 @@
+{"id":865,"nodes":[{"id":"ford todd r","label":"ford todd r","degree":1,"companies":["COUP"],"x":0.0,"y":1.0},{"id":"bernshteyn robert","label":"bernshteyn robert","degree":1,"companies":["COUP"],"x":1.0,"y":0.0}],"edges":[{"source":"ford todd r","target":"bernshteyn robert","similarity":0.828644,"companies":["COUP"]}]}

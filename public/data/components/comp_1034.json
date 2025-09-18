@@ -1,0 +1,1 @@
+{"id":1034,"nodes":[{"id":"steven edelman","label":"steven edelman","degree":1,"companies":["SENS"],"x":0.0,"y":1.0},{"id":"fiorentino edward","label":"fiorentino edward","degree":1,"companies":["SENS"],"x":1.0,"y":0.0}],"edges":[{"source":"steven edelman","target":"fiorentino edward","similarity":1.0,"companies":["SENS"]}]}

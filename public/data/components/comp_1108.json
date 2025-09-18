@@ -1,0 +1,1 @@
+{"id":1108,"nodes":[{"id":"magloth christian","label":"magloth christian","degree":1,"companies":["MTD"],"x":0.0,"y":1.0},{"id":"vadala shawn","label":"vadala shawn","degree":1,"companies":["MTD"],"x":1.0,"y":0.0}],"edges":[{"source":"magloth christian","target":"vadala shawn","similarity":0.7186,"companies":["MTD"]}]}

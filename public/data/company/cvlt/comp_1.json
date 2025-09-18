@@ -1,0 +1,1 @@
+{"id":1,"company":"CVLT","nodes":[{"id":"di blasio riccardo","label":"di blasio riccardo","degree":1,"x":0.0,"y":1.0},{"id":"mirchandani sanjay","label":"mirchandani sanjay","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"di blasio riccardo","target":"mirchandani sanjay","similarity":0.848214}]}

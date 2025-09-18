@@ -1,0 +1,1 @@
+{"id":1246,"nodes":[{"id":"hall samuel pike","label":"hall samuel pike","degree":1,"companies":["GRUB"],"x":0.0,"y":1.0},{"id":"kucharski brandt walter","label":"kucharski brandt walter","degree":1,"companies":["GRUB"],"x":1.0,"y":0.0}],"edges":[{"source":"hall samuel pike","target":"kucharski brandt walter","similarity":0.755593,"companies":["GRUB"]}]}

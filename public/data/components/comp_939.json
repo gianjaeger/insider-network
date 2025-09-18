@@ -1,0 +1,1 @@
+{"id":939,"nodes":[{"id":"roberts george r","label":"roberts george r","degree":1,"companies":["NONE","KREF"],"x":0.0,"y":1.0},{"id":"kravis henry r","label":"kravis henry r","degree":1,"companies":["NONE","KREF"],"x":1.0,"y":0.0}],"edges":[{"source":"roberts george r","target":"kravis henry r","similarity":1.0,"companies":["KREF","NONE"]}]}

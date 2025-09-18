@@ -1,0 +1,1 @@
+{"id":966,"nodes":[{"id":"audhya paul k.","label":"audhya paul k.","degree":1,"companies":["KALV"],"x":0.0,"y":1.0},{"id":"palleiko benjamin l","label":"palleiko benjamin l","degree":1,"companies":["KALV"],"x":1.0,"y":0.0}],"edges":[{"source":"audhya paul k.","target":"palleiko benjamin l","similarity":0.767857,"companies":["KALV"]}]}

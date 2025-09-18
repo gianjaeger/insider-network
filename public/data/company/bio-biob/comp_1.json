@@ -1,0 +1,1 @@
+{"id":1,"company":"BIO, BIOB","nodes":[{"id":"hertia john","label":"hertia john","degree":1,"x":0.0,"y":1.0},{"id":"magni giovanni","label":"magni giovanni","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"hertia john","target":"magni giovanni","similarity":0.710294}]}

@@ -1,0 +1,1 @@
+{"id":1037,"nodes":[{"id":"lebovitz stephen d","label":"lebovitz stephen d","degree":1,"companies":["CBL"],"x":0.0,"y":1.0},{"id":"curry jeffery v.","label":"curry jeffery v.","degree":1,"companies":["CBL"],"x":1.0,"y":0.0}],"edges":[{"source":"lebovitz stephen d","target":"curry jeffery v.","similarity":0.72807,"companies":["CBL"]}]}

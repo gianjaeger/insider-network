@@ -1,0 +1,1 @@
+{"id":928,"nodes":[{"id":"trigg leslie","label":"trigg leslie","degree":1,"companies":["OM"],"x":0.0,"y":1.0},{"id":"vazquez martin","label":"vazquez martin","degree":1,"companies":["OM"],"x":1.0,"y":0.0}],"edges":[{"source":"trigg leslie","target":"vazquez martin","similarity":0.758681,"companies":["OM"]}]}

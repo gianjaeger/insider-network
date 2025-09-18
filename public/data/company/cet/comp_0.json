@@ -1,0 +1,1 @@
+{"id":0,"company":"CET","nodes":[{"id":"hill john c","label":"hill john c","degree":1,"x":0.0,"y":1.0},{"id":"o'neill andrew j","label":"o'neill andrew j","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"hill john c","target":"o'neill andrew j","similarity":0.718173}]}

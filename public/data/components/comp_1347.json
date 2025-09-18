@@ -1,0 +1,1 @@
+{"id":1347,"nodes":[{"id":"mindich jeremy","label":"mindich jeremy","degree":1,"companies":["ACOR","ITRI"],"x":0.0,"y":1.0},{"id":"sirovich matthew","label":"sirovich matthew","degree":1,"companies":["ACOR","ITRI"],"x":1.0,"y":0.0}],"edges":[{"source":"mindich jeremy","target":"sirovich matthew","similarity":1.0,"companies":["ACOR","ITRI"]}]}

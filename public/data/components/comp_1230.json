@@ -1,0 +1,1 @@
+{"id":1230,"nodes":[{"id":"roskey mark t.","label":"roskey mark t.","degree":1,"companies":["QTRX"],"x":0.0,"y":1.0},{"id":"mattoon dawn","label":"mattoon dawn","degree":1,"companies":["QTRX"],"x":1.0,"y":0.0}],"edges":[{"source":"roskey mark t.","target":"mattoon dawn","similarity":0.875826,"companies":["QTRX"]}]}

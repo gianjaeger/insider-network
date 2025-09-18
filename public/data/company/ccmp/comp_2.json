@@ -1,0 +1,1 @@
+{"id":2,"company":"CCMP","nodes":[{"id":"polezoes lisa a","label":"polezoes lisa a","degree":1,"x":0.0,"y":1.0},{"id":"roman thomas s","label":"roman thomas s","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"polezoes lisa a","target":"roman thomas s","similarity":0.725871}]}

@@ -1,0 +1,1 @@
+{"id":1188,"nodes":[{"id":"baldwin kenneth rone","label":"baldwin kenneth rone","degree":1,"companies":["CNC"],"x":0.0,"y":1.0},{"id":"goldman carol","label":"goldman carol","degree":1,"companies":["CNC"],"x":1.0,"y":0.0}],"edges":[{"source":"baldwin kenneth rone","target":"goldman carol","similarity":0.786859,"companies":["CNC"]}]}

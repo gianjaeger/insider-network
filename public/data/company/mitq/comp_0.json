@@ -1,0 +1,1 @@
+{"id":0,"company":"MITQ","nodes":[{"id":"anderson scott lloyd","label":"anderson scott lloyd","degree":1,"x":0.0,"y":1.0},{"id":"crothall katherine d","label":"crothall katherine d","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"anderson scott lloyd","target":"crothall katherine d","similarity":0.802222}]}

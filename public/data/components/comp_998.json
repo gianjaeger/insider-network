@@ -1,0 +1,1 @@
+{"id":998,"nodes":[{"id":"brown andrew william fraser","label":"brown andrew william fraser","degree":1,"companies":["GWRE"],"x":0.0,"y":1.0},{"id":"lavin paul","label":"lavin paul","degree":1,"companies":["GWRE"],"x":1.0,"y":0.0}],"edges":[{"source":"brown andrew william fraser","target":"lavin paul","similarity":0.776502,"companies":["GWRE"]}]}

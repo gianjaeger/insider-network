@@ -1,0 +1,1 @@
+{"id":1159,"nodes":[{"id":"adelman david j.","label":"adelman david j.","degree":1,"companies":["FSIC"],"x":0.0,"y":1.0},{"id":"forman michael c.","label":"forman michael c.","degree":1,"companies":["FSIC"],"x":1.0,"y":0.0}],"edges":[{"source":"adelman david j.","target":"forman michael c.","similarity":0.970588,"companies":["FSIC"]}]}

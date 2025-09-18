@@ -1,0 +1,1 @@
+{"id":1141,"nodes":[{"id":"efstratis e. nicholaus","label":"efstratis e. nicholaus","degree":1,"companies":["INST"],"x":0.0,"y":1.0},{"id":"madsen kent","label":"madsen kent","degree":1,"companies":["INST"],"x":1.0,"y":0.0}],"edges":[{"source":"efstratis e. nicholaus","target":"madsen kent","similarity":1.0,"companies":["INST"]}]}

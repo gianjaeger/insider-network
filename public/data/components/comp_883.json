@@ -1,0 +1,1 @@
+{"id":883,"nodes":[{"id":"bouchard michel","label":"bouchard michel","degree":1,"companies":["ILMN"],"x":0.0,"y":1.0},{"id":"ronaghi mostafa","label":"ronaghi mostafa","degree":1,"companies":["ILMN"],"x":1.0,"y":0.0}],"edges":[{"source":"bouchard michel","target":"ronaghi mostafa","similarity":0.750583,"companies":["ILMN"]}]}

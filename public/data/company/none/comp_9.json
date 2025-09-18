@@ -1,0 +1,1 @@
+{"id":9,"company":"NONE","nodes":[{"id":"randolph jeffrey","label":"randolph jeffrey","degree":1,"x":0.0,"y":1.0},{"id":"desai vipe","label":"desai vipe","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"randolph jeffrey","target":"desai vipe","similarity":0.760923}]}

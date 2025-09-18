@@ -1,0 +1,1 @@
+{"id":0,"company":"NTN","nodes":[{"id":"gurrola sandra m","label":"gurrola sandra m","degree":1,"x":0.0,"y":1.0},{"id":"wolff allen","label":"wolff allen","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"gurrola sandra m","target":"wolff allen","similarity":0.845029}]}

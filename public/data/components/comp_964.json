@@ -1,0 +1,1 @@
+{"id":964,"nodes":[{"id":"mooney kevin w","label":"mooney kevin w","degree":1,"companies":["BLKB"],"x":0.0,"y":1.0},{"id":"olson jon w","label":"olson jon w","degree":1,"companies":["BLKB"],"x":1.0,"y":0.0}],"edges":[{"source":"mooney kevin w","target":"olson jon w","similarity":0.71405,"companies":["BLKB"]}]}

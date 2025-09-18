@@ -1,0 +1,1 @@
+{"id":0,"company":"CAR","nodes":[{"id":"ferraro joseph a.","label":"ferraro joseph a.","degree":1,"x":0.0,"y":1.0},{"id":"martins izilda p","label":"martins izilda p","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"ferraro joseph a.","target":"martins izilda p","similarity":0.952381}]}

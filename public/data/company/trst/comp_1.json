@@ -1,0 +1,1 @@
+{"id":1,"company":"TRST","nodes":[{"id":"silverman frank b","label":"silverman frank b","degree":1,"x":0.0,"y":1.0},{"id":"russell kimberly adams","label":"russell kimberly adams","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"silverman frank b","target":"russell kimberly adams","similarity":0.768939}]}

@@ -1,0 +1,1 @@
+{"id":0,"company":"SIRO","nodes":[{"id":"friedman jonathan i","label":"friedman jonathan i","degree":1,"x":0.0,"y":1.0},{"id":"slovin jeffrey","label":"slovin jeffrey","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"friedman jonathan i","target":"slovin jeffrey","similarity":0.976591}]}

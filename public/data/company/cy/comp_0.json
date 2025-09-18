@@ -1,0 +1,1 @@
+{"id":0,"company":"CY","nodes":[{"id":"geha sam","label":"geha sam","degree":1,"x":0.0,"y":1.0},{"id":"gopalswamy sudhir","label":"gopalswamy sudhir","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"geha sam","target":"gopalswamy sudhir","similarity":0.82055}]}

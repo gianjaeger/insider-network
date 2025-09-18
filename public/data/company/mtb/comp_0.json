@@ -1,0 +1,1 @@
+{"id":0,"company":"MTB","nodes":[{"id":"cunningham t jefferson iii","label":"cunningham t jefferson iii","degree":1,"x":0.0,"y":1.0},{"id":"geisel gary n","label":"geisel gary n","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"cunningham t jefferson iii","target":"geisel gary n","similarity":0.822981}]}

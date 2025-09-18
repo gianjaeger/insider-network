@@ -1,0 +1,1 @@
+{"id":1216,"nodes":[{"id":"schram ryan s","label":"schram ryan s","degree":1,"companies":["IZEA"],"x":0.0,"y":1.0},{"id":"murphy edward h","label":"murphy edward h","degree":1,"companies":["IZEA"],"x":1.0,"y":0.0}],"edges":[{"source":"schram ryan s","target":"murphy edward h","similarity":0.801375,"companies":["IZEA"]}]}

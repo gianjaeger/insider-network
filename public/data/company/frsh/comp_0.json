@@ -1,0 +1,1 @@
+{"id":0,"company":"FRSH","nodes":[{"id":"flower johanna","label":"flower johanna","degree":1,"x":0.0,"y":1.0},{"id":"taylor jennifer h","label":"taylor jennifer h","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"flower johanna","target":"taylor jennifer h","similarity":0.783654}]}

@@ -1,0 +1,1 @@
+{"id":0,"company":"GRWG","nodes":[{"id":"lampert darren","label":"lampert darren","degree":1,"x":0.0,"y":1.0},{"id":"salaman michael","label":"salaman michael","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"lampert darren","target":"salaman michael","similarity":0.802721}]}

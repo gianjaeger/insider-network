@@ -1,0 +1,1 @@
+{"id":0,"company":"ATER","nodes":[{"id":"chaouat-fix mihal","label":"chaouat-fix mihal","degree":1,"x":0.0,"y":1.0},{"id":"pascal tomer","label":"pascal tomer","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"chaouat-fix mihal","target":"pascal tomer","similarity":0.924603}]}

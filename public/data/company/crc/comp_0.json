@@ -1,0 +1,1 @@
+{"id":0,"company":"CRC","nodes":[{"id":"pineci roy","label":"pineci roy","degree":1,"x":0.0,"y":1.0},{"id":"stevens todd a.","label":"stevens todd a.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"pineci roy","target":"stevens todd a.","similarity":0.740476}]}

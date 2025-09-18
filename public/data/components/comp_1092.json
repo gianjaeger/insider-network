@@ -1,0 +1,1 @@
+{"id":1092,"nodes":[{"id":"rossi theodore p","label":"rossi theodore p","degree":1,"companies":["USCR"],"x":0.0,"y":1.0},{"id":"cellar kurt matthew","label":"cellar kurt matthew","degree":1,"companies":["USCR"],"x":1.0,"y":0.0}],"edges":[{"source":"rossi theodore p","target":"cellar kurt matthew","similarity":0.707792,"companies":["USCR"]}]}

@@ -1,0 +1,1 @@
+{"id":0,"company":"MDGL","nodes":[{"id":"baker felix","label":"baker felix","degree":1,"x":0.0,"y":1.0},{"id":"baker julian","label":"baker julian","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"baker felix","target":"baker julian","similarity":1.0}]}

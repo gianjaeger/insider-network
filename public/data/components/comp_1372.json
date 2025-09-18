@@ -1,0 +1,1 @@
+{"id":1372,"nodes":[{"id":"londy kelly","label":"londy kelly","degree":1,"companies":["ARAY"],"x":0.0,"y":1.0},{"id":"nouri alaleh","label":"nouri alaleh","degree":1,"companies":["ARAY"],"x":1.0,"y":0.0}],"edges":[{"source":"londy kelly","target":"nouri alaleh","similarity":0.708333,"companies":["ARAY"]}]}

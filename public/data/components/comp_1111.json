@@ -1,0 +1,1 @@
+{"id":1111,"nodes":[{"id":"westbrook maureen p","label":"westbrook maureen p","degree":1,"companies":["SJW"],"x":0.0,"y":1.0},{"id":"johnson a kristen","label":"johnson a kristen","degree":1,"companies":["SJW"],"x":1.0,"y":0.0}],"edges":[{"source":"westbrook maureen p","target":"johnson a kristen","similarity":0.844246,"companies":["SJW"]}]}

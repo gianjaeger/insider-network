@@ -1,0 +1,1 @@
+{"id":0,"company":"TSOI","nodes":[{"id":"dixon timothy g","label":"dixon timothy g","degree":1,"x":0.0,"y":1.0},{"id":"ichim thomas","label":"ichim thomas","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"dixon timothy g","target":"ichim thomas","similarity":0.875}]}

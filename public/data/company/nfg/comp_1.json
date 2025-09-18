@@ -1,0 +1,1 @@
+{"id":1,"company":"NFG","nodes":[{"id":"jaggers joseph n","label":"jaggers joseph n","degree":1,"x":0.0,"y":1.0},{"id":"shaw jeffrey w","label":"shaw jeffrey w","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"jaggers joseph n","target":"shaw jeffrey w","similarity":0.954545}]}

@@ -1,0 +1,1 @@
+{"id":0,"company":"CMPO","nodes":[{"id":"basile donald g","label":"basile donald g","degree":1,"x":0.0,"y":1.0},{"id":"doll dixon r jr.","label":"doll dixon r jr.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"basile donald g","target":"doll dixon r jr.","similarity":0.962963}]}

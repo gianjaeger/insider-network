@@ -1,0 +1,1 @@
+{"id":0,"company":"OSLH","nodes":[{"id":"gormley steven","label":"gormley steven","degree":1,"x":0.0,"y":1.0},{"id":"rothenberg robert h jr","label":"rothenberg robert h jr","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"gormley steven","target":"rothenberg robert h jr","similarity":1.0}]}

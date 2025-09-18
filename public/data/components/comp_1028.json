@@ -1,0 +1,1 @@
+{"id":1028,"nodes":[{"id":"avril vicki l","label":"avril vicki l","degree":1,"companies":["CMC"],"x":0.0,"y":1.0},{"id":"mills rick j","label":"mills rick j","degree":1,"companies":["CMC"],"x":1.0,"y":0.0}],"edges":[{"source":"avril vicki l","target":"mills rick j","similarity":0.833333,"companies":["CMC"]}]}

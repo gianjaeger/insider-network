@@ -1,0 +1,1 @@
+{"id":0,"company":"BJ","nodes":[{"id":"eddy robert w.","label":"eddy robert w.","degree":1,"x":0.0,"y":1.0},{"id":"werner william c.","label":"werner william c.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"eddy robert w.","target":"werner william c.","similarity":0.742192}]}

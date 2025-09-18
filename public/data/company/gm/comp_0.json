@@ -1,0 +1,1 @@
+{"id":0,"company":"GM","nodes":[{"id":"ammann daniel","label":"ammann daniel","degree":1,"x":0.0,"y":1.0},{"id":"stevens charles k. iii","label":"stevens charles k. iii","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"ammann daniel","target":"stevens charles k. iii","similarity":0.727941}]}

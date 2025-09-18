@@ -1,0 +1,1 @@
+{"id":1145,"nodes":[{"id":"sternberg zachary","label":"sternberg zachary","degree":1,"companies":["GTT"],"x":0.0,"y":1.0},{"id":"stein benjamin forester","label":"stein benjamin forester","degree":1,"companies":["GTT"],"x":1.0,"y":0.0}],"edges":[{"source":"sternberg zachary","target":"stein benjamin forester","similarity":0.96875,"companies":["GTT"]}]}

@@ -1,0 +1,1 @@
+{"id":1,"company":"CSLT","nodes":[{"id":"doyle john c","label":"doyle john c","degree":1,"x":0.0,"y":1.0},{"id":"nolan mangini siobhan","label":"nolan mangini siobhan","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"doyle john c","target":"nolan mangini siobhan","similarity":0.905857}]}

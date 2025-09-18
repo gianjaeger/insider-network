@@ -1,0 +1,1 @@
+{"id":0,"company":"AMRN","nodes":[{"id":"kennedy joseph t","label":"kennedy joseph t","degree":1,"x":0.0,"y":1.0},{"id":"ketchum steven b","label":"ketchum steven b","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"kennedy joseph t","target":"ketchum steven b","similarity":0.752865}]}

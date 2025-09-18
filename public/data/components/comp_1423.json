@@ -1,0 +1,1 @@
+{"id":1423,"nodes":[{"id":"wright thomas rowe","label":"wright thomas rowe","degree":1,"companies":["JMP"],"x":0.0,"y":1.0},{"id":"johnson craig r","label":"johnson craig r","degree":1,"companies":["JMP"],"x":1.0,"y":0.0}],"edges":[{"source":"wright thomas rowe","target":"johnson craig r","similarity":0.739137,"companies":["JMP"]}]}

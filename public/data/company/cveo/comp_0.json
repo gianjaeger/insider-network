@@ -1,0 +1,1 @@
+{"id":0,"company":"CVEO","nodes":[{"id":"torgerson lance","label":"torgerson lance","degree":1,"x":0.0,"y":1.0},{"id":"torgerson tammy","label":"torgerson tammy","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"torgerson lance","target":"torgerson tammy","similarity":1.0}]}

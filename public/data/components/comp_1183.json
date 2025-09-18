@@ -1,0 +1,1 @@
+{"id":1183,"nodes":[{"id":"doradla anil","label":"doradla anil","degree":1,"companies":["GDYN"],"x":0.0,"y":1.0},{"id":"gryzlov yury","label":"gryzlov yury","degree":1,"companies":["GDYN"],"x":1.0,"y":0.0}],"edges":[{"source":"doradla anil","target":"gryzlov yury","similarity":0.764744,"companies":["GDYN"]}]}

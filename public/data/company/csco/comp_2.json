@@ -1,0 +1,1 @@
+{"id":2,"company":"CSCO","nodes":[{"id":"stahlkopf deborah l","label":"stahlkopf deborah l","degree":1,"x":0.0,"y":1.0},{"id":"wong maria victoria","label":"wong maria victoria","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"stahlkopf deborah l","target":"wong maria victoria","similarity":0.704082}]}

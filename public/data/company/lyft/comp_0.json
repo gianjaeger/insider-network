@@ -1,0 +1,1 @@
+{"id":0,"company":"LYFT","nodes":[{"id":"green logan","label":"green logan","degree":1,"x":0.0,"y":1.0},{"id":"zimmer john patrick","label":"zimmer john patrick","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"green logan","target":"zimmer john patrick","similarity":0.886607}]}

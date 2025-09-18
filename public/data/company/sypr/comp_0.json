@@ -1,0 +1,1 @@
+{"id":0,"company":"SYPR","nodes":[{"id":"allen anthony c","label":"allen anthony c","degree":1,"x":0.0,"y":1.0},{"id":"davis richard l","label":"davis richard l","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"allen anthony c","target":"davis richard l","similarity":0.715069}]}

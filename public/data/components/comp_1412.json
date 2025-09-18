@@ -1,0 +1,1 @@
+{"id":1412,"nodes":[{"id":"gutierrez horacio e","label":"gutierrez horacio e","degree":1,"companies":["DIS"],"x":0.0,"y":1.0},{"id":"coleman sonia l","label":"coleman sonia l","degree":1,"companies":["DIS"],"x":1.0,"y":0.0}],"edges":[{"source":"gutierrez horacio e","target":"coleman sonia l","similarity":0.825788,"companies":["DIS"]}]}

@@ -1,0 +1,1 @@
+{"id":1064,"nodes":[{"id":"glencore ag","label":"glencore ag","degree":1,"companies":["CENX"],"x":0.0,"y":1.0},{"id":"glencore plc","label":"glencore plc","degree":1,"companies":["CENX"],"x":1.0,"y":0.0}],"edges":[{"source":"glencore ag","target":"glencore plc","similarity":1.0,"companies":["CENX"]}]}

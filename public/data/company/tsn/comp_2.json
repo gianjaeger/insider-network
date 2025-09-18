@@ -1,0 +1,1 @@
+{"id":2,"company":"TSN","nodes":[{"id":"carper howell p","label":"carper howell p","degree":1,"x":0.0,"y":1.0},{"id":"smith donald","label":"smith donald","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"carper howell p","target":"smith donald","similarity":0.843197}]}

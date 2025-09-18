@@ -1,0 +1,1 @@
+{"id":1316,"nodes":[{"id":"bryant william c iii","label":"bryant william c iii","degree":1,"companies":["BOTJ"],"x":0.0,"y":1.0},{"id":"foster watt r jr","label":"foster watt r jr","degree":1,"companies":["BOTJ"],"x":1.0,"y":0.0}],"edges":[{"source":"bryant william c iii","target":"foster watt r jr","similarity":0.709821,"companies":["BOTJ"]}]}

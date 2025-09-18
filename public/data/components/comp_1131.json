@@ -1,0 +1,1 @@
+{"id":1131,"nodes":[{"id":"foster byron s","label":"foster byron s","degree":1,"companies":["ADNT"],"x":0.0,"y":1.0},{"id":"ebacher cathleen a","label":"ebacher cathleen a","degree":1,"companies":["ADNT"],"x":1.0,"y":0.0}],"edges":[{"source":"foster byron s","target":"ebacher cathleen a","similarity":0.786869,"companies":["ADNT"]}]}

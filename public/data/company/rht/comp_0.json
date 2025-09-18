@@ -1,0 +1,1 @@
+{"id":0,"company":"RHT","nodes":[{"id":"alexander delisa","label":"alexander delisa","degree":1,"x":0.0,"y":1.0},{"id":"whitehurst james m","label":"whitehurst james m","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"alexander delisa","target":"whitehurst james m","similarity":0.936508}]}

@@ -1,0 +1,1 @@
+{"id":1133,"nodes":[{"id":"rasmuson zach","label":"rasmuson zach","degree":1,"companies":["NAPA"],"x":0.0,"y":1.0},{"id":"sullivan sean b.a.","label":"sullivan sean b.a.","degree":1,"companies":["NAPA"],"x":1.0,"y":0.0}],"edges":[{"source":"rasmuson zach","target":"sullivan sean b.a.","similarity":0.803571,"companies":["NAPA"]}]}

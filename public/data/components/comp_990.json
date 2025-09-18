@@ -1,0 +1,1 @@
+{"id":990,"nodes":[{"id":"smith thomas w","label":"smith thomas w","degree":1,"companies":["CACC","WRLD"],"x":0.0,"y":1.0},{"id":"vassalluzzo scott j","label":"vassalluzzo scott j","degree":1,"companies":["CACC","WRLD"],"x":1.0,"y":0.0}],"edges":[{"source":"smith thomas w","target":"vassalluzzo scott j","similarity":1.0,"companies":["CACC","WRLD"]}]}

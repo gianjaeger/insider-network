@@ -1,0 +1,1 @@
+{"id":914,"nodes":[{"id":"webb c clark","label":"webb c clark","degree":1,"companies":["PX"],"x":0.0,"y":1.0},{"id":"alpert robert h","label":"alpert robert h","degree":1,"companies":["PX"],"x":1.0,"y":0.0}],"edges":[{"source":"webb c clark","target":"alpert robert h","similarity":1.0,"companies":["PX"]}]}

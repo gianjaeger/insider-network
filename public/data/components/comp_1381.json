@@ -1,0 +1,1 @@
+{"id":1381,"nodes":[{"id":"totalenergies se","label":"totalenergies se","degree":1,"companies":["CWEN"],"x":0.0,"y":1.0},{"id":"totalenergies gestion usa sarl","label":"totalenergies gestion usa sarl","degree":1,"companies":["CWEN"],"x":1.0,"y":0.0}],"edges":[{"source":"totalenergies se","target":"totalenergies gestion usa sarl","similarity":1.0,"companies":["CWEN"]}]}

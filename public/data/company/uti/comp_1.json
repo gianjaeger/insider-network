@@ -1,0 +1,1 @@
+{"id":1,"company":"UTI","nodes":[{"id":"shackelton christopher s","label":"shackelton christopher s","degree":1,"x":0.0,"y":1.0},{"id":"gray adam","label":"gray adam","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"shackelton christopher s","target":"gray adam","similarity":1.0}]}

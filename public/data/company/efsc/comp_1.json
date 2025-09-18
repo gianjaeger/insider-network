@@ -1,0 +1,1 @@
+{"id":1,"company":"EFSC","nodes":[{"id":"benoist peter","label":"benoist peter","degree":1,"x":0.0,"y":1.0},{"id":"goodman scott richard","label":"goodman scott richard","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"benoist peter","target":"goodman scott richard","similarity":0.725155}]}

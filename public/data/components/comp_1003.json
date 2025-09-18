@@ -1,0 +1,1 @@
+{"id":1003,"nodes":[{"id":"ferro michael w jr","label":"ferro michael w jr","degree":1,"companies":["TRNC"],"x":0.0,"y":1.0},{"id":"soon-shiong patrick","label":"soon-shiong patrick","degree":1,"companies":["TRNC"],"x":1.0,"y":0.0}],"edges":[{"source":"ferro michael w jr","target":"soon-shiong patrick","similarity":0.820031,"companies":["TRNC"]}]}

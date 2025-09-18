@@ -1,0 +1,1 @@
+{"id":0,"company":"TBK","nodes":[{"id":"graft aaron p","label":"graft aaron p","degree":1,"x":0.0,"y":1.0},{"id":"nelson adam d","label":"nelson adam d","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"graft aaron p","target":"nelson adam d","similarity":0.755952}]}

@@ -1,0 +1,1 @@
+{"id":932,"nodes":[{"id":"dempsey james g.","label":"dempsey james g.","degree":1,"companies":["ULCC"],"x":0.0,"y":1.0},{"id":"diamond howard","label":"diamond howard","degree":1,"companies":["ULCC"],"x":1.0,"y":0.0}],"edges":[{"source":"dempsey james g.","target":"diamond howard","similarity":0.7625,"companies":["ULCC"]}]}

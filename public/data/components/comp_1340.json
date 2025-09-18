@@ -1,0 +1,1 @@
+{"id":1340,"nodes":[{"id":"mcmorrow william j","label":"mcmorrow william j","degree":1,"companies":["KW"],"x":0.0,"y":1.0},{"id":"ricks mary","label":"ricks mary","degree":1,"companies":["KW"],"x":1.0,"y":0.0}],"edges":[{"source":"mcmorrow william j","target":"ricks mary","similarity":0.771456,"companies":["KW"]}]}

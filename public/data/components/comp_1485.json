@@ -1,0 +1,1 @@
+{"id":1485,"nodes":[{"id":"xie jian","label":"xie jian","degree":1,"companies":["FLGT"],"x":0.0,"y":1.0},{"id":"kim paul","label":"kim paul","degree":1,"companies":["FLGT"],"x":1.0,"y":0.0}],"edges":[{"source":"xie jian","target":"kim paul","similarity":0.713949,"companies":["FLGT"]}]}

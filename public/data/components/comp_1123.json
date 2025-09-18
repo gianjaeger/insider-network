@@ -1,0 +1,1 @@
+{"id":1123,"nodes":[{"id":"shao wei-ming","label":"shao wei-ming","degree":1,"companies":["MSTR"],"x":0.0,"y":1.0},{"id":"le phong","label":"le phong","degree":1,"companies":["MSTR"],"x":1.0,"y":0.0}],"edges":[{"source":"shao wei-ming","target":"le phong","similarity":0.781746,"companies":["MSTR"]}]}

@@ -1,0 +1,1 @@
+{"id":1406,"nodes":[{"id":"taube seth","label":"taube seth","degree":1,"companies":["MCC"],"x":0.0,"y":1.0},{"id":"taube brook","label":"taube brook","degree":1,"companies":["MCC"],"x":1.0,"y":0.0}],"edges":[{"source":"taube seth","target":"taube brook","similarity":1.0,"companies":["MCC"]}]}

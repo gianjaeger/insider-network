@@ -1,0 +1,1 @@
+{"id":1207,"nodes":[{"id":"bakal riva","label":"bakal riva","degree":1,"companies":["SEAT"],"x":0.0,"y":1.0},{"id":"pickus edward","label":"pickus edward","degree":1,"companies":["SEAT"],"x":1.0,"y":0.0}],"edges":[{"source":"bakal riva","target":"pickus edward","similarity":1.0,"companies":["SEAT"]}]}

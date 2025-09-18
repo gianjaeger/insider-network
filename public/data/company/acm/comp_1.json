@@ -1,0 +1,1 @@
+{"id":1,"company":"ACM","nodes":[{"id":"wotring randall a","label":"wotring randall a","degree":1,"x":0.0,"y":1.0},{"id":"tishman daniel r.","label":"tishman daniel r.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"wotring randall a","target":"tishman daniel r.","similarity":0.739943}]}

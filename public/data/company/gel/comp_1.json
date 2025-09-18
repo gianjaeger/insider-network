@@ -1,0 +1,1 @@
+{"id":1,"company":"GEL","nodes":[{"id":"davison james e jr","label":"davison james e jr","degree":1,"x":0.0,"y":1.0},{"id":"robertson corbin j iii","label":"robertson corbin j iii","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"davison james e jr","target":"robertson corbin j iii","similarity":0.864496}]}

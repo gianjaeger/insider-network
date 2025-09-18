@@ -1,0 +1,1 @@
+{"id":1179,"nodes":[{"id":"north michael paul","label":"north michael paul","degree":1,"companies":["AMED"],"x":0.0,"y":1.0},{"id":"kemmerly david l","label":"kemmerly david l","degree":1,"companies":["AMED"],"x":1.0,"y":0.0}],"edges":[{"source":"north michael paul","target":"kemmerly david l","similarity":0.8,"companies":["AMED"]}]}

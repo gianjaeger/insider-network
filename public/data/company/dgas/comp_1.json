@@ -1,0 +1,1 @@
+{"id":1,"company":"DGAS","nodes":[{"id":"holmes edward j.","label":"holmes edward j.","degree":1,"x":0.0,"y":1.0},{"id":"gray sandra c","label":"gray sandra c","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"holmes edward j.","target":"gray sandra c","similarity":1.0}]}

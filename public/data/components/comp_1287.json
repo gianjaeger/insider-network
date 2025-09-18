@@ -1,0 +1,1 @@
+{"id":1287,"nodes":[{"id":"fisher robert d","label":"fisher robert d","degree":1,"companies":["CHCO"],"x":0.0,"y":1.0},{"id":"hylton tracy w ii","label":"hylton tracy w ii","degree":1,"companies":["CHCO"],"x":1.0,"y":0.0}],"edges":[{"source":"fisher robert d","target":"hylton tracy w ii","similarity":1.0,"companies":["CHCO"]}]}

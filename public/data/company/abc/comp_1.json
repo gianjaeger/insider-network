@@ -1,0 +1,1 @@
+{"id":1,"company":"ABC","nodes":[{"id":"guttman tim g.","label":"guttman tim g.","degree":1,"x":0.0,"y":1.0},{"id":"danilewitz dale","label":"danilewitz dale","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"guttman tim g.","target":"danilewitz dale","similarity":0.740337}]}

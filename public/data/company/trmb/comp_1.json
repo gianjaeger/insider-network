@@ -1,0 +1,1 @@
+{"id":1,"company":"TRMB","nodes":[{"id":"kliem jurgen","label":"kliem jurgen","degree":1,"x":0.0,"y":1.0},{"id":"gibson chris","label":"gibson chris","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"kliem jurgen","target":"gibson chris","similarity":0.743776}]}

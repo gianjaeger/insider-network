@@ -1,0 +1,1 @@
+{"id":1296,"nodes":[{"id":"ling winnie","label":"ling winnie","degree":1,"companies":["BLND"],"x":0.0,"y":1.0},{"id":"tkach oxana","label":"tkach oxana","degree":1,"companies":["BLND"],"x":1.0,"y":0.0}],"edges":[{"source":"ling winnie","target":"tkach oxana","similarity":0.706981,"companies":["BLND"]}]}

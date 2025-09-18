@@ -1,0 +1,1 @@
+{"id":1220,"nodes":[{"id":"garutti maria l","label":"garutti maria l","degree":1,"companies":["SHAK"],"x":0.0,"y":1.0},{"id":"garutti randall j","label":"garutti randall j","degree":1,"companies":["SHAK"],"x":1.0,"y":0.0}],"edges":[{"source":"garutti maria l","target":"garutti randall j","similarity":0.897143,"companies":["SHAK"]}]}

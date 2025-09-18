@@ -1,0 +1,1 @@
+{"id":1199,"nodes":[{"id":"khalifa sammy","label":"khalifa sammy","degree":1,"companies":["RBOT"],"x":0.0,"y":1.0},{"id":"kelly william john","label":"kelly william john","degree":1,"companies":["RBOT"],"x":1.0,"y":0.0}],"edges":[{"source":"khalifa sammy","target":"kelly william john","similarity":0.755,"companies":["RBOT"]}]}

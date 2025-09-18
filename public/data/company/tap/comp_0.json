@@ -1,0 +1,1 @@
+{"id":0,"company":"TAP","nodes":[{"id":"eaton roger g.","label":"eaton roger g.","degree":1,"x":0.0,"y":1.0},{"id":"herington charles m","label":"herington charles m","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"eaton roger g.","target":"herington charles m","similarity":0.909091}]}

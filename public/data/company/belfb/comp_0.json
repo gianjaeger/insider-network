@@ -1,0 +1,1 @@
+{"id":0,"company":"BELFB","nodes":[{"id":"ackerman dennis","label":"ackerman dennis","degree":1,"x":0.0,"y":1.0},{"id":"bernstein daniel","label":"bernstein daniel","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"ackerman dennis","target":"bernstein daniel","similarity":0.753247}]}

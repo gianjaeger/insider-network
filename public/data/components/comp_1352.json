@@ -1,0 +1,1 @@
+{"id":1352,"nodes":[{"id":"cardama alfonso quintas","label":"cardama alfonso quintas","degree":1,"companies":["TCRR"],"x":0.0,"y":1.0},{"id":"menzel garry e","label":"menzel garry e","degree":1,"companies":["TCRR"],"x":1.0,"y":0.0}],"edges":[{"source":"cardama alfonso quintas","target":"menzel garry e","similarity":1.0,"companies":["TCRR"]}]}

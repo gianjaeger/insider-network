@@ -1,0 +1,1 @@
+{"id":1192,"nodes":[{"id":"asali omar","label":"asali omar","degree":1,"companies":["HRG"],"x":0.0,"y":1.0},{"id":"maura david m","label":"maura david m","degree":1,"companies":["HRG"],"x":1.0,"y":0.0}],"edges":[{"source":"asali omar","target":"maura david m","similarity":0.854875,"companies":["HRG"]}]}

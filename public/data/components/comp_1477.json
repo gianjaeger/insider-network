@@ -1,0 +1,1 @@
+{"id":1477,"nodes":[{"id":"eliasek m grier","label":"eliasek m grier","degree":1,"companies":["PSEC"],"x":0.0,"y":1.0},{"id":"barry john f","label":"barry john f","degree":1,"companies":["PSEC"],"x":1.0,"y":0.0}],"edges":[{"source":"eliasek m grier","target":"barry john f","similarity":0.817963,"companies":["PSEC"]}]}

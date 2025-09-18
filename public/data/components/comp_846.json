@@ -1,0 +1,1 @@
+{"id":846,"nodes":[{"id":"powell catherine lillian","label":"powell catherine lillian","degree":1,"companies":["MTSC"],"x":0.0,"y":1.0},{"id":"bachrach william e","label":"bachrach william e","degree":1,"companies":["MTSC"],"x":1.0,"y":0.0}],"edges":[{"source":"powell catherine lillian","target":"bachrach william e","similarity":0.838923,"companies":["MTSC"]}]}

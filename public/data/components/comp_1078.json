@@ -1,0 +1,1 @@
+{"id":1078,"nodes":[{"id":"code kenneth reay","label":"code kenneth reay","degree":1,"companies":["BLGO"],"x":0.0,"y":1.0},{"id":"calvert dennis p","label":"calvert dennis p","degree":1,"companies":["BLGO"],"x":1.0,"y":0.0}],"edges":[{"source":"code kenneth reay","target":"calvert dennis p","similarity":0.7,"companies":["BLGO"]}]}

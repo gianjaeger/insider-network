@@ -1,0 +1,1 @@
+{"id":973,"nodes":[{"id":"barclay kathleen s","label":"barclay kathleen s","degree":1,"companies":["FIVE"],"x":0.0,"y":1.0},{"id":"ryan thomas m","label":"ryan thomas m","degree":1,"companies":["FIVE"],"x":1.0,"y":0.0}],"edges":[{"source":"barclay kathleen s","target":"ryan thomas m","similarity":0.760526,"companies":["FIVE"]}]}

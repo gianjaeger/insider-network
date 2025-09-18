@@ -1,0 +1,1 @@
+{"id":0,"company":"NTNX","nodes":[{"id":"conway craig","label":"conway craig","degree":1,"x":0.0,"y":1.0},{"id":"gomo steven j","label":"gomo steven j","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"conway craig","target":"gomo steven j","similarity":0.807105}]}

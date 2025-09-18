@@ -1,0 +1,1 @@
+{"id":1502,"nodes":[{"id":"cole sue w","label":"cole sue w","degree":1,"companies":["MLM"],"x":0.0,"y":1.0},{"id":"quillen michael j","label":"quillen michael j","degree":1,"companies":["MLM"],"x":1.0,"y":0.0}],"edges":[{"source":"cole sue w","target":"quillen michael j","similarity":0.802778,"companies":["MLM"]}]}

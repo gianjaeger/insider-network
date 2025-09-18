@@ -1,0 +1,1 @@
+{"id":1198,"nodes":[{"id":"tisch james s","label":"tisch james s","degree":1,"companies":["L"],"x":0.0,"y":1.0},{"id":"tisch andrew h","label":"tisch andrew h","degree":1,"companies":["L"],"x":1.0,"y":0.0}],"edges":[{"source":"tisch james s","target":"tisch andrew h","similarity":0.748793,"companies":["L"]}]}

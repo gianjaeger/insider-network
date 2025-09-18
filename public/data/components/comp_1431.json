@@ -1,0 +1,1 @@
+{"id":1431,"nodes":[{"id":"griffin james gerard","label":"griffin james gerard","degree":1,"companies":["ZNGA"],"x":0.0,"y":1.0},{"id":"phillips phuong y.","label":"phillips phuong y.","degree":1,"companies":["ZNGA"],"x":1.0,"y":0.0}],"edges":[{"source":"griffin james gerard","target":"phillips phuong y.","similarity":0.894628,"companies":["ZNGA"]}]}

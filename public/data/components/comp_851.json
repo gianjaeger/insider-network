@@ -1,0 +1,1 @@
+{"id":851,"nodes":[{"id":"walicki joseph a","label":"walicki joseph a","degree":1,"companies":["JCI"],"x":0.0,"y":1.0},{"id":"jackson william c","label":"jackson william c","degree":1,"companies":["JCI"],"x":1.0,"y":0.0}],"edges":[{"source":"walicki joseph a","target":"jackson william c","similarity":0.700949,"companies":["JCI"]}]}

@@ -1,0 +1,1 @@
+{"id":1181,"nodes":[{"id":"killinger johann","label":"killinger johann","degree":1,"companies":["LIND"],"x":0.0,"y":1.0},{"id":"baldeweg dirk klaus","label":"baldeweg dirk klaus","degree":1,"companies":["LIND"],"x":1.0,"y":0.0}],"edges":[{"source":"killinger johann","target":"baldeweg dirk klaus","similarity":1.0,"companies":["LIND"]}]}

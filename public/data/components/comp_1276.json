@@ -1,0 +1,1 @@
+{"id":1276,"nodes":[{"id":"baker julian","label":"baker julian","degree":1,"companies":["SGEN","GHDX","INCY"],"x":0.0,"y":1.0},{"id":"baker felix","label":"baker felix","degree":1,"companies":["SGEN","GHDX","INCY"],"x":1.0,"y":0.0}],"edges":[{"source":"baker julian","target":"baker felix","similarity":1.0,"companies":["GHDX","INCY","MDGL","SGEN","XOMA"]}]}

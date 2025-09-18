@@ -1,0 +1,1 @@
+{"id":2,"company":"SBH","nodes":[{"id":"haltom matthew olen","label":"haltom matthew olen","degree":1,"x":0.0,"y":1.0},{"id":"minton janna","label":"minton janna","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"haltom matthew olen","target":"minton janna","similarity":0.745059}]}

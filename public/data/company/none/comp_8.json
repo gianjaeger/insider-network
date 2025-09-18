@@ -1,0 +1,1 @@
+{"id":8,"company":"NONE","nodes":[{"id":"booth richard whitaker","label":"booth richard whitaker","degree":1,"x":0.0,"y":1.0},{"id":"hall bjorn","label":"hall bjorn","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"booth richard whitaker","target":"hall bjorn","similarity":0.758929}]}

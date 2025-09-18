@@ -1,0 +1,1 @@
+{"id":1180,"nodes":[{"id":"brown glen w.","label":"brown glen w.","degree":1,"companies":["HFBL"],"x":0.0,"y":1.0},{"id":"barlow james r","label":"barlow james r","degree":1,"companies":["HFBL"],"x":1.0,"y":0.0}],"edges":[{"source":"brown glen w.","target":"barlow james r","similarity":0.763889,"companies":["HFBL"]}]}

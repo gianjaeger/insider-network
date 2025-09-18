@@ -1,0 +1,1 @@
+{"id":0,"company":"LEAF","nodes":[{"id":"moriarty sean p","label":"moriarty sean p","degree":1,"x":0.0,"y":1.0},{"id":"pike brian","label":"pike brian","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"moriarty sean p","target":"pike brian","similarity":0.733766}]}

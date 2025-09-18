@@ -1,0 +1,1 @@
+{"id":1273,"nodes":[{"id":"choyce philip a","label":"choyce philip a","degree":1,"companies":["ICD"],"x":0.0,"y":1.0},{"id":"gallegos john a. jr.","label":"gallegos john a. jr.","degree":1,"companies":["ICD"],"x":1.0,"y":0.0}],"edges":[{"source":"choyce philip a","target":"gallegos john a. jr.","similarity":0.707557,"companies":["ICD"]}]}

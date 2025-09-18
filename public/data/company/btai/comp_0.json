@@ -1,0 +1,1 @@
+{"id":0,"company":"BTAI","nodes":[{"id":"steinhart richard i","label":"steinhart richard i","degree":1,"x":0.0,"y":1.0},{"id":"yocca frank","label":"yocca frank","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"steinhart richard i","target":"yocca frank","similarity":0.992951}]}

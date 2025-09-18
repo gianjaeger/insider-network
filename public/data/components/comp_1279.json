@@ -1,0 +1,1 @@
+{"id":1279,"nodes":[{"id":"garrison j. barrett","label":"garrison j. barrett","degree":1,"companies":["APPS"],"x":0.0,"y":1.0},{"id":"stone william gordon iii","label":"stone william gordon iii","degree":1,"companies":["APPS"],"x":1.0,"y":0.0}],"edges":[{"source":"garrison j. barrett","target":"stone william gordon iii","similarity":0.834928,"companies":["APPS"]}]}

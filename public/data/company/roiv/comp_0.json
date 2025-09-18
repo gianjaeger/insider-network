@@ -1,0 +1,1 @@
+{"id":0,"company":"ROIV","nodes":[{"id":"gline matthew","label":"gline matthew","degree":1,"x":0.0,"y":1.0},{"id":"kumar rakhi","label":"kumar rakhi","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"gline matthew","target":"kumar rakhi","similarity":1.0}]}

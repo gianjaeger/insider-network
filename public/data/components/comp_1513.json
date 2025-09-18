@@ -1,0 +1,1 @@
+{"id":1513,"nodes":[{"id":"baggio barbara","label":"baggio barbara","degree":1,"companies":["VPLM"],"x":0.0,"y":1.0},{"id":"chang dennis","label":"chang dennis","degree":1,"companies":["VPLM"],"x":1.0,"y":0.0}],"edges":[{"source":"baggio barbara","target":"chang dennis","similarity":0.743096,"companies":["VPLM"]}]}

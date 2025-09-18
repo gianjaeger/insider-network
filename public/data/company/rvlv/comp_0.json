@@ -1,0 +1,1 @@
+{"id":0,"company":"RVLV","nodes":[{"id":"karanikolas michael","label":"karanikolas michael","degree":1,"x":0.0,"y":1.0},{"id":"mente michael","label":"mente michael","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"karanikolas michael","target":"mente michael","similarity":0.891892}]}

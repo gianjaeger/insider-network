@@ -1,0 +1,1 @@
+{"id":0,"company":"BLMN","nodes":[{"id":"herlihy donagh","label":"herlihy donagh","degree":1,"x":0.0,"y":1.0},{"id":"singh sukhdev","label":"singh sukhdev","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"herlihy donagh","target":"singh sukhdev","similarity":0.893663}]}

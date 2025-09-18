@@ -1,0 +1,1 @@
+{"id":1,"company":"ARE","nodes":[{"id":"hash steve","label":"hash steve","degree":1,"x":0.0,"y":1.0},{"id":"woronoff michael a","label":"woronoff michael a","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"hash steve","target":"woronoff michael a","similarity":0.928571}]}

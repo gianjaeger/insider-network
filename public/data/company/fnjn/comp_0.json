@@ -1,0 +1,1 @@
+{"id":0,"company":"FNJN","nodes":[{"id":"eisenberg michael a","label":"eisenberg michael a","degree":1,"x":0.0,"y":1.0},{"id":"naveh arad","label":"naveh arad","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"eisenberg michael a","target":"naveh arad","similarity":1.0}]}

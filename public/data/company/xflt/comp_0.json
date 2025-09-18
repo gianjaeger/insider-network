@@ -1,0 +1,1 @@
+{"id":0,"company":"XFLT","nodes":[{"id":"brombach theodore j","label":"brombach theodore j","degree":1,"x":0.0,"y":1.0},{"id":"spence john yogi","label":"spence john yogi","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"brombach theodore j","target":"spence john yogi","similarity":0.914138}]}

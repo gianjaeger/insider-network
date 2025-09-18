@@ -1,0 +1,1 @@
+{"id":1095,"nodes":[{"id":"bowman beth a.","label":"bowman beth a.","degree":1,"companies":["SRLP"],"x":0.0,"y":1.0},{"id":"harper c gregory","label":"harper c gregory","degree":1,"companies":["SRLP"],"x":1.0,"y":0.0}],"edges":[{"source":"bowman beth a.","target":"harper c gregory","similarity":1.0,"companies":["SRLP"]}]}

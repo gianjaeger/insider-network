@@ -1,0 +1,1 @@
+{"id":0,"company":"VVUS","nodes":[{"id":"roberts eric w","label":"roberts eric w","degree":1,"x":0.0,"y":1.0},{"id":"shaw allan","label":"shaw allan","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"roberts eric w","target":"shaw allan","similarity":1.0}]}

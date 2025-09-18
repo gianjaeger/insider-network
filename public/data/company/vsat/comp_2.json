@@ -1,0 +1,1 @@
+{"id":2,"company":"VSAT","nodes":[{"id":"hart steven r","label":"hart steven r","degree":1,"x":0.0,"y":1.0},{"id":"estes steve","label":"estes steve","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"hart steven r","target":"estes steve","similarity":0.798344}]}

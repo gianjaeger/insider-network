@@ -1,0 +1,1 @@
+{"id":0,"company":"WISA","nodes":[{"id":"moyer brett","label":"moyer brett","degree":1,"x":0.0,"y":1.0},{"id":"williams gary","label":"williams gary","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"moyer brett","target":"williams gary","similarity":0.811619}]}

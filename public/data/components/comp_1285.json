@@ -1,0 +1,1 @@
+{"id":1285,"nodes":[{"id":"skutta brian","label":"skutta brian","degree":1,"companies":["TRUE"],"x":0.0,"y":1.0},{"id":"gunsagar neeraj","label":"gunsagar neeraj","degree":1,"companies":["TRUE"],"x":1.0,"y":0.0}],"edges":[{"source":"skutta brian","target":"gunsagar neeraj","similarity":0.7003,"companies":["TRUE"]}]}

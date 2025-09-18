@@ -1,0 +1,1 @@
+{"id":976,"nodes":[{"id":"soisson jessica","label":"soisson jessica","degree":1,"companies":["CTXS"],"x":0.0,"y":1.0},{"id":"minahan timothy a.","label":"minahan timothy a.","degree":1,"companies":["CTXS"],"x":1.0,"y":0.0}],"edges":[{"source":"soisson jessica","target":"minahan timothy a.","similarity":0.700497,"companies":["CTXS"]}]}

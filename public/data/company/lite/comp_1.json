@@ -1,0 +1,1 @@
+{"id":1,"company":"LITE","nodes":[{"id":"herscher penny","label":"herscher penny","degree":1,"x":0.0,"y":1.0},{"id":"covert harold l","label":"covert harold l","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"herscher penny","target":"covert harold l","similarity":0.793078}]}

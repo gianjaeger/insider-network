@@ -1,0 +1,1 @@
+{"id":1137,"nodes":[{"id":"pyle michael r","label":"pyle michael r","degree":1,"companies":["PEGA"],"x":0.0,"y":1.0},{"id":"kra douglas i","label":"kra douglas i","degree":1,"companies":["PEGA"],"x":1.0,"y":0.0}],"edges":[{"source":"pyle michael r","target":"kra douglas i","similarity":0.708519,"companies":["PEGA"]}]}

@@ -1,0 +1,1 @@
+{"id":1515,"nodes":[{"id":"bevack patrick w","label":"bevack patrick w","degree":1,"companies":["UCFC"],"x":0.0,"y":1.0},{"id":"hunter scott d.","label":"hunter scott d.","degree":1,"companies":["UCFC"],"x":1.0,"y":0.0}],"edges":[{"source":"bevack patrick w","target":"hunter scott d.","similarity":0.765625,"companies":["UCFC"]}]}

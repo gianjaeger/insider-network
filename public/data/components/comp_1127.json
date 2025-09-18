@@ -1,0 +1,1 @@
+{"id":1127,"nodes":[{"id":"enright patrick g","label":"enright patrick g","degree":1,"companies":["CORT"],"x":0.0,"y":1.0},{"id":"tammenoms bakker juliet","label":"tammenoms bakker juliet","degree":1,"companies":["CORT"],"x":1.0,"y":0.0}],"edges":[{"source":"enright patrick g","target":"tammenoms bakker juliet","similarity":0.954762,"companies":["CORT"]}]}

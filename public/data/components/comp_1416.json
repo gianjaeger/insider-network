@@ -1,0 +1,1 @@
+{"id":1416,"nodes":[{"id":"maddock bryce","label":"maddock bryce","degree":1,"companies":["TASK"],"x":0.0,"y":1.0},{"id":"weir jaspar","label":"weir jaspar","degree":1,"companies":["TASK"],"x":1.0,"y":0.0}],"edges":[{"source":"maddock bryce","target":"weir jaspar","similarity":1.0,"companies":["TASK"]}]}

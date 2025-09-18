@@ -1,0 +1,1 @@
+{"id":1187,"nodes":[{"id":"adams richard m jr","label":"adams richard m jr","degree":1,"companies":["UBSI"],"x":0.0,"y":1.0},{"id":"consagra james j jr","label":"consagra james j jr","degree":1,"companies":["UBSI"],"x":1.0,"y":0.0}],"edges":[{"source":"adams richard m jr","target":"consagra james j jr","similarity":0.816741,"companies":["UBSI"]}]}

@@ -1,0 +1,1 @@
+{"id":1233,"nodes":[{"id":"soffer gad","label":"soffer gad","degree":1,"companies":["ATRA"],"x":0.0,"y":1.0},{"id":"gallagher carol giltner","label":"gallagher carol giltner","degree":1,"companies":["ATRA"],"x":1.0,"y":0.0}],"edges":[{"source":"soffer gad","target":"gallagher carol giltner","similarity":0.775,"companies":["ATRA"]}]}

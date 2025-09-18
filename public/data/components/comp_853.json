@@ -1,0 +1,1 @@
+{"id":853,"nodes":[{"id":"dang luan","label":"dang luan","degree":1,"companies":["PHUN"],"x":0.0,"y":1.0},{"id":"knitowski alan s","label":"knitowski alan s","degree":1,"companies":["PHUN"],"x":1.0,"y":0.0}],"edges":[{"source":"dang luan","target":"knitowski alan s","similarity":0.746429,"companies":["PHUN"]}]}

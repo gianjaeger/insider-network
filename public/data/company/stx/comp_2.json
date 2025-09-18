@@ -1,0 +1,1 @@
+{"id":2,"company":"STX","nodes":[{"id":"haggart dylan g.","label":"haggart dylan g.","degree":1,"x":0.0,"y":1.0},{"id":"bruner judy","label":"bruner judy","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"haggart dylan g.","target":"bruner judy","similarity":1.0}]}

@@ -1,0 +1,1 @@
+{"id":1112,"nodes":[{"id":"lucas bruce","label":"lucas bruce","degree":1,"companies":["HRTG"],"x":0.0,"y":1.0},{"id":"widdicombe richard a","label":"widdicombe richard a","degree":1,"companies":["HRTG"],"x":1.0,"y":0.0}],"edges":[{"source":"lucas bruce","target":"widdicombe richard a","similarity":0.706439,"companies":["HRTG"]}]}

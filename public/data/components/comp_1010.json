@@ -1,0 +1,1 @@
+{"id":1010,"nodes":[{"id":"appelrouth stewart","label":"appelrouth stewart","degree":1,"companies":["AIM"],"x":0.0,"y":1.0},{"id":"mitchell william m","label":"mitchell william m","degree":1,"companies":["AIM"],"x":1.0,"y":0.0}],"edges":[{"source":"appelrouth stewart","target":"mitchell william m","similarity":0.746053,"companies":["AIM"]}]}

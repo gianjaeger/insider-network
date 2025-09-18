@@ -1,0 +1,1 @@
+{"id":0,"company":"PCTI","nodes":[{"id":"mcgowan kevin j","label":"mcgowan kevin j","degree":1,"x":0.0,"y":1.0},{"id":"paul sumeet singh","label":"paul sumeet singh","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"mcgowan kevin j","target":"paul sumeet singh","similarity":0.725}]}

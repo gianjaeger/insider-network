@@ -1,0 +1,1 @@
+{"id":1060,"nodes":[{"id":"kelly peter","label":"kelly peter","degree":1,"companies":["NXPI"],"x":0.0,"y":1.0},{"id":"david reed","label":"david reed","degree":1,"companies":["NXPI"],"x":1.0,"y":0.0}],"edges":[{"source":"kelly peter","target":"david reed","similarity":0.765079,"companies":["NXPI"]}]}

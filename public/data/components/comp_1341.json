@@ -1,0 +1,1 @@
+{"id":1341,"nodes":[{"id":"mullen james","label":"mullen james","degree":1,"companies":["TSP"],"x":0.0,"y":1.0},{"id":"lu cheng","label":"lu cheng","degree":1,"companies":["TSP"],"x":1.0,"y":0.0}],"edges":[{"source":"mullen james","target":"lu cheng","similarity":0.971429,"companies":["TSP"]}]}

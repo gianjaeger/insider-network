@@ -1,0 +1,1 @@
+{"id":0,"company":"SNMP","nodes":[{"id":"sanchez antonio r iii","label":"sanchez antonio r iii","degree":1,"x":0.0,"y":1.0},{"id":"sanchez eduardo augusto","label":"sanchez eduardo augusto","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"sanchez antonio r iii","target":"sanchez eduardo augusto","similarity":0.919192}]}

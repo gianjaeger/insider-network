@@ -1,0 +1,1 @@
+{"id":0,"company":"ACOR","nodes":[{"id":"mindich jeremy","label":"mindich jeremy","degree":1,"x":0.0,"y":1.0},{"id":"sirovich matthew","label":"sirovich matthew","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"mindich jeremy","target":"sirovich matthew","similarity":1.0}]}

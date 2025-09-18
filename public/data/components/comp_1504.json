@@ -1,0 +1,1 @@
+{"id":1504,"nodes":[{"id":"martins izilda p","label":"martins izilda p","degree":1,"companies":["CAR"],"x":0.0,"y":1.0},{"id":"ferraro joseph a.","label":"ferraro joseph a.","degree":1,"companies":["CAR"],"x":1.0,"y":0.0}],"edges":[{"source":"martins izilda p","target":"ferraro joseph a.","similarity":0.952381,"companies":["CAR"]}]}

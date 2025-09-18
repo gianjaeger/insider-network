@@ -1,0 +1,1 @@
+{"id":0,"company":"ENSG","nodes":[{"id":"keetch chad","label":"keetch chad","degree":1,"x":0.0,"y":1.0},{"id":"snapper suzanne d.","label":"snapper suzanne d.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"keetch chad","target":"snapper suzanne d.","similarity":0.771346}]}

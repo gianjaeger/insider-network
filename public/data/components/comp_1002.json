@@ -1,0 +1,1 @@
+{"id":1002,"nodes":[{"id":"walsh matthew o.","label":"walsh matthew o.","degree":1,"companies":["GWR"],"x":0.0,"y":1.0},{"id":"liucci christopher f","label":"liucci christopher f","degree":1,"companies":["GWR"],"x":1.0,"y":0.0}],"edges":[{"source":"walsh matthew o.","target":"liucci christopher f","similarity":0.810237,"companies":["GWR"]}]}

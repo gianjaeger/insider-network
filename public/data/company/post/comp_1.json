@@ -1,0 +1,1 @@
+{"id":1,"company":"POST","nodes":[{"id":"mainer matthew j","label":"mainer matthew j","degree":1,"x":0.0,"y":1.0},{"id":"catoggio nicolas","label":"catoggio nicolas","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"mainer matthew j","target":"catoggio nicolas","similarity":0.721034}]}

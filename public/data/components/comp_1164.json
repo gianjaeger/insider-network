@@ -1,0 +1,1 @@
+{"id":1164,"nodes":[{"id":"martin donald craig","label":"martin donald craig","degree":1,"companies":["WOW"],"x":0.0,"y":1.0},{"id":"elder teresa l","label":"elder teresa l","degree":1,"companies":["WOW"],"x":1.0,"y":0.0}],"edges":[{"source":"martin donald craig","target":"elder teresa l","similarity":0.76455,"companies":["WOW"]}]}

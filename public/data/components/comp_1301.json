@@ -1,0 +1,1 @@
+{"id":1301,"nodes":[{"id":"mudd william e","label":"mudd william e","degree":1,"companies":["CHDN"],"x":0.0,"y":1.0},{"id":"carstanjen william c","label":"carstanjen william c","degree":1,"companies":["CHDN"],"x":1.0,"y":0.0}],"edges":[{"source":"mudd william e","target":"carstanjen william c","similarity":0.795556,"companies":["CHDN"]}]}

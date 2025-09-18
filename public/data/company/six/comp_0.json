@@ -1,0 +1,1 @@
+{"id":0,"company":"SIX","nodes":[{"id":"jaffer rehan","label":"jaffer rehan","degree":1,"x":0.0,"y":1.0},{"id":"nabi usman","label":"nabi usman","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"jaffer rehan","target":"nabi usman","similarity":0.72}]}

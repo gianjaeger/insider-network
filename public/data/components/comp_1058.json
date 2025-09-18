@@ -1,0 +1,1 @@
+{"id":1058,"nodes":[{"id":"grinney jay","label":"grinney jay","degree":1,"companies":["EGN"],"x":0.0,"y":1.0},{"id":"dewey kenneth w.","label":"dewey kenneth w.","degree":1,"companies":["EGN"],"x":1.0,"y":0.0}],"edges":[{"source":"grinney jay","target":"dewey kenneth w.","similarity":1.0,"companies":["EGN"]}]}

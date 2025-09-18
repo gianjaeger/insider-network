@@ -1,0 +1,1 @@
+{"id":844,"nodes":[{"id":"staab thomas r ii","label":"staab thomas r ii","degree":1,"companies":["BCRX"],"x":0.0,"y":1.0},{"id":"powell lynne","label":"powell lynne","degree":1,"companies":["BCRX"],"x":1.0,"y":0.0}],"edges":[{"source":"staab thomas r ii","target":"powell lynne","similarity":0.7301,"companies":["BCRX"]}]}

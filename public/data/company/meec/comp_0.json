@@ -1,0 +1,1 @@
+{"id":0,"company":"MEEC","nodes":[{"id":"kaye david m","label":"kaye david m","degree":1,"x":0.0,"y":1.0},{"id":"pavlish john","label":"pavlish john","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"kaye david m","target":"pavlish john","similarity":1.0}]}

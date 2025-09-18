@@ -1,0 +1,1 @@
+{"id":1343,"nodes":[{"id":"shim allen","label":"shim allen","degree":1,"companies":["WORK"],"x":0.0,"y":1.0},{"id":"schellhase david","label":"schellhase david","degree":1,"companies":["WORK"],"x":1.0,"y":0.0}],"edges":[{"source":"shim allen","target":"schellhase david","similarity":0.803571,"companies":["WORK"]}]}

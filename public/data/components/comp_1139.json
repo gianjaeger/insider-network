@@ -1,0 +1,1 @@
+{"id":1139,"nodes":[{"id":"douglas kevin","label":"douglas kevin","degree":1,"companies":["IMAX"],"x":0.0,"y":1.0},{"id":"douglas james e iii","label":"douglas james e iii","degree":1,"companies":["IMAX"],"x":1.0,"y":0.0}],"edges":[{"source":"douglas kevin","target":"douglas james e iii","similarity":1.0,"companies":["IMAX"]}]}

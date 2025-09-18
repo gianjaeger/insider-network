@@ -1,0 +1,1 @@
+{"id":0,"company":"CVTI","nodes":[{"id":"parker david ray","label":"parker david ray","degree":1,"x":0.0,"y":1.0},{"id":"parker jacqueline f","label":"parker jacqueline f","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"parker david ray","target":"parker jacqueline f","similarity":1.0}]}

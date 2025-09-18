@@ -1,0 +1,1 @@
+{"id":2,"company":"JKHY","nodes":[{"id":"zengel stacey e.","label":"zengel stacey e.","degree":1,"x":0.0,"y":1.0},{"id":"foss david b","label":"foss david b","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"zengel stacey e.","target":"foss david b","similarity":0.713235}]}

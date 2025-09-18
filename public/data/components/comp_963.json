@@ -1,0 +1,1 @@
+{"id":963,"nodes":[{"id":"sills arthur s","label":"sills arthur s","degree":1,"companies":["SMP"],"x":0.0,"y":1.0},{"id":"sills peter j","label":"sills peter j","degree":1,"companies":["SMP"],"x":1.0,"y":0.0}],"edges":[{"source":"sills arthur s","target":"sills peter j","similarity":0.925475,"companies":["SMP"]}]}

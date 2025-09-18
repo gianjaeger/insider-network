@@ -1,0 +1,1 @@
+{"id":0,"company":"EGHT","nodes":[{"id":"deklich dejan","label":"deklich dejan","degree":1,"x":0.0,"y":1.0},{"id":"zinn matthew","label":"zinn matthew","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"deklich dejan","target":"zinn matthew","similarity":0.911103}]}

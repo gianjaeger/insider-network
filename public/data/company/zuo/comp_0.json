@@ -1,0 +1,1 @@
+{"id":0,"company":"ZUO","nodes":[{"id":"mcelhatton todd","label":"mcelhatton todd","degree":1,"x":0.0,"y":1.0},{"id":"traube robert j.","label":"traube robert j.","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"mcelhatton todd","target":"traube robert j.","similarity":0.727241}]}

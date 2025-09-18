@@ -1,0 +1,1 @@
+{"id":0,"company":"ARDX","nodes":[{"id":"baskett forest","label":"baskett forest","degree":1,"x":0.0,"y":1.0},{"id":"sandell scott d","label":"sandell scott d","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"baskett forest","target":"sandell scott d","similarity":0.945378}]}

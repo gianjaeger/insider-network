@@ -1,0 +1,1 @@
+{"id":861,"nodes":[{"id":"leone douglas m","label":"leone douglas m","degree":1,"companies":["ELVT"],"x":0.0,"y":1.0},{"id":"moritz michael j","label":"moritz michael j","degree":1,"companies":["ELVT"],"x":1.0,"y":0.0}],"edges":[{"source":"leone douglas m","target":"moritz michael j","similarity":1.0,"companies":["ELVT"]}]}

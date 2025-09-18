@@ -1,0 +1,1 @@
+{"id":1,"company":"CIEN","nodes":[{"id":"hamilton rick","label":"hamilton rick","degree":1,"x":0.0,"y":1.0},{"id":"phipps jason","label":"phipps jason","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"hamilton rick","target":"phipps jason","similarity":0.862103}]}

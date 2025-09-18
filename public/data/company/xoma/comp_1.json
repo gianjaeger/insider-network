@@ -1,0 +1,1 @@
+{"id":1,"company":"XOMA","nodes":[{"id":"burns thomas m.","label":"burns thomas m.","degree":1,"x":0.0,"y":1.0},{"id":"neal james r","label":"neal james r","degree":1,"x":1.0,"y":0.0}],"edges":[{"source":"burns thomas m.","target":"neal james r","similarity":0.744009}]}
